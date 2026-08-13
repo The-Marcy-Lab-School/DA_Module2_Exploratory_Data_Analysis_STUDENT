@@ -72,7 +72,7 @@ real time left over, not a requirement of this week.
 ## Above & Beyond
 
 Only the additional items — everything above still applies and isn't
-repeated here. All four are detailed in `ABOVE_AND_BEYOND.md`.
+repeated here. All five are detailed in `ABOVE_AND_BEYOND.md`.
 
 - [ ] Find a **second** non-obvious pattern, from a different slice than
   the one you already wrote up.
@@ -84,3 +84,6 @@ repeated here. All four are detailed in `ABOVE_AND_BEYOND.md`.
 - [ ] Pick one question from your memo and actually try to answer it for
   real (a real search, not a guess) — write up what you found and whether
   it changed your confidence in your Part 3 pattern.
+- [ ] Run the given-code `above_and_beyond/pandas_preview.py` (a real
+  Module 4 pandas chain) and compare what it tells you to your own Part 3
+  finding.
