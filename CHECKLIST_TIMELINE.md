@@ -72,7 +72,7 @@ real time left over, not a requirement of this week.
 ## Above & Beyond
 
 Only the additional items — everything above still applies and isn't
-repeated here. All four are detailed in `ABOVE_AND_BEYOND.md`.
+repeated here. All five are detailed in `ABOVE_AND_BEYOND.md`.
 
 - [ ] Find a **second** non-obvious pattern, from a different slice than
   the one you already wrote up.
