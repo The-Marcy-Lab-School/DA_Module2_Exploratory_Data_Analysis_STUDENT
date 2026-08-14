@@ -67,3 +67,12 @@ code. When the notebook's done, write `starter/memo.md`. See `MVP.md` for
 the full scope and `CHECKLIST_TIMELINE.md` for the day-by-day pace. Commit
 incrementally as you go — a `git commit` after Part 2's cleaning is done,
 another after Part 4's charts, not one commit at the very end.
+
+## Before you submit: rewrite this file
+
+Everything above is setup instructions — useful before you start, not what
+anyone should see landing on your finished repo. **Once your analysis is
+done, replace this entire file's content** with your own project README:
+your scenario, a data overview, a statistical summary, your
+visualizations (real chart images, not just descriptions), and your
+takeaways. See `MVP.md` for exactly what's required.
