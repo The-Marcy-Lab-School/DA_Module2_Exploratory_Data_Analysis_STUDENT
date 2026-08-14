@@ -1,8 +1,34 @@
-# Checklist & Timeline — 2 Weeks
+# Checklist & Timeline — 10 Days
 
-Same sprint rhythm as Module 1: a fixed block of time, a clear goal
-(`MVP.md`), and a real stopping point. Every item below is also the actual
-submission checklist — work through it in order, top to bottom.
+This project runs as **one sprint**, 10 days long. Every item below is
+also the actual submission checklist — work through it in order, top to
+bottom.
+
+## What's a sprint, and why does this project run as one?
+
+A sprint is a short, fixed block of time where a team commits to a
+specific, achievable set of work, builds it, then **stops** — a real
+deadline, not an open-ended "whenever it's done." You had one rep of this
+in Module 1; here it is again, since sprint planning isn't a habit yet
+after just one round:
+
+- **The goal is fixed up front.** `MVP.md` *is* this sprint's plan — the
+  bar doesn't move once you start.
+- **Daily check-in.** At the start of each work session, ask yourself:
+  what did I finish last time, what am I doing today, is anything
+  blocking me? A real team does this out loud in ~10 minutes; here, it's
+  worth 2 minutes of honest self-check.
+- **The backlog is real work, deliberately not in this sprint.**
+  `ABOVE_AND_BEYOND.md` **is** this sprint's backlog — genuinely good,
+  legitimate work that doesn't fit in 10 days without cutting something
+  that matters more. A backlog isn't "things you failed to finish" — it's
+  how a team protects a real deadline by explicitly deciding what's *not*
+  in scope, on purpose, instead of letting "just one more thing" quietly
+  blow up the schedule.
+- **A sprint ends with a real stopping point**, not a status update. Once
+  `MVP.md` is done and pushed, the sprint is over — picking up a backlog
+  item afterward, if you have real time, is a bonus, not part of this
+  sprint.
 
 ## Day 1 — Setup, pick your domain
 
@@ -18,8 +44,8 @@ submission checklist — work through it in order, top to bottom.
   entry for your file read before opening the notebook.
 - [ ] The "Your Scenario" section at the top of `starter/analysis.ipynb`
   filled in (the "Data Overview" paragraph can wait until after Part 1).
-- [ ] Skim `MVP.md` (your goal) and `ABOVE_AND_BEYOND.md` so you know the
-  line between them before you start.
+- [ ] Skim `MVP.md` (your sprint goal) and `ABOVE_AND_BEYOND.md` (your
+  backlog) so you know the line between them before you start.
 
 ## Day 2-3 — Part 1 & 2: inspect, then clean
 
@@ -37,7 +63,8 @@ submission checklist — work through it in order, top to bottom.
   > ⚠️ Common mistake: dropping every row with any missing value by
   > default, without asking whether that's actually the right call for
   > *this* column.
-- [ ] Commit: `git commit -m "inspect and clean [domain] data"`.
+- [ ] Commit your work — a real, descriptive message you write yourself,
+  not a generic "update."
 
 ## Day 4-5 — Part 3: profile your key variables
 
@@ -49,7 +76,7 @@ submission checklist — work through it in order, top to bottom.
   > whether the summary numbers agree.
 - [ ] Shape and outlier calls written for each of the 3, in your own
   words.
-- [ ] Commit: `git commit -m "profile 3 key variables"`.
+- [ ] Commit your work.
 
 ## Day 6-7 — Part 4: relationships and segments
 
@@ -65,10 +92,10 @@ submission checklist — work through it in order, top to bottom.
   > variable without acknowledging the mismatch.
   > ⚠️ Common mistake: treating a pattern found in a very small slice of
   > the data as a reliable finding — check how many rows are behind it.
-- [ ] Commit: `git commit -m "explore relationships, find a pattern"`.
+- [ ] Commit your work.
 
-**Exit criterion:** at least 3 real commits pushed to GitHub by end of
-Week 1 — `git log --oneline` should already tell a real story.
+**Exit criterion:** at least 3 real commits pushed to GitHub by the end of
+Day 7 — `git log --oneline` should already tell a real story.
 
 ## Day 8 — Part 5: two real AI critiques
 
@@ -95,7 +122,7 @@ Week 1 — `git log --oneline` should already tell a real story.
   imputation decisions affect your confidence in it.
 - [ ] Part 7: the standard-deviation/volatility question answered in your
   own words, tied to your own computed number.
-- [ ] Commit: `git commit -m "AI-vision exercise, answer business problem"`.
+- [ ] Commit your work.
 
 ## Day 10 — The findings report, data-quality memo, final review
 
@@ -117,16 +144,19 @@ Week 1 — `git log --oneline` should already tell a real story.
   debugging cells or dead code.
 - [ ] Full self-check against `MVP.md`.
 - [ ] Final commit(s) pushed — `git log --oneline` should show 4+ commits
-  total, each with a real message. Repo confirmed public.
+  total, each with a real message you wrote yourself. Repo confirmed
+  public.
 
 **Exit criterion:** everything in `MVP.md` is done and pushed. That's the
-whole submission. `ABOVE_AND_BEYOND.md` is exactly that — optional, for
-real time left over, not a requirement of these 2 weeks.
+whole sprint. `ABOVE_AND_BEYOND.md` — your backlog — is exactly that:
+optional, for real time left over, not a requirement of these 10 days.
 
-## Above & Beyond
+## Above & Beyond (Your Backlog)
 
 Only the additional items — everything above still applies and isn't
-repeated here. All four are detailed in `ABOVE_AND_BEYOND.md`.
+repeated here. All four are detailed in `ABOVE_AND_BEYOND.md`. Picking one
+up *after* Day 10, if you have real time, is a bonus sprint — not part of
+this one.
 
 - [ ] Find a **second** non-obvious pattern, from a different slice of the
   data than the one your business problem already led you to.
