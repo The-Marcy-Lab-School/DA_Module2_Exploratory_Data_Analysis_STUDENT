@@ -4,84 +4,95 @@ Same sprint rhythm as Module 1: a fixed block of time, a clear goal
 (`MVP.md`), and a real stopping point. Every item below is also the actual
 submission checklist — work through it in order, top to bottom.
 
-## Day 1 — Setup, pick your stakeholder
+## Day 1 — Setup, pick your domain
 
 - [ ] Repo created from the template via **"Use this template"** (not
   Fork), cloned locally — see `README.md`.
-- [ ] `requirements.txt` installed **(this now includes Polars — new this
-  module)**; `.gitignore`/`LICENSE`/git history confirmed already present;
-  `LICENSE`'s `[YOUR NAME]` placeholder replaced with your actual name,
-  committed.
+- [ ] `requirements.txt` installed; `.gitignore`/`LICENSE`/git history
+  confirmed already present; `LICENSE`'s `[YOUR NAME]` placeholder replaced
+  with your actual name, committed.
 - [ ] An AI assistant that accepts image uploads confirmed working —
-  you'll need it in Week 2, don't discover it's missing then.
-- [ ] `data/SOURCE.md` read before opening the notebook — know what this
-  dataset is and what's already known to be messy about it.
-- [ ] All 4 scenarios in `SCENARIOS.md` read; one picked. Restate your
-  stakeholder's actual question in your own words before moving on.
+  you'll need it in Part 5, don't discover it's missing then.
+- [ ] All 4 domains in `SCENARIOS.md` read; one picked. `data/SOURCE.md`'s
+  entry for your file read before opening the notebook.
 - [ ] Skim `MVP.md` (your goal) and `ABOVE_AND_BEYOND.md` so you know the
   line between them before you start.
 
-## Day 2-3 — Part 1: pandas exploration
+## Day 2-3 — Part 1 & 2: inspect, then clean
 
-- [ ] `starter/analysis.ipynb` opened; the setup cell and the `mass (g)`
-  worked example run, and its given interpretation actually read (it's the
-  model for what you write yourself next).
-- [ ] Real pandas code written to explore the variable(s) your
-  stakeholder's question actually needs — at least one grouped summary,
-  at least one sort or filter. Expect more than one attempt before you
-  find something worth reporting.
+- [ ] `starter/analysis.ipynb`'s setup cell filled in with your chosen
+  file, and run.
+- [ ] Part 1: shape, dtypes, and missing-value counts genuinely
+  inspected — you choose the methods.
+- [ ] Part 2: **at least one real cleaning function written and used** —
+  not inline code copy-pasted for each fix.
+  > ⚠️ Common mistake: writing the same cleaning logic 2-3 times inline
+  > instead of once as a function — if you're copy-pasting a fix, it
+  > should be a function.
+- [ ] An imputation decision made and justified in writing for at least
+  one column with real missing values.
+  > ⚠️ Common mistake: dropping every row with any missing value by
+  > default, without asking whether that's actually the right call for
+  > *this* column.
+- [ ] Commit: `git commit -m "inspect and clean [domain] data"`.
+
+## Day 4-5 — Part 3: profile your key variables
+
+- [ ] At least 3 numeric variables profiled — each with a five-number-
+  summary-style computation and at least one chart (histogram, boxplot,
+  or another type that fits).
   > ⚠️ Common mistake: describing a distribution as symmetric or normal
-  > without looking at the histogram — glance at the shape first, then
-  > check whether the five-number summary agrees.
-- [ ] What you found written up in your own words, tied to real numbers.
-- [ ] Commit: `git commit -m "pandas exploration for [stakeholder]'s question"`.
+  > without looking at the chart — look at the shape first, then check
+  > whether the summary numbers agree.
+- [ ] Shape and outlier calls written for each of the 3, in your own
+  words.
+- [ ] Commit: `git commit -m "profile 3 key variables"`.
 
-## Day 4-5 — Part 2: the same analysis in Polars, and the real tradeoffs
+## Day 6-7 — Part 4: relationships and segments
 
-- [ ] The Polars worked example run and read.
-- [ ] Your Part 1 core analysis redone in Polars — same question, new
-  syntax.
-- [ ] The timing-comparison cell run **twice in a row**, not just once —
-  watch what happens to Polars' number the second time.
-  > ⚠️ Common mistake: reporting a single timing run as "the" answer —
-  > run it more than once before drawing a conclusion, same discipline as
-  > not trusting a single data point anywhere else in this project.
-- [ ] All 4 tradeoffs-reflection questions answered for real, tied to your
-  own numbers and your own syntax friction — not a generic "Polars is
-  faster" restatement from outside reading.
-- [ ] Commit: `git commit -m "redo analysis in Polars, tradeoffs reflection"`.
+- [ ] A relationship or segment explored with a chart type that actually
+  fits (bar/boxplot-by-category, line graph for a trend, scatterplot for
+  two numeric variables) — and the choice justified in a sentence.
+  > ⚠️ Common mistake: using a histogram or bar chart out of habit when
+  > the actual question is about a trend over time or a relationship
+  > between two variables.
+- [ ] One non-obvious finding stated, backed by the statistic (mean or
+  median) that fits your variable's actual skew.
+  > ⚠️ Common mistake: using the mean by default on a visibly skewed
+  > variable without acknowledging the mismatch.
+  > ⚠️ Common mistake: treating a pattern found in a very small slice of
+  > the data as a reliable finding — check how many rows are behind it.
+- [ ] Commit: `git commit -m "explore relationships, find a pattern"`.
 
-**Exit criterion:** at least 2 real commits pushed to GitHub by end of
+**Exit criterion:** at least 3 real commits pushed to GitHub by end of
 Week 1 — `git log --oneline` should already tell a real story.
 
-## Day 6 — Part 3: generate a chart, get an AI's read on it
+## Day 8 — Part 5: generate a chart, get an AI's read on it
 
 - [ ] A real chart generated from your own exploration and saved as an
-  actual image file (`my_chart.png` or similar) — confirmed it exists,
-  not just that the cell ran.
+  actual image file — confirmed it exists, not just that the cell ran.
 - [ ] That image actually uploaded to an AI assistant, and its real,
   verbatim response pasted into the notebook.
   > ⚠️ Common mistake: paraphrasing or summarizing the AI's response
-  > instead of pasting what it actually said — the critique needs the real
-  > text to be checkable.
-- [ ] A real critique written: does the AI's read match your own
-  five-number summary? Where does it agree or fall short?
+  > instead of pasting what it actually said — the critique needs the
+  > real text to be checkable.
+- [ ] A real critique written: does the AI's read match your own numbers?
 
-## Day 7 — Part 4 & 5: answer the question, explain the spread
+## Day 9 — Part 6 & 7: answer the business problem, explain the spread
 
-- [ ] Part 4: a direct answer to your stakeholder's question, backed by
-  the correct statistic (mean or median) for your variable's actual skew.
-- [ ] Part 5: the standard-deviation/volatility question answered in your
-  own words, tied to the real number from `mass (g)`'s five-number
-  summary.
-- [ ] Commit: `git commit -m "AI-vision exercise, answer stakeholder question"`.
+- [ ] Part 6: a direct answer to your stakeholder's business problem,
+  backed by the correct statistic, mentioning how your cleaning/
+  imputation decisions affect your confidence in it.
+- [ ] Part 7: the standard-deviation/volatility question answered in your
+  own words, tied to your own computed number.
+- [ ] Commit: `git commit -m "AI-vision exercise, answer business problem"`.
 
-## Day 8 — The findings report & data-quality memo
+## Day 10 — The findings report, data-quality memo, final review
 
-- [ ] `starter/memo.md` written: your stakeholder named, your answer to
-  their question restated for a non-technical reader, **at least 2
-  specific, checkable questions** about this dataset's origin,
-  completeness, or bias.
+- [ ] `starter/memo.md` written: your domain/stakeholder named, your
+  answer restated for a non-technical reader, **at least 2 specific,
+  checkable questions** about this dataset's origin, completeness, or
+  bias.
   > ⚠️ Common mistake: writing a question too generic to actually be
   > checkable, like "is this data accurate?" — a real data steward should
   > be able to answer your question with a specific fact.
@@ -89,13 +100,9 @@ Week 1 — `git log --oneline` should already tell a real story.
   questions back to whether your stakeholder should trust your answer.
 - [ ] Clean sweep: notebook runs top-to-bottom without errors, no leftover
   debugging cells or dead code.
-
-## Day 9 — Final review
-
-- [ ] Full self-check against `MVP.md`, top to bottom.
+- [ ] Full self-check against `MVP.md`.
 - [ ] Final commit(s) pushed — `git log --oneline` should show 4+ commits
-  total, each with a real message.
-- [ ] Repo confirmed public.
+  total, each with a real message. Repo confirmed public.
 
 **Exit criterion:** everything in `MVP.md` is done and pushed. That's the
 whole submission. `ABOVE_AND_BEYOND.md` is exactly that — optional, for
@@ -104,14 +111,12 @@ real time left over, not a requirement of these 2 weeks.
 ## Above & Beyond
 
 Only the additional items — everything above still applies and isn't
-repeated here. All five are detailed in `ABOVE_AND_BEYOND.md`.
+repeated here. All four are detailed in `ABOVE_AND_BEYOND.md`.
 
 - [ ] Find a **second** non-obvious pattern, from a different slice of the
-  data than the one your stakeholder's question already led you to.
-- [ ] Scale the dataset up (concatenate it with itself many times over)
-  and re-run the timing comparison — does the winner change at real scale?
-- [ ] Answer a **second** stakeholder's question from `SCENARIOS.md`,
-  briefly, using what you already built.
+  data than the one your business problem already led you to.
+- [ ] Answer a **second** domain's business problem, briefly, using its
+  own data file.
 - [ ] Pick one memo question and actually try to answer it for real (a
   real search, not a guess) — write up what you found and whether it
   changed your confidence in your answer.

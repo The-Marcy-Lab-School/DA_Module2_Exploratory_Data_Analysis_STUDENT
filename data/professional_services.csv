@@ -1,0 +1,2201 @@
+project_id,service_type,client_industry,partner_assigned,start_date,end_date,billed_hours
+PRJ-10000,Litigation Support,Manufacturing,L. Fitzgerald,2022-08-17,2022-09-05,283.2
+PRJ-10001,Audit,Manufacturing,L. Fitzgerald,2023-07-13,2023-09-03,188.8
+PRJ-10002,Audit,Technology,J. Alvarez,2022-08-12,2022-08-30,101.9
+PRJ-10003,Audit,Financial Services,J. Alvarez,2023-10-28,2023-11-30,362.5
+PRJ-10004,Strategy Consulting,Technology,S. Chen,2022-10-12,2022-11-10,108.0
+PRJ-10005,Strategy Consulting,Manufacturing,S. Chen,2022-12-15,2022-12-30,108.4
+PRJ-10006,Audit,Retail,M. Okafor,2023-01-25,2023-01-31,142.1
+PRJ-10007,Audit,Real Estate,M. Okafor,2022-02-14,2022-02-28,-35.9
+PRJ-10008,Strategy Consulting,Financial Services,J. Alvarez,2023-01-23,2023-02-17,73.8
+PRJ-10009,Audit,Healthcare,L. Fitzgerald,2023-01-06,2023-01-14,63.6
+PRJ-10010,Litigation Support,Nonprofit,J. Alvarez,2022-08-22,2022-09-09,558.0
+PRJ-10011,Strategy Consulting,Manufacturing,S. Chen,2023-01-25,2023-02-02,157.3
+PRJ-10012,Audit,Nonprofit,M. Okafor,2022-12-30,2023-01-21,82.0
+PRJ-10013,Audit,Healthcare,L. Fitzgerald,2023-10-26,2023-11-21,53.6
+PRJ-10014,Audit,Nonprofit,S. Chen,2022-09-08,2022-09-25,78.8
+PRJ-10015,Audit,Technology,M. Okafor,2023-10-18,2023-12-20,78.8
+PRJ-10016,Litigation Support,Retail,L. Fitzgerald,2022-02-27,2022-03-10,198.1
+PRJ-10017,Audit,Manufacturing,M. Okafor,2022-03-09,2022-03-19,213.4
+PRJ-10018,Audit,Financial Services,L. Fitzgerald,2023-11-03,2023-11-09,138.9
+PRJ-10019,Tax Advisory,Nonprofit,R. Petrov,2022-05-23,2022-06-15,23.7
+PRJ-10020,Audit,Financial Services,T. Nakamura,2023-08-22,2023-09-14,201.2
+PRJ-10021,Tax Advisory,Financial Services,R. Petrov,2022-05-22,2022-06-08,55.3
+PRJ-10022,Tax Advisory,Manufacturing,J. Alvarez,2022-06-06,2022-06-19,21.3
+PRJ-10023,Litigation Support,Real Estate,L. Fitzgerald,2022-03-07,2022-04-15,144.9
+PRJ-10024,Tax Advisory,Financial Services,R. Petrov,2023-07-21,2023-07-28,76.3
+PRJ-10025,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-11-30,2023-12-16,188.2
+PRJ-10026,Strategy Consulting,Real Estate,M. Okafor,2022-12-15,2023-01-14,93.4
+PRJ-10027,Audit,Technology,S. Chen,2022-09-27,2022-11-02,247.0
+PRJ-10028,Strategy Consulting,Real Estate,S. Chen,2022-04-19,2022-05-06,83.4
+PRJ-10029,Strategy Consulting,Healthcare,L. Fitzgerald,2022-07-23,2022-08-29,
+PRJ-10030,Audit,Real Estate,S. Chen,2023-06-28,2023-07-16,85.8
+PRJ-10031,Strategy Consulting,Financial Services,M. Okafor,2022-04-25,2022-05-05,69.1
+PRJ-10032,Strategy Consulting,Real Estate,M. Okafor,2022-09-04,2022-10-21,264.9
+PRJ-10033,Strategy Consulting,Manufacturing,J. Alvarez,2022-03-12,2022-04-19,142.6
+PRJ-10034,Strategy Consulting,Financial Services,S. Chen,2023-05-02,2023-05-16,193.2
+PRJ-10035,Strategy Consulting,Retail,M. Okafor,2023-09-14,2023-11-05,193.2
+PRJ-10036,Tax Advisory,Retail,T. Nakamura,2022-07-25,2022-09-16,58.5
+PRJ-10037,Strategy Consulting,Technology,L. Fitzgerald,2023-03-25,2023-04-28,24.0
+PRJ-10038,Strategy Consulting,Technology,J. Alvarez,2022-03-07,2022-03-24,159.4
+PRJ-10039,Tax Advisory,Financial Services,T. Nakamura,2022-08-14,2022-08-20,64.0
+PRJ-10040,Audit,Nonprofit,L. Fitzgerald,2022-03-11,2022-04-06,102.9
+PRJ-10041,Strategy Consulting,Real Estate,M. Okafor,2022-09-01,2022-09-16,422.1
+PRJ-10042,Audit,Technology,S. Chen,2023-08-08,2023-08-23,68.1
+PRJ-10043,Litigation Support,Retail,R. Petrov,2022-07-14,2022-08-08,379.6
+PRJ-10044,Audit,Nonprofit,R. Petrov,2023-02-25,2023-03-25,82.8
+PRJ-10045,Tax Advisory,Nonprofit,J. Alvarez,2023-10-24,2023-11-30,64.2
+PRJ-10046,Audit,Technology,L. Fitzgerald,2022-04-22,2022-05-09,73.4
+PRJ-10047,Audit,Retail,T. Nakamura,2023-03-09,2023-03-17,91.2
+PRJ-10048,Audit,Technology,S. Chen,2022-03-19,2022-04-12,147.6
+PRJ-10049,Tax Advisory,Real Estate,T. Nakamura,2023-10-30,2023-11-17,60.2
+PRJ-10050,Strategy Consulting,Real Estate,J. Alvarez,2022-08-31,2022-09-16,55.7
+PRJ-10051,Audit,Technology,R. Petrov,2023-02-15,2023-02-27,94.4
+PRJ-10052,Strategy Consulting,Retail,R. Petrov,2023-04-11,2023-05-07,1438.1
+PRJ-10053,Audit,Nonprofit,L. Fitzgerald,2023-07-24,2023-08-16,449.4
+PRJ-10054,Litigation Support,Technology,S. Chen,2022-08-11,2022-08-31,-239.5
+PRJ-10055,Strategy Consulting,Financial Services,L. Fitzgerald,2022-11-18,2022-12-08,39.2
+PRJ-10056,Audit,Financial Services,R. Petrov,2023-06-28,2023-09-28,125.2
+PRJ-10057,Audit,Financial Services,J. Alvarez,2022-03-12,2022-04-06,104.9
+PRJ-10058,Litigation Support,Nonprofit,S. Chen,2023-08-07,2023-08-17,195.2
+PRJ-10059,Audit,Financial Services,J. Alvarez,2023-03-06,2023-04-07,267.1
+PRJ-10060,Litigation Support,Financial Services,T. Nakamura,2022-09-25,2022-10-07,347.9
+PRJ-10061,Audit,Nonprofit,M. Okafor,2023-02-10,2023-02-19,320.4
+PRJ-10062,Audit,Nonprofit,M. Okafor,2022-03-16,2022-06-02,181.0
+PRJ-10063,Audit,Financial Services,T. Nakamura,2022-03-17,2022-03-31,60.0
+PRJ-10064,Tax Advisory,Financial Services,M. Okafor,2022-12-24,2023-01-08,64.3
+PRJ-10065,Strategy Consulting,Retail,M. Okafor,2023-03-25,2023-04-15,50.7
+PRJ-10066,Strategy Consulting,Nonprofit,M. Okafor,2023-11-01,2023-11-28,71.3
+PRJ-10067,Tax Advisory,Nonprofit,T. Nakamura,2023-11-11,,31.5
+PRJ-10068,Audit,Retail,M. Okafor,2022-04-20,2022-05-07,69.4
+PRJ-10069,Strategy Consulting,Retail,M. Okafor,2022-08-04,2022-08-14,265.1
+PRJ-10070,Strategy Consulting,Retail,L. Fitzgerald,2022-09-28,2022-11-13,175.9
+PRJ-10071,Tax Advisory,Healthcare,J. Alvarez,2023-03-10,2023-04-02,19.5
+PRJ-10072,Strategy Consulting,Manufacturing,J. Alvarez,2022-05-14,2022-06-16,179.9
+PRJ-10073,Litigation Support,Healthcare,S. Chen,2023-07-19,2023-07-28,
+PRJ-10074,Strategy Consulting,Financial Services,J. Alvarez,2022-06-02,2022-06-27,216.2
+PRJ-10075,Tax Advisory,Real Estate,M. Okafor,2022-06-01,2022-06-26,71.5
+PRJ-10076,Tax Advisory,Manufacturing,M. Okafor,2022-02-10,2022-03-06,37.3
+PRJ-10077,Strategy Consulting,Retail,L. Fitzgerald,2022-04-16,2022-04-29,184.2
+PRJ-10078,Tax Advisory,Financial Services,R. Petrov,2022-06-08,2022-07-05,221.5
+PRJ-10079,Strategy Consulting,Retail,S. Chen,2022-07-01,2022-08-01,65.2
+PRJ-10080,Strategy Consulting,Manufacturing,S. Chen,2022-12-07,2023-01-09,75.8
+PRJ-10081,Strategy Consulting,Technology,L. Fitzgerald,2022-09-12,2022-09-24,337.5
+PRJ-10082,Audit,Real Estate,L. Fitzgerald,2022-02-09,2022-03-07,235.5
+PRJ-10083,Strategy Consulting,Retail,S. Chen,2023-04-17,2023-06-21,266.7
+PRJ-10084,Tax Advisory,Real Estate,S. Chen,2023-11-07,2023-11-20,50.5
+PRJ-10085,Audit,Healthcare,M. Okafor,2022-10-13,2022-10-25,64.4
+PRJ-10086,Tax Advisory,Financial Services,R. Petrov,2023-07-04,2023-07-29,56.8
+PRJ-10087,Tax Advisory,Manufacturing,J. Alvarez,2022-09-25,2022-10-29,72.8
+PRJ-10088,Audit,Healthcare,J. Alvarez,2023-03-21,2023-05-10,121.1
+PRJ-10089,Tax Advisory,Real Estate,M. Okafor,2023-06-08,2023-09-23,49.9
+PRJ-10090,Audit,Financial Services,S. Chen,2023-03-23,2023-04-04,185.9
+PRJ-10091,Audit,Real Estate,T. Nakamura,2023-11-18,2023-12-16,56.7
+PRJ-10092,Audit,Technology,J. Alvarez,2022-12-05,2023-01-06,102.6
+PRJ-10093,Litigation Support,Nonprofit,J. Alvarez,2022-11-04,2022-11-24,278.5
+PRJ-10094,Tax Advisory,Nonprofit,R. Petrov,2022-10-30,2022-11-07,33.2
+PRJ-10095,Litigation Support,Retail,R. Petrov,2023-01-24,2023-02-28,146.3
+PRJ-10096,Litigation Support,Retail,T. Nakamura,2023-02-20,2023-03-01,
+PRJ-10097,Tax Advisory,Manufacturing,M. Okafor,2023-03-17,2023-04-12,67.7
+PRJ-10098,Strategy Consulting,Financial Services,L. Fitzgerald,2023-03-29,2023-04-21,80.8
+PRJ-10099,Tax Advisory,Retail,T. Nakamura,2022-06-23,2022-07-03,62.5
+PRJ-10100,Litigation Support,Healthcare,T. Nakamura,2023-09-27,2023-10-26,256.9
+PRJ-10101,Tax Advisory,Real Estate,S. Chen,2022-08-19,2022-09-27,128.1
+PRJ-10102,Strategy Consulting,Retail,J. Alvarez,2023-05-02,2023-05-13,57.2
+PRJ-10103,Litigation Support,Real Estate,J. Alvarez,2023-10-07,2023-11-04,286.8
+PRJ-10104,Litigation Support,Nonprofit,L. Fitzgerald,2023-02-14,2023-09-13,286.8
+PRJ-10105,Audit,Nonprofit,L. Fitzgerald,2022-04-20,2022-05-31,2372.3
+PRJ-10106,Strategy Consulting,Retail,S. Chen,2023-06-15,2023-07-16,292.5
+PRJ-10107,Tax Advisory,Financial Services,S. Chen,2022-05-05,2022-06-07,48.1
+PRJ-10108,Tax Advisory,Real Estate,R. Petrov,2023-07-27,2023-08-14,34.9
+PRJ-10109,Litigation Support,Real Estate,R. Petrov,2023-06-01,2023-06-23,142.4
+PRJ-10110,Tax Advisory,Financial Services,R. Petrov,2023-05-02,2023-05-08,303.3
+PRJ-10111,Tax Advisory,Real Estate,S. Chen,2022-10-11,2022-10-18,
+PRJ-10112,Strategy Consulting,Financial Services,R. Petrov,2022-10-09,2022-11-18,107.8
+PRJ-10113,Tax Advisory,Nonprofit,M. Okafor,2022-12-10,2022-12-20,62.8
+PRJ-10114,Tax Advisory,Financial Services,J. Alvarez,2022-08-25,2022-09-25,36.4
+PRJ-10115,Tax Advisory,Retail,L. Fitzgerald,2023-03-01,2023-03-24,36.0
+PRJ-10116,Tax Advisory,Financial Services,R. Petrov,2022-07-31,2022-08-14,61.9
+PRJ-10117,Strategy Consulting,Technology,T. Nakamura,2022-01-21,2022-02-20,672.8
+PRJ-10118,Strategy Consulting,Real Estate,T. Nakamura,2022-01-07,2022-01-30,36.3
+PRJ-10119,Strategy Consulting,Healthcare,R. Petrov,2023-03-06,2023-04-10,94.4
+PRJ-10120,Tax Advisory,Nonprofit,T. Nakamura,2022-08-14,2022-09-02,34.5
+PRJ-10121,Tax Advisory,Healthcare,R. Petrov,2023-02-03,2023-03-10,85.4
+PRJ-10122,Tax Advisory,Nonprofit,R. Petrov,2023-04-24,2023-05-11,25.9
+PRJ-10123,Strategy Consulting,Financial Services,T. Nakamura,2023-02-08,2023-02-22,107.6
+PRJ-10124,Litigation Support,Nonprofit,J. Alvarez,2023-03-15,2023-04-10,688.2
+PRJ-10125,Audit,Technology,S. Chen,2023-01-24,2023-03-01,49.6
+PRJ-10126,Tax Advisory,Technology,M. Okafor,2023-01-24,2023-03-04,265.0
+PRJ-10127,Audit,Real Estate,R. Petrov,2022-03-25,2022-04-09,41.4
+PRJ-10128,Tax Advisory,Nonprofit,T. Nakamura,2022-12-25,2023-01-07,145.6
+PRJ-10129,Audit,Manufacturing,L. Fitzgerald,2022-02-01,2022-03-06,163.7
+PRJ-10130,Strategy Consulting,Retail,J. Alvarez,2022-09-02,2022-09-22,78.4
+PRJ-10131,Audit,Nonprofit,J. Alvarez,2022-08-12,2022-08-23,12.4
+PRJ-10132,Tax Advisory,Healthcare,M. Okafor,2023-09-14,2023-09-23,50.3
+PRJ-10133,Strategy Consulting,Nonprofit,J. Alvarez,2022-06-17,2022-06-25,470.3
+PRJ-10134,Strategy Consulting,Manufacturing,T. Nakamura,2022-11-16,2022-12-08,110.2
+PRJ-10135,Litigation Support,Technology,R. Petrov,2022-07-23,2022-07-31,548.5
+PRJ-10136,Audit,Nonprofit,L. Fitzgerald,2022-11-05,2022-11-26,270.9
+PRJ-10137,Strategy Consulting,Financial Services,J. Alvarez,2023-08-03,2023-08-30,75.5
+PRJ-10138,Strategy Consulting,Healthcare,T. Nakamura,2023-01-15,2023-01-29,172.4
+PRJ-10139,Audit,Nonprofit,M. Okafor,2023-03-07,2023-03-23,126.0
+PRJ-10140,Strategy Consulting,Manufacturing,R. Petrov,2023-10-13,2023-11-13,162.4
+PRJ-10141,Strategy Consulting,Technology,L. Fitzgerald,2022-06-30,2022-07-09,455.3
+PRJ-10142,Strategy Consulting,Nonprofit,M. Okafor,2023-07-06,2023-07-12,667.6
+PRJ-10143,Strategy Consulting,Technology,R. Petrov,2023-08-30,2023-09-28,134.9
+PRJ-10144,Audit,Real Estate,S. Chen,2022-03-30,2022-04-13,146.1
+PRJ-10145,Audit,Technology,S. Chen,2023-08-07,2023-08-22,103.7
+PRJ-10146,Litigation Support,Technology,M. Okafor,2022-11-29,2023-01-02,132.4
+PRJ-10147,Audit,Retail,M. Okafor,2022-12-15,2022-12-28,154.1
+PRJ-10148,Audit,Financial Services,L. Fitzgerald,2023-07-24,2023-08-18,225.3
+PRJ-10149,Audit,Retail,J. Alvarez,2023-02-21,2023-03-23,212.0
+PRJ-10150,Tax Advisory,Real Estate,S. Chen,2023-10-24,2023-11-08,33.6
+PRJ-10151,Strategy Consulting,Technology,J. Alvarez,2022-08-15,2022-09-14,253.1
+PRJ-10152,Tax Advisory,Retail,M. Okafor,2023-01-13,2023-02-04,59.1
+PRJ-10153,Tax Advisory,Financial Services,M. Okafor,2023-07-18,2023-08-01,146.7
+PRJ-10154,Tax Advisory,Nonprofit,R. Petrov,2022-09-15,2022-10-03,88.0
+PRJ-10155,Audit,Nonprofit,S. Chen,2023-07-03,2023-08-12,103.0
+PRJ-10156,Strategy Consulting,Nonprofit,S. Chen,2023-05-11,2023-06-14,267.3
+PRJ-10157,Audit,Financial Services,T. Nakamura,2022-04-13,2022-05-04,299.3
+PRJ-10158,Strategy Consulting,Healthcare,S. Chen,2022-11-06,2022-11-23,241.8
+PRJ-10159,Audit,Financial Services,S. Chen,2022-02-25,2022-03-16,150.6
+PRJ-10160,Litigation Support,Nonprofit,S. Chen,2023-05-18,2023-06-17,214.1
+PRJ-10161,Audit,Manufacturing,T. Nakamura,2023-05-06,2023-07-18,67.7
+PRJ-10162,Tax Advisory,Retail,J. Alvarez,2023-05-05,2023-05-15,29.7
+PRJ-10163,Audit,Manufacturing,R. Petrov,2023-08-14,2023-09-16,269.9
+PRJ-10164,Litigation Support,Manufacturing,S. Chen,2023-07-31,2023-08-30,309.6
+PRJ-10165,Strategy Consulting,Manufacturing,S. Chen,2023-03-03,2023-03-15,148.7
+PRJ-10166,Litigation Support,Real Estate,T. Nakamura,2023-06-20,2023-07-03,210.9
+PRJ-10167,Tax Advisory,Technology,M. Okafor,2023-03-16,2023-04-04,118.7
+PRJ-10168,Tax Advisory,Financial Services,J. Alvarez,2022-04-12,2022-04-29,
+PRJ-10169,Strategy Consulting,Retail,L. Fitzgerald,2023-11-08,2023-11-22,200.3
+PRJ-10170,Audit,Retail,S. Chen,2022-06-10,2022-07-04,67.5
+PRJ-10171,Audit,Technology,L. Fitzgerald,2022-10-26,2022-11-10,142.4
+PRJ-10172,Audit,Healthcare,L. Fitzgerald,2023-04-10,2023-05-04,86.3
+PRJ-10173,Audit,Retail,M. Okafor,2023-10-03,2023-10-12,43.5
+PRJ-10174,Litigation Support,Real Estate,S. Chen,2023-07-12,2023-07-30,121.0
+PRJ-10175,Audit,Retail,M. Okafor,2022-03-15,2022-05-04,149.2
+PRJ-10176,Audit,Real Estate,M. Okafor,2023-08-06,2023-08-25,218.7
+PRJ-10177,Strategy Consulting,Technology,J. Alvarez,2022-11-08,2022-11-19,148.0
+PRJ-10178,Litigation Support,Healthcare,T. Nakamura,2023-03-25,2023-04-11,197.4
+PRJ-10179,Audit,Manufacturing,R. Petrov,2023-09-11,2023-09-23,
+PRJ-10180,Audit,Manufacturing,S. Chen,2023-08-13,2023-10-04,172.6
+PRJ-10181,Litigation Support,Manufacturing,L. Fitzgerald,2023-08-14,2023-09-09,185.3
+PRJ-10182,Audit,Real Estate,S. Chen,2023-10-30,2023-11-15,194.5
+PRJ-10183,Tax Advisory,Healthcare,S. Chen,2023-03-23,2023-04-13,70.2
+PRJ-10184,Litigation Support,Technology,J. Alvarez,2023-02-23,2023-03-08,
+PRJ-10185,Tax Advisory,Nonprofit,J. Alvarez,2022-12-04,2023-01-01,61.0
+PRJ-10186,Tax Advisory,Technology,M. Okafor,2023-02-15,2023-03-24,165.7
+PRJ-10187,Strategy Consulting,Financial Services,J. Alvarez,2022-11-19,2022-12-02,677.1
+PRJ-10188,Audit,Manufacturing,R. Petrov,2022-01-02,2022-01-25,221.0
+PRJ-10189,Litigation Support,Financial Services,R. Petrov,2022-07-12,2022-07-24,926.3
+PRJ-10190,Tax Advisory,Financial Services,R. Petrov,2022-02-22,2022-03-08,33.3
+PRJ-10191,Audit,Financial Services,S. Chen,2023-03-25,2023-04-09,27.1
+PRJ-10192,Strategy Consulting,Technology,J. Alvarez,2023-10-08,2023-10-30,88.2
+PRJ-10193,Litigation Support,Retail,L. Fitzgerald,2023-07-19,2023-09-21,254.1
+PRJ-10194,Audit,Technology,J. Alvarez,2022-04-27,2022-05-11,233.4
+PRJ-10195,Tax Advisory,Manufacturing,L. Fitzgerald,2023-05-26,2023-06-23,32.0
+PRJ-10196,Strategy Consulting,Healthcare,T. Nakamura,2023-03-02,2023-05-04,59.5
+PRJ-10197,Strategy Consulting,Technology,S. Chen,2022-05-29,2022-06-13,342.5
+PRJ-10198,Tax Advisory,Financial Services,T. Nakamura,2022-05-20,2022-07-06,18.1
+PRJ-10199,Strategy Consulting,Healthcare,R. Petrov,2023-06-04,2023-07-18,138.4
+PRJ-10200,Audit,Manufacturing,M. Okafor,2023-08-25,2023-09-08,39.3
+PRJ-10201,Litigation Support,Nonprofit,R. Petrov,2023-04-03,2023-04-24,200.7
+PRJ-10202,Tax Advisory,Healthcare,M. Okafor,2023-07-11,2023-08-10,43.8
+PRJ-10203,Tax Advisory,Healthcare,S. Chen,2022-09-02,2022-09-21,28.4
+PRJ-10204,Litigation Support,Retail,R. Petrov,2023-04-30,2023-05-28,217.6
+PRJ-10205,Strategy Consulting,Real Estate,R. Petrov,2023-11-11,2023-11-21,246.8
+PRJ-10206,Strategy Consulting,Nonprofit,S. Chen,2022-02-07,2022-03-24,51.3
+PRJ-10207,Audit,Financial Services,M. Okafor,2023-03-27,2023-04-09,151.4
+PRJ-10208,Audit,Technology,J. Alvarez,2023-02-24,2023-03-18,355.4
+PRJ-10209,Strategy Consulting,Retail,J. Alvarez,2022-09-29,2022-10-20,342.5
+PRJ-10210,Tax Advisory,Nonprofit,R. Petrov,2022-12-03,2023-02-01,253.9
+PRJ-10211,Strategy Consulting,Real Estate,T. Nakamura,2022-11-21,2022-12-28,126.0
+PRJ-10212,Litigation Support,Real Estate,R. Petrov,2022-02-06,2022-03-25,314.2
+PRJ-10213,Litigation Support,Retail,L. Fitzgerald,2022-10-22,2022-11-22,101.8
+PRJ-10214,Strategy Consulting,Nonprofit,J. Alvarez,2022-04-11,2022-04-18,314.7
+PRJ-10215,Strategy Consulting,Nonprofit,J. Alvarez,2022-11-03,2022-11-09,65.5
+PRJ-10216,Strategy Consulting,Manufacturing,M. Okafor,2022-10-28,2022-11-29,124.2
+PRJ-10217,Tax Advisory,Technology,S. Chen,2023-02-26,2023-03-19,171.7
+PRJ-10218,Litigation Support,Real Estate,S. Chen,2022-03-22,2022-03-31,625.4
+PRJ-10219,Litigation Support,Technology,T. Nakamura,2023-05-25,2023-06-14,60.7
+PRJ-10220,Strategy Consulting,Retail,S. Chen,2022-09-18,2022-10-08,196.3
+PRJ-10221,Tax Advisory,Nonprofit,J. Alvarez,2023-04-22,2023-05-11,14.1
+PRJ-10222,Strategy Consulting,Nonprofit,T. Nakamura,2023-03-29,2023-04-29,60.2
+PRJ-10223,Strategy Consulting,Financial Services,M. Okafor,2023-03-11,2023-03-22,193.9
+PRJ-10224,Litigation Support,Technology,M. Okafor,2023-01-29,2023-02-09,139.6
+PRJ-10225,Strategy Consulting,Manufacturing,S. Chen,2023-01-03,2023-02-09,143.6
+PRJ-10226,Litigation Support,Nonprofit,M. Okafor,2023-11-06,2023-12-04,100.3
+PRJ-10227,Tax Advisory,Manufacturing,T. Nakamura,2022-02-20,2022-03-05,41.4
+PRJ-10228,Strategy Consulting,Nonprofit,R. Petrov,2022-10-21,2022-11-01,139.2
+PRJ-10229,Strategy Consulting,Retail,T. Nakamura,2022-08-13,2022-08-23,101.8
+PRJ-10230,Litigation Support,Financial Services,M. Okafor,2023-11-07,2023-11-28,791.3
+PRJ-10231,Litigation Support,Retail,L. Fitzgerald,2023-10-05,2023-10-28,122.5
+PRJ-10232,Litigation Support,Healthcare,R. Petrov,2023-01-09,2023-01-27,184.9
+PRJ-10233,Strategy Consulting,Manufacturing,M. Okafor,2023-03-02,2023-04-04,230.6
+PRJ-10234,Audit,Retail,T. Nakamura,2023-01-10,2023-01-24,82.8
+PRJ-10235,Tax Advisory,Healthcare,S. Chen,2023-05-09,2023-05-14,49.5
+PRJ-10236,Strategy Consulting,Healthcare,L. Fitzgerald,2022-04-28,2022-06-14,51.9
+PRJ-10237,Tax Advisory,Manufacturing,S. Chen,2022-08-20,2022-09-07,-189.8
+PRJ-10238,Strategy Consulting,Nonprofit,L. Fitzgerald,2023-07-25,2023-08-19,224.6
+PRJ-10239,Tax Advisory,Real Estate,R. Petrov,2023-07-04,2023-08-14,517.8
+PRJ-10240,Audit,Healthcare,L. Fitzgerald,2022-09-26,2022-10-07,109.7
+PRJ-10241,Litigation Support,Real Estate,L. Fitzgerald,2022-04-21,2022-05-14,65.0
+PRJ-10242,Litigation Support,Technology,J. Alvarez,2023-07-29,2023-08-06,117.8
+PRJ-10243,Tax Advisory,Financial Services,S. Chen,2023-10-13,2023-10-23,38.2
+PRJ-10244,Strategy Consulting,Nonprofit,M. Okafor,2022-04-30,2022-06-04,488.6
+PRJ-10245,Audit,Manufacturing,M. Okafor,2022-04-29,2022-06-19,119.3
+PRJ-10246,Audit,Financial Services,S. Chen,2023-01-15,2023-01-27,126.7
+PRJ-10247,Litigation Support,Nonprofit,L. Fitzgerald,2023-03-06,2023-04-04,
+PRJ-10248,Litigation Support,Nonprofit,S. Chen,2023-11-02,2023-11-20,96.8
+PRJ-10249,Audit,Technology,T. Nakamura,2022-10-14,2022-10-23,65.0
+PRJ-10250,Audit,Healthcare,S. Chen,2022-08-30,2022-11-04,229.5
+PRJ-10251,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-10-23,2023-11-21,
+PRJ-10252,Tax Advisory,Technology,M. Okafor,2022-05-06,2022-05-21,38.0
+PRJ-10253,Strategy Consulting,Real Estate,R. Petrov,2022-08-06,2022-08-18,99.1
+PRJ-10254,Litigation Support,Financial Services,J. Alvarez,2022-12-08,2022-12-20,
+PRJ-10255,Audit,Retail,T. Nakamura,2023-07-22,2023-08-11,145.0
+PRJ-10256,Audit,Retail,S. Chen,2022-06-01,2022-06-13,101.5
+PRJ-10257,Strategy Consulting,Financial Services,J. Alvarez,2022-05-29,2022-07-01,100.2
+PRJ-10258,Strategy Consulting,Financial Services,M. Okafor,2022-04-23,2022-05-04,213.0
+PRJ-10259,Litigation Support,Manufacturing,S. Chen,2022-09-01,2022-10-03,214.4
+PRJ-10260,Litigation Support,Manufacturing,S. Chen,2022-05-10,2022-06-08,62.2
+PRJ-10261,Strategy Consulting,Financial Services,J. Alvarez,2023-05-03,2023-06-01,94.3
+PRJ-10262,Tax Advisory,Healthcare,T. Nakamura,2023-04-08,2023-04-15,35.2
+PRJ-10263,Tax Advisory,Financial Services,J. Alvarez,2023-11-06,2023-11-27,19.2
+PRJ-10264,Tax Advisory,Technology,L. Fitzgerald,2022-03-04,2022-03-16,72.0
+PRJ-10265,Strategy Consulting,Real Estate,R. Petrov,2022-04-21,2022-04-28,234.5
+PRJ-10266,Tax Advisory,Technology,J. Alvarez,2022-11-26,2022-12-06,57.3
+PRJ-10267,Litigation Support,Manufacturing,S. Chen,2023-10-11,2023-11-01,126.7
+PRJ-10268,Litigation Support,Nonprofit,M. Okafor,2023-09-04,2023-09-20,109.5
+PRJ-10269,Tax Advisory,Technology,T. Nakamura,2022-04-12,2022-04-26,121.4
+PRJ-10270,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-07-19,2023-07-29,269.2
+PRJ-10271,Strategy Consulting,Retail,R. Petrov,2022-08-22,2022-10-10,217.3
+PRJ-10272,Tax Advisory,Real Estate,R. Petrov,2022-04-08,2022-04-21,10.6
+PRJ-10273,Tax Advisory,Healthcare,L. Fitzgerald,2022-06-06,2022-06-24,89.9
+PRJ-10274,Litigation Support,Technology,J. Alvarez,2022-03-29,2022-04-12,259.3
+PRJ-10275,Audit,Manufacturing,L. Fitzgerald,2022-05-14,2022-06-02,
+PRJ-10276,Litigation Support,Financial Services,T. Nakamura,2023-11-18,2023-12-12,452.9
+PRJ-10277,Audit,Healthcare,L. Fitzgerald,2023-03-10,2023-03-26,152.0
+PRJ-10278,Strategy Consulting,Nonprofit,J. Alvarez,2023-09-07,2023-09-23,106.6
+PRJ-10279,Tax Advisory,Manufacturing,T. Nakamura,2022-06-08,2022-06-24,79.1
+PRJ-10280,Litigation Support,Retail,J. Alvarez,2023-07-24,2023-10-04,245.0
+PRJ-10281,Tax Advisory,Real Estate,M. Okafor,2023-03-16,2023-04-02,110.4
+PRJ-10282,Strategy Consulting,Real Estate,T. Nakamura,2023-10-21,2023-11-06,347.8
+PRJ-10283,Litigation Support,Financial Services,L. Fitzgerald,2022-10-01,2022-10-12,48.0
+PRJ-10284,Audit,Healthcare,L. Fitzgerald,2022-12-14,2022-12-31,32.4
+PRJ-10285,Tax Advisory,Retail,S. Chen,2023-02-15,2023-04-13,60.8
+PRJ-10286,Audit,Nonprofit,L. Fitzgerald,2022-04-04,2022-04-22,150.9
+PRJ-10287,Strategy Consulting,Retail,R. Petrov,2022-12-16,2022-12-21,268.1
+PRJ-10288,Audit,Healthcare,L. Fitzgerald,2023-08-05,2023-09-07,141.5
+PRJ-10289,Litigation Support,Manufacturing,S. Chen,2023-09-25,2023-11-05,71.0
+PRJ-10290,Audit,Manufacturing,M. Okafor,2023-03-11,2023-03-27,152.1
+PRJ-10291,Tax Advisory,Technology,R. Petrov,2023-06-09,2023-08-30,93.4
+PRJ-10292,Audit,Technology,J. Alvarez,2023-11-26,2023-12-20,136.3
+PRJ-10293,Litigation Support,Financial Services,L. Fitzgerald,2022-08-14,2022-08-26,145.0
+PRJ-10294,Tax Advisory,Financial Services,J. Alvarez,2022-08-05,2022-08-17,1084.7
+PRJ-10295,Strategy Consulting,Real Estate,M. Okafor,2022-05-03,2022-05-18,157.7
+PRJ-10296,Audit,Nonprofit,R. Petrov,2023-01-25,2023-02-19,167.8
+PRJ-10297,Tax Advisory,Retail,T. Nakamura,2023-11-16,2023-12-01,124.0
+PRJ-10298,Strategy Consulting,Manufacturing,R. Petrov,2022-02-13,2022-02-24,124.2
+PRJ-10299,Tax Advisory,Technology,J. Alvarez,2023-08-13,2023-09-08,44.0
+PRJ-10300,Tax Advisory,Technology,L. Fitzgerald,2022-10-24,2022-11-05,101.9
+PRJ-10301,Audit,Manufacturing,M. Okafor,2023-09-25,2023-11-11,220.6
+PRJ-10302,Tax Advisory,Nonprofit,M. Okafor,2022-04-19,2022-06-22,80.1
+PRJ-10303,Audit,Financial Services,R. Petrov,2023-02-10,2023-02-19,69.8
+PRJ-10304,Strategy Consulting,Nonprofit,M. Okafor,2022-06-22,2022-08-12,43.2
+PRJ-10305,Audit,Nonprofit,J. Alvarez,2022-07-18,2022-08-07,189.7
+PRJ-10306,Strategy Consulting,Healthcare,M. Okafor,2023-10-23,2023-11-02,
+PRJ-10307,Strategy Consulting,Retail,J. Alvarez,2022-07-22,2022-08-13,831.0
+PRJ-10308,Audit,Retail,L. Fitzgerald,2023-10-06,2023-11-07,129.6
+PRJ-10309,Tax Advisory,Real Estate,T. Nakamura,2023-04-05,2023-04-29,84.0
+PRJ-10310,Litigation Support,Financial Services,L. Fitzgerald,2023-10-02,2023-10-29,115.0
+PRJ-10311,Tax Advisory,Nonprofit,M. Okafor,2022-03-11,2022-04-27,224.0
+PRJ-10312,Tax Advisory,Nonprofit,M. Okafor,2023-08-29,2023-09-13,183.0
+PRJ-10313,Audit,Financial Services,J. Alvarez,2023-04-08,2023-04-27,60.0
+PRJ-10314,Audit,Healthcare,M. Okafor,2022-04-03,2022-05-13,124.8
+PRJ-10315,Litigation Support,Financial Services,R. Petrov,2023-07-22,2023-09-12,61.2
+PRJ-10316,Strategy Consulting,Nonprofit,J. Alvarez,2023-08-09,2023-08-25,134.3
+PRJ-10317,Litigation Support,Healthcare,T. Nakamura,2022-06-04,2022-06-11,98.5
+PRJ-10318,Strategy Consulting,Technology,J. Alvarez,2022-12-18,2023-01-08,266.9
+PRJ-10319,Strategy Consulting,Manufacturing,T. Nakamura,2022-02-10,2022-02-19,60.8
+PRJ-10320,Audit,Technology,R. Petrov,2023-09-17,2023-11-13,94.9
+PRJ-10321,Audit,Healthcare,M. Okafor,2022-12-13,2022-12-21,100.1
+PRJ-10322,Litigation Support,Manufacturing,L. Fitzgerald,2022-03-09,2022-03-26,168.4
+PRJ-10323,Tax Advisory,Financial Services,L. Fitzgerald,2022-09-16,2022-10-06,9.1
+PRJ-10324,Strategy Consulting,Nonprofit,T. Nakamura,2022-12-08,2023-01-08,127.6
+PRJ-10325,Audit,Nonprofit,S. Chen,2022-11-14,2022-12-25,437.8
+PRJ-10326,Strategy Consulting,Nonprofit,L. Fitzgerald,2023-09-02,2023-09-12,124.3
+PRJ-10327,Strategy Consulting,Manufacturing,M. Okafor,2023-10-21,2023-11-11,908.7
+PRJ-10328,Strategy Consulting,Real Estate,S. Chen,2023-06-24,2023-07-14,151.5
+PRJ-10329,Audit,Nonprofit,R. Petrov,2022-01-19,2022-02-07,137.8
+PRJ-10330,Tax Advisory,Retail,S. Chen,2023-05-13,2023-05-28,40.2
+PRJ-10331,Audit,Retail,S. Chen,2022-04-14,2022-04-29,117.3
+PRJ-10332,Tax Advisory,Financial Services,L. Fitzgerald,2022-02-08,2022-03-02,36.4
+PRJ-10333,Litigation Support,Real Estate,T. Nakamura,2023-01-21,2023-03-13,167.3
+PRJ-10334,Audit,Retail,L. Fitzgerald,2022-06-19,2022-07-29,18.8
+PRJ-10335,Strategy Consulting,Manufacturing,R. Petrov,2022-09-01,2022-09-07,358.8
+PRJ-10336,Strategy Consulting,Financial Services,M. Okafor,2023-04-05,2023-04-21,118.0
+PRJ-10337,Audit,Retail,M. Okafor,2023-04-26,2023-05-09,44.8
+PRJ-10338,Strategy Consulting,Retail,M. Okafor,2023-08-08,2023-10-07,68.9
+PRJ-10339,Strategy Consulting,Technology,M. Okafor,2023-05-30,2023-07-14,288.8
+PRJ-10340,Tax Advisory,Retail,S. Chen,2022-05-22,2022-06-01,99.4
+PRJ-10341,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-01-16,2023-02-13,103.9
+PRJ-10342,Litigation Support,Manufacturing,L. Fitzgerald,2022-05-08,2022-06-09,85.0
+PRJ-10343,Audit,Real Estate,S. Chen,2023-06-10,2023-06-26,101.4
+PRJ-10344,Audit,Technology,J. Alvarez,2022-08-16,2022-09-12,197.4
+PRJ-10345,Strategy Consulting,Healthcare,J. Alvarez,2023-02-10,2023-03-24,116.5
+PRJ-10346,Tax Advisory,Retail,R. Petrov,2023-01-19,2023-02-18,28.2
+PRJ-10347,Audit,Healthcare,J. Alvarez,2023-10-28,2023-11-14,181.8
+PRJ-10348,Tax Advisory,Retail,S. Chen,2023-04-29,2023-05-08,75.4
+PRJ-10349,Litigation Support,Retail,L. Fitzgerald,2023-09-23,2023-10-11,381.9
+PRJ-10350,Audit,Manufacturing,J. Alvarez,2022-06-03,2022-07-12,83.2
+PRJ-10351,Tax Advisory,Nonprofit,T. Nakamura,2022-04-24,2022-05-03,36.6
+PRJ-10352,Strategy Consulting,Retail,M. Okafor,2022-09-02,2022-10-02,50.5
+PRJ-10353,Tax Advisory,Real Estate,T. Nakamura,2022-04-24,2022-06-23,24.5
+PRJ-10354,Strategy Consulting,Technology,T. Nakamura,2023-10-10,2023-12-07,
+PRJ-10355,Tax Advisory,Retail,L. Fitzgerald,2023-03-16,2023-04-04,69.6
+PRJ-10356,Audit,Healthcare,S. Chen,2022-07-11,2022-08-06,81.9
+PRJ-10357,Litigation Support,Manufacturing,T. Nakamura,2022-03-11,2022-04-20,194.8
+PRJ-10358,Strategy Consulting,Financial Services,T. Nakamura,2023-06-04,2023-06-26,162.5
+PRJ-10359,Litigation Support,Technology,R. Petrov,2023-02-01,2023-02-21,155.1
+PRJ-10360,Strategy Consulting,Healthcare,L. Fitzgerald,2022-03-11,2022-03-18,186.1
+PRJ-10361,Tax Advisory,Nonprofit,L. Fitzgerald,2023-08-19,2023-09-20,23.4
+PRJ-10362,Strategy Consulting,Healthcare,S. Chen,2023-07-14,2023-08-01,169.1
+PRJ-10363,Tax Advisory,Nonprofit,S. Chen,2023-04-21,2023-05-16,60.8
+PRJ-10364,Strategy Consulting,Technology,L. Fitzgerald,2022-05-19,2022-06-01,102.8
+PRJ-10365,Audit,Real Estate,R. Petrov,2022-07-26,2022-08-06,137.6
+PRJ-10366,Audit,Retail,J. Alvarez,2022-11-14,2022-11-21,159.7
+PRJ-10367,Tax Advisory,Real Estate,T. Nakamura,2022-02-07,2022-03-06,123.3
+PRJ-10368,Strategy Consulting,Retail,M. Okafor,2022-02-18,2022-03-27,179.4
+PRJ-10369,Strategy Consulting,Healthcare,M. Okafor,2023-01-12,2023-02-19,481.3
+PRJ-10370,Tax Advisory,Technology,L. Fitzgerald,2023-01-31,2023-02-09,16.5
+PRJ-10371,Tax Advisory,Retail,R. Petrov,2023-01-12,2023-02-02,38.7
+PRJ-10372,Strategy Consulting,Financial Services,M. Okafor,2023-03-11,2023-03-24,215.5
+PRJ-10373,Audit,Financial Services,S. Chen,2022-11-25,2022-12-08,136.8
+PRJ-10374,Audit,Healthcare,L. Fitzgerald,2023-04-02,2023-04-11,78.2
+PRJ-10375,Litigation Support,Technology,S. Chen,2022-12-26,2023-01-04,104.8
+PRJ-10376,Tax Advisory,Nonprofit,M. Okafor,2023-03-22,2023-04-30,30.3
+PRJ-10377,Audit,Real Estate,J. Alvarez,2023-10-15,,61.7
+PRJ-10378,Tax Advisory,Financial Services,L. Fitzgerald,2022-02-01,2022-02-24,84.7
+PRJ-10379,Audit,Financial Services,L. Fitzgerald,2022-02-05,2022-03-08,65.8
+PRJ-10380,Audit,Retail,L. Fitzgerald,2023-01-28,2023-02-19,80.2
+PRJ-10381,Strategy Consulting,Manufacturing,T. Nakamura,2023-04-06,2023-04-25,900.3
+PRJ-10382,Strategy Consulting,Healthcare,R. Petrov,2023-08-11,2023-08-24,335.3
+PRJ-10383,Audit,Healthcare,R. Petrov,2022-10-13,2022-12-12,117.1
+PRJ-10384,Audit,Manufacturing,J. Alvarez,2023-05-27,2023-07-28,77.4
+PRJ-10385,Tax Advisory,Financial Services,J. Alvarez,2022-09-24,2022-10-08,98.5
+PRJ-10386,Strategy Consulting,Retail,T. Nakamura,2023-05-18,2023-06-24,233.5
+PRJ-10387,Audit,Retail,J. Alvarez,2023-04-01,2023-04-09,185.4
+PRJ-10388,Strategy Consulting,Real Estate,L. Fitzgerald,2022-11-24,2022-12-12,90.2
+PRJ-10389,Litigation Support,Nonprofit,J. Alvarez,2022-10-25,2022-11-24,189.8
+PRJ-10390,Strategy Consulting,Real Estate,S. Chen,2023-10-16,2023-10-25,169.9
+PRJ-10391,Audit,Healthcare,T. Nakamura,2022-07-25,2022-08-24,156.6
+PRJ-10392,Strategy Consulting,Retail,R. Petrov,2023-07-22,2023-08-31,222.0
+PRJ-10393,Litigation Support,Technology,T. Nakamura,2022-03-30,2022-04-26,358.5
+PRJ-10394,Audit,Technology,L. Fitzgerald,2023-06-23,2023-06-30,114.2
+PRJ-10395,Tax Advisory,Technology,T. Nakamura,2022-11-21,2022-12-14,81.1
+PRJ-10396,Litigation Support,Technology,R. Petrov,2022-12-19,2022-12-28,241.9
+PRJ-10397,Audit,Real Estate,T. Nakamura,2022-07-06,2022-08-14,56.3
+PRJ-10398,Strategy Consulting,Retail,R. Petrov,2022-02-26,2022-03-29,145.9
+PRJ-10399,Strategy Consulting,Financial Services,S. Chen,2022-06-15,2022-07-06,153.0
+PRJ-10400,Tax Advisory,Nonprofit,S. Chen,2023-06-16,2023-07-01,115.7
+PRJ-10401,Strategy Consulting,Real Estate,J. Alvarez,2023-10-13,2023-10-28,160.4
+PRJ-10402,Strategy Consulting,Healthcare,S. Chen,2023-09-22,2023-10-09,110.7
+PRJ-10403,Tax Advisory,Financial Services,L. Fitzgerald,2023-08-18,2023-09-02,70.1
+PRJ-10404,Audit,Nonprofit,T. Nakamura,2023-09-12,2023-09-24,289.0
+PRJ-10405,Tax Advisory,Financial Services,J. Alvarez,2022-01-30,2022-02-15,52.6
+PRJ-10406,Audit,Nonprofit,T. Nakamura,2022-08-04,2022-08-27,330.4
+PRJ-10407,Strategy Consulting,Technology,T. Nakamura,2023-05-25,2023-06-02,308.9
+PRJ-10408,Strategy Consulting,Financial Services,M. Okafor,2022-11-06,2022-12-11,
+PRJ-10409,Tax Advisory,Real Estate,L. Fitzgerald,2023-04-10,2023-05-19,63.6
+PRJ-10410,Audit,Manufacturing,S. Chen,2023-05-11,2023-06-28,83.5
+PRJ-10411,Tax Advisory,Healthcare,T. Nakamura,2022-11-23,2022-12-09,299.9
+PRJ-10412,Strategy Consulting,Real Estate,M. Okafor,2022-05-14,2022-07-03,109.8
+PRJ-10413,Strategy Consulting,Financial Services,T. Nakamura,2022-09-05,2022-09-20,453.2
+PRJ-10414,Tax Advisory,Healthcare,R. Petrov,2022-04-10,2022-04-27,
+PRJ-10415,Audit,Technology,T. Nakamura,2022-06-13,2022-06-25,46.8
+PRJ-10416,Strategy Consulting,Financial Services,L. Fitzgerald,2022-06-13,2022-06-26,74.3
+PRJ-10417,Tax Advisory,Financial Services,R. Petrov,2022-11-12,2022-12-06,58.6
+PRJ-10418,Tax Advisory,Manufacturing,R. Petrov,2022-09-04,2022-09-15,177.6
+PRJ-10419,Audit,Healthcare,J. Alvarez,2023-05-22,2023-06-09,239.0
+PRJ-10420,Litigation Support,Real Estate,L. Fitzgerald,2022-10-20,2022-11-20,193.2
+PRJ-10421,Tax Advisory,Real Estate,J. Alvarez,2022-09-28,2022-10-24,27.3
+PRJ-10422,Strategy Consulting,Real Estate,R. Petrov,2023-02-15,2023-03-15,
+PRJ-10423,Audit,Financial Services,S. Chen,2022-10-23,2023-01-22,146.9
+PRJ-10424,Audit,Financial Services,R. Petrov,2022-10-14,2022-10-29,76.8
+PRJ-10425,Strategy Consulting,Financial Services,L. Fitzgerald,2022-05-12,2022-05-27,97.0
+PRJ-10426,Strategy Consulting,Technology,M. Okafor,2022-12-14,2023-01-25,96.0
+PRJ-10427,Litigation Support,Healthcare,S. Chen,2023-06-06,2023-06-20,540.6
+PRJ-10428,Tax Advisory,Manufacturing,J. Alvarez,2022-12-08,2023-01-04,33.5
+PRJ-10429,Strategy Consulting,Financial Services,R. Petrov,2023-06-12,2023-07-12,101.9
+PRJ-10430,Audit,Financial Services,M. Okafor,2023-09-24,2023-10-02,138.3
+PRJ-10431,Strategy Consulting,Healthcare,T. Nakamura,2023-06-06,2023-08-06,443.1
+PRJ-10432,Tax Advisory,Nonprofit,T. Nakamura,2022-01-18,2022-02-03,39.1
+PRJ-10433,Tax Advisory,Nonprofit,J. Alvarez,2023-08-21,2023-09-15,73.3
+PRJ-10434,Tax Advisory,Nonprofit,L. Fitzgerald,2023-09-04,2023-11-13,95.1
+PRJ-10435,Tax Advisory,Nonprofit,T. Nakamura,2022-02-22,2022-03-07,53.0
+PRJ-10436,Litigation Support,Retail,T. Nakamura,2023-09-27,2023-10-10,76.2
+PRJ-10437,Strategy Consulting,Technology,S. Chen,2022-09-06,2022-11-06,146.6
+PRJ-10438,Audit,Nonprofit,J. Alvarez,2023-03-28,2023-04-21,83.5
+PRJ-10439,Tax Advisory,Retail,R. Petrov,2023-02-25,2023-04-08,59.3
+PRJ-10440,Tax Advisory,Financial Services,R. Petrov,2022-03-05,2022-03-20,351.8
+PRJ-10441,Strategy Consulting,Financial Services,S. Chen,2023-11-10,2023-12-19,106.5
+PRJ-10442,Tax Advisory,Technology,M. Okafor,2023-04-16,2023-06-18,96.7
+PRJ-10443,Strategy Consulting,Healthcare,T. Nakamura,2023-11-29,2023-12-15,225.7
+PRJ-10444,Litigation Support,Nonprofit,M. Okafor,2022-07-16,2022-08-25,302.4
+PRJ-10445,Strategy Consulting,Healthcare,T. Nakamura,2022-11-01,2022-11-29,266.4
+PRJ-10446,Strategy Consulting,Nonprofit,S. Chen,2023-05-16,2023-06-27,316.5
+PRJ-10447,Tax Advisory,Healthcare,T. Nakamura,2022-10-08,2022-11-07,157.9
+PRJ-10448,Audit,Financial Services,L. Fitzgerald,2023-02-09,2023-03-03,106.8
+PRJ-10449,Strategy Consulting,Real Estate,S. Chen,2022-10-22,2022-11-03,349.0
+PRJ-10450,Strategy Consulting,Manufacturing,M. Okafor,2023-11-03,2023-11-19,194.2
+PRJ-10451,Audit,Technology,S. Chen,2023-07-06,2023-08-20,122.4
+PRJ-10452,Audit,Financial Services,L. Fitzgerald,2022-04-22,2022-05-13,137.2
+PRJ-10453,Litigation Support,Financial Services,S. Chen,2023-11-17,2023-12-19,77.2
+PRJ-10454,Strategy Consulting,Retail,L. Fitzgerald,2022-04-13,2022-06-28,235.7
+PRJ-10455,Tax Advisory,Nonprofit,R. Petrov,2022-05-21,2022-06-13,48.4
+PRJ-10456,Audit,Financial Services,S. Chen,2023-05-03,2023-06-26,142.9
+PRJ-10457,Tax Advisory,Retail,M. Okafor,2023-10-24,2023-11-17,56.1
+PRJ-10458,Audit,Real Estate,J. Alvarez,2022-08-26,2022-09-18,183.6
+PRJ-10459,Tax Advisory,Nonprofit,J. Alvarez,2022-06-29,2022-07-22,43.9
+PRJ-10460,Tax Advisory,Real Estate,S. Chen,2022-02-07,2022-02-18,127.2
+PRJ-10461,Strategy Consulting,Technology,R. Petrov,2022-10-24,2022-11-06,164.6
+PRJ-10462,Strategy Consulting,Manufacturing,M. Okafor,2022-04-20,2022-04-28,346.3
+PRJ-10463,Strategy Consulting,Healthcare,M. Okafor,2023-10-19,2023-11-14,101.4
+PRJ-10464,Tax Advisory,Technology,S. Chen,2023-04-25,2023-05-15,179.5
+PRJ-10465,Audit,Real Estate,J. Alvarez,2023-04-15,2023-06-18,81.4
+PRJ-10466,Litigation Support,Nonprofit,S. Chen,2022-12-12,2022-12-17,72.6
+PRJ-10467,Strategy Consulting,Financial Services,L. Fitzgerald,2022-06-29,2022-07-14,204.1
+PRJ-10468,Litigation Support,Nonprofit,R. Petrov,2023-06-12,2023-07-14,97.9
+PRJ-10469,Tax Advisory,Technology,L. Fitzgerald,2022-05-24,2022-06-07,71.2
+PRJ-10470,Tax Advisory,Retail,J. Alvarez,2022-08-30,2022-10-04,24.5
+PRJ-10471,Tax Advisory,Healthcare,M. Okafor,2023-08-10,2023-08-29,94.6
+PRJ-10472,Audit,Nonprofit,M. Okafor,2022-03-05,2022-03-16,437.1
+PRJ-10473,Litigation Support,Technology,M. Okafor,2023-05-30,2023-06-12,68.7
+PRJ-10474,Strategy Consulting,Nonprofit,M. Okafor,2023-10-17,2023-11-10,145.3
+PRJ-10475,Strategy Consulting,Healthcare,M. Okafor,2022-08-13,2022-09-07,126.7
+PRJ-10476,Strategy Consulting,Technology,S. Chen,2023-09-13,2023-11-01,62.5
+PRJ-10477,Tax Advisory,Nonprofit,T. Nakamura,2023-07-05,2023-08-15,56.6
+PRJ-10478,Strategy Consulting,Real Estate,S. Chen,2023-11-28,2023-12-25,190.7
+PRJ-10479,Strategy Consulting,Real Estate,J. Alvarez,2023-06-25,2023-07-22,223.5
+PRJ-10480,Strategy Consulting,Manufacturing,T. Nakamura,2023-07-15,2023-08-30,235.2
+PRJ-10481,Strategy Consulting,Retail,T. Nakamura,2022-06-18,2022-07-20,172.1
+PRJ-10482,Tax Advisory,Financial Services,R. Petrov,2022-07-30,2022-09-17,56.3
+PRJ-10483,Strategy Consulting,Technology,J. Alvarez,2023-04-02,2023-06-02,93.4
+PRJ-10484,Strategy Consulting,Technology,S. Chen,2023-04-13,2023-04-21,145.8
+PRJ-10485,Litigation Support,Financial Services,R. Petrov,2022-11-12,2022-11-25,218.8
+PRJ-10486,Strategy Consulting,Technology,M. Okafor,2022-08-12,2022-08-26,
+PRJ-10487,Litigation Support,Manufacturing,R. Petrov,2022-03-07,2022-03-13,146.3
+PRJ-10488,Tax Advisory,Manufacturing,J. Alvarez,2023-04-29,2023-05-03,43.7
+PRJ-10489,Audit,Technology,S. Chen,2023-10-19,2023-11-21,39.6
+PRJ-10490,Strategy Consulting,Nonprofit,R. Petrov,2023-01-27,2023-02-23,260.0
+PRJ-10491,Tax Advisory,Technology,R. Petrov,2023-11-09,2023-11-29,30.5
+PRJ-10492,Strategy Consulting,Retail,L. Fitzgerald,2022-05-02,2022-05-12,149.6
+PRJ-10493,Audit,Financial Services,R. Petrov,2022-08-17,2022-09-21,343.7
+PRJ-10494,Strategy Consulting,Real Estate,J. Alvarez,2023-04-20,2023-05-11,128.5
+PRJ-10495,Litigation Support,Financial Services,R. Petrov,2022-08-24,2022-08-30,231.4
+PRJ-10496,Audit,Healthcare,S. Chen,2022-04-26,2022-05-09,100.9
+PRJ-10497,Audit,Nonprofit,R. Petrov,2022-01-17,2022-02-03,59.5
+PRJ-10498,Audit,Manufacturing,J. Alvarez,2023-04-03,2023-05-03,422.4
+PRJ-10499,Litigation Support,Nonprofit,J. Alvarez,2022-02-15,2022-03-16,134.1
+PRJ-10500,Tax Advisory,Retail,T. Nakamura,2022-02-27,2022-04-04,159.8
+PRJ-10501,Audit,Healthcare,S. Chen,2023-08-13,2023-08-27,125.1
+PRJ-10502,Tax Advisory,Financial Services,L. Fitzgerald,2022-08-31,2022-09-26,97.8
+PRJ-10503,Tax Advisory,Retail,L. Fitzgerald,2023-02-28,2023-03-30,112.3
+PRJ-10504,Tax Advisory,Manufacturing,T. Nakamura,2022-06-29,2022-07-14,125.1
+PRJ-10505,Litigation Support,Technology,T. Nakamura,2022-12-19,2023-01-11,503.0
+PRJ-10506,Strategy Consulting,Nonprofit,R. Petrov,2022-11-23,2022-12-06,641.2
+PRJ-10507,Litigation Support,Technology,S. Chen,2022-07-08,2022-07-31,674.2
+PRJ-10508,Strategy Consulting,Technology,S. Chen,2022-11-04,2022-11-19,
+PRJ-10509,Strategy Consulting,Retail,R. Petrov,2023-07-30,2023-08-26,119.9
+PRJ-10510,Tax Advisory,Technology,T. Nakamura,2023-02-02,2023-02-16,86.5
+PRJ-10511,Audit,Retail,M. Okafor,2023-04-06,2023-06-20,118.0
+PRJ-10512,Strategy Consulting,Manufacturing,T. Nakamura,2022-07-15,2022-08-11,502.7
+PRJ-10513,Audit,Technology,L. Fitzgerald,2022-02-10,2022-03-04,123.2
+PRJ-10514,Strategy Consulting,Retail,T. Nakamura,2023-07-27,2023-08-07,230.5
+PRJ-10515,Audit,Retail,M. Okafor,2022-01-16,2022-01-23,100.2
+PRJ-10516,Audit,Retail,L. Fitzgerald,2023-05-06,2023-06-05,158.7
+PRJ-10517,Strategy Consulting,Nonprofit,T. Nakamura,2023-02-11,2023-04-05,107.0
+PRJ-10518,Strategy Consulting,Financial Services,M. Okafor,2023-01-25,2023-02-02,63.6
+PRJ-10519,Tax Advisory,Nonprofit,M. Okafor,2023-01-04,2023-02-12,70.2
+PRJ-10520,Tax Advisory,Technology,R. Petrov,2023-04-26,2023-05-11,195.0
+PRJ-10521,Strategy Consulting,Healthcare,S. Chen,2023-02-28,2023-03-20,319.2
+PRJ-10522,Audit,Real Estate,S. Chen,2022-01-17,2022-02-21,106.3
+PRJ-10523,Audit,Financial Services,T. Nakamura,2022-10-30,2022-11-07,189.4
+PRJ-10524,Audit,Healthcare,S. Chen,2022-09-09,2022-10-27,337.3
+PRJ-10525,Tax Advisory,Nonprofit,L. Fitzgerald,2023-05-16,2023-06-11,38.7
+PRJ-10526,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-06-22,2022-07-16,212.0
+PRJ-10527,Strategy Consulting,Healthcare,S. Chen,2023-07-14,2023-07-28,102.0
+PRJ-10528,Tax Advisory,Financial Services,L. Fitzgerald,2023-06-21,2023-08-02,58.9
+PRJ-10529,Audit,Real Estate,J. Alvarez,2023-11-16,2023-12-02,175.6
+PRJ-10530,Audit,Manufacturing,R. Petrov,2023-10-08,2023-10-11,
+PRJ-10531,Audit,Nonprofit,S. Chen,2023-01-18,2023-01-25,3094.7
+PRJ-10532,Audit,Nonprofit,L. Fitzgerald,2023-05-10,2023-05-20,93.1
+PRJ-10533,Litigation Support,Manufacturing,J. Alvarez,2023-02-26,2023-04-09,80.8
+PRJ-10534,Audit,Financial Services,L. Fitzgerald,2022-10-21,2022-11-15,86.5
+PRJ-10535,Audit,Real Estate,L. Fitzgerald,2022-07-03,2022-07-30,116.1
+PRJ-10536,Audit,Manufacturing,T. Nakamura,2022-07-16,2022-07-25,126.6
+PRJ-10537,Litigation Support,Healthcare,M. Okafor,2023-02-11,2023-02-26,401.7
+PRJ-10538,Audit,Technology,R. Petrov,2022-08-20,2022-09-05,40.4
+PRJ-10539,Audit,Real Estate,J. Alvarez,2023-10-28,2023-12-01,343.1
+PRJ-10540,Strategy Consulting,Manufacturing,R. Petrov,2023-07-20,2023-08-06,117.5
+PRJ-10541,Tax Advisory,Nonprofit,J. Alvarez,2022-03-26,2022-06-07,47.9
+PRJ-10542,Tax Advisory,Technology,L. Fitzgerald,2023-08-03,2023-08-30,78.4
+PRJ-10543,Strategy Consulting,Manufacturing,T. Nakamura,2022-08-24,2022-09-17,308.5
+PRJ-10544,Audit,Real Estate,L. Fitzgerald,2023-05-02,2023-05-20,100.1
+PRJ-10545,Audit,Manufacturing,L. Fitzgerald,2023-07-11,2023-07-31,114.1
+PRJ-10546,Litigation Support,Manufacturing,S. Chen,2022-11-19,2022-12-10,332.8
+PRJ-10547,Audit,Retail,T. Nakamura,2023-02-12,2023-03-04,200.4
+PRJ-10548,Strategy Consulting,Healthcare,S. Chen,2023-08-04,2023-08-10,158.5
+PRJ-10549,Strategy Consulting,Technology,L. Fitzgerald,2022-12-06,2022-12-31,284.9
+PRJ-10550,Tax Advisory,Nonprofit,S. Chen,2022-03-22,2022-03-25,120.7
+PRJ-10551,Tax Advisory,Healthcare,J. Alvarez,2022-08-26,2022-09-14,258.8
+PRJ-10552,Strategy Consulting,Healthcare,T. Nakamura,2023-09-02,2023-09-13,
+PRJ-10553,Tax Advisory,Real Estate,M. Okafor,2022-10-07,2022-10-18,92.1
+PRJ-10554,Strategy Consulting,Technology,R. Petrov,2023-07-21,2023-09-25,96.9
+PRJ-10555,Strategy Consulting,Technology,S. Chen,2023-11-08,2023-12-01,
+PRJ-10556,Tax Advisory,Real Estate,T. Nakamura,2022-09-10,2022-10-08,110.3
+PRJ-10557,Strategy Consulting,Manufacturing,M. Okafor,2023-10-12,2023-11-07,166.7
+PRJ-10558,Audit,Technology,M. Okafor,2022-04-04,2022-04-24,645.4
+PRJ-10559,Audit,Healthcare,R. Petrov,2022-10-04,2022-11-12,138.1
+PRJ-10560,Audit,Manufacturing,S. Chen,2023-07-25,2023-09-05,260.2
+PRJ-10561,Litigation Support,Technology,J. Alvarez,2022-12-29,2023-01-08,312.8
+PRJ-10562,Litigation Support,Financial Services,T. Nakamura,2023-01-30,2023-02-09,627.5
+PRJ-10563,Audit,Technology,R. Petrov,2023-07-27,2023-08-09,148.3
+PRJ-10564,Strategy Consulting,Retail,T. Nakamura,2023-01-25,2023-02-19,143.4
+PRJ-10565,Audit,Healthcare,M. Okafor,2022-05-30,2022-06-26,150.3
+PRJ-10566,Audit,Technology,M. Okafor,2023-05-11,2023-06-07,371.3
+PRJ-10567,Strategy Consulting,Healthcare,M. Okafor,2023-10-03,2023-11-09,126.4
+PRJ-10568,Tax Advisory,Financial Services,S. Chen,2022-05-19,2022-05-29,138.0
+PRJ-10569,Tax Advisory,Technology,M. Okafor,2023-01-25,2023-02-25,91.2
+PRJ-10570,Strategy Consulting,Healthcare,R. Petrov,2023-10-29,2023-12-15,121.8
+PRJ-10571,Strategy Consulting,Retail,M. Okafor,2022-07-25,2022-08-16,135.0
+PRJ-10572,Tax Advisory,Retail,R. Petrov,2022-10-26,2022-11-16,53.2
+PRJ-10573,Strategy Consulting,Nonprofit,R. Petrov,2022-09-06,2022-09-14,69.6
+PRJ-10574,Tax Advisory,Healthcare,R. Petrov,2023-08-01,2023-08-13,183.2
+PRJ-10575,Audit,Financial Services,S. Chen,2023-07-18,2023-07-23,60.0
+PRJ-10576,Audit,Nonprofit,R. Petrov,2022-08-03,2022-08-12,76.7
+PRJ-10577,Tax Advisory,Healthcare,L. Fitzgerald,2023-02-23,2023-04-02,189.4
+PRJ-10578,Litigation Support,Retail,L. Fitzgerald,2022-09-16,2022-12-06,123.5
+PRJ-10579,Litigation Support,Nonprofit,R. Petrov,2022-03-17,2022-04-03,397.6
+PRJ-10580,Tax Advisory,Financial Services,R. Petrov,2023-07-02,2023-09-23,10.4
+PRJ-10581,Tax Advisory,Real Estate,L. Fitzgerald,2022-02-07,2022-02-14,22.7
+PRJ-10582,Strategy Consulting,Healthcare,L. Fitzgerald,2023-07-04,2023-10-02,306.9
+PRJ-10583,Litigation Support,Manufacturing,J. Alvarez,2023-11-05,2023-12-04,527.1
+PRJ-10584,Litigation Support,Retail,L. Fitzgerald,2023-07-31,2023-09-04,303.3
+PRJ-10585,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-12-06,2022-12-30,255.2
+PRJ-10586,Strategy Consulting,Technology,J. Alvarez,2022-09-22,2022-10-12,161.4
+PRJ-10587,Audit,Nonprofit,T. Nakamura,2023-08-13,2023-08-30,70.8
+PRJ-10588,Audit,Healthcare,R. Petrov,2023-11-27,2023-12-16,36.7
+PRJ-10589,Litigation Support,Financial Services,S. Chen,2022-01-26,2022-02-05,100.1
+PRJ-10590,Tax Advisory,Healthcare,R. Petrov,2022-03-29,2022-05-16,68.1
+PRJ-10591,Audit,Nonprofit,S. Chen,2022-12-18,2022-12-26,228.2
+PRJ-10592,Tax Advisory,Retail,T. Nakamura,2023-05-03,2023-06-08,30.0
+PRJ-10593,Audit,Nonprofit,L. Fitzgerald,2022-03-10,2022-03-28,60.3
+PRJ-10594,Tax Advisory,Real Estate,L. Fitzgerald,2022-12-18,2022-12-29,88.2
+PRJ-10595,Litigation Support,Nonprofit,S. Chen,2022-09-07,2022-09-16,215.3
+PRJ-10596,Tax Advisory,Financial Services,S. Chen,2023-03-13,2023-04-07,39.4
+PRJ-10597,Strategy Consulting,Retail,R. Petrov,2022-07-10,2022-08-06,49.2
+PRJ-10598,Litigation Support,Technology,R. Petrov,2023-09-21,2023-10-20,197.3
+PRJ-10599,Strategy Consulting,Technology,T. Nakamura,2022-01-05,2022-02-21,175.5
+PRJ-10600,Strategy Consulting,Retail,M. Okafor,2022-03-06,2022-03-22,163.7
+PRJ-10601,Litigation Support,Real Estate,T. Nakamura,2022-11-30,2022-12-29,217.9
+PRJ-10602,Audit,Manufacturing,M. Okafor,2023-05-17,2023-06-07,
+PRJ-10603,Tax Advisory,Nonprofit,M. Okafor,2023-09-18,2023-10-02,36.7
+PRJ-10604,Tax Advisory,Manufacturing,M. Okafor,2023-04-14,2023-06-12,22.5
+PRJ-10605,Litigation Support,Real Estate,L. Fitzgerald,2022-11-01,2022-11-14,83.7
+PRJ-10606,Strategy Consulting,Financial Services,J. Alvarez,2022-11-17,2022-12-22,90.7
+PRJ-10607,Audit,Healthcare,J. Alvarez,2022-05-25,2022-07-08,97.6
+PRJ-10608,Tax Advisory,Technology,T. Nakamura,2023-01-28,2023-02-21,37.4
+PRJ-10609,Tax Advisory,Technology,L. Fitzgerald,2023-10-23,,33.4
+PRJ-10610,Strategy Consulting,Retail,T. Nakamura,2022-10-23,2022-11-17,65.3
+PRJ-10611,Audit,Healthcare,R. Petrov,2023-01-03,2023-01-29,187.0
+PRJ-10612,Strategy Consulting,Technology,S. Chen,2023-01-29,2023-02-17,131.8
+PRJ-10613,Strategy Consulting,Financial Services,L. Fitzgerald,2023-05-19,2023-06-07,154.7
+PRJ-10614,Tax Advisory,Real Estate,R. Petrov,2022-03-26,2022-06-13,117.8
+PRJ-10615,Litigation Support,Real Estate,S. Chen,2022-10-09,2022-10-18,135.4
+PRJ-10616,Audit,Healthcare,S. Chen,2023-08-03,2023-11-09,112.8
+PRJ-10617,Strategy Consulting,Real Estate,R. Petrov,2022-04-26,2022-06-21,85.5
+PRJ-10618,Litigation Support,Healthcare,T. Nakamura,2023-01-11,2023-01-26,
+PRJ-10619,Tax Advisory,Real Estate,J. Alvarez,2023-03-28,2023-05-22,89.4
+PRJ-10620,Tax Advisory,Technology,J. Alvarez,2023-11-01,2023-11-19,46.0
+PRJ-10621,Strategy Consulting,Healthcare,J. Alvarez,2022-12-23,2023-01-03,99.8
+PRJ-10622,Strategy Consulting,Manufacturing,R. Petrov,2022-05-01,2022-05-11,95.2
+PRJ-10623,Strategy Consulting,Retail,S. Chen,2023-08-26,2023-09-08,153.6
+PRJ-10624,Litigation Support,Real Estate,L. Fitzgerald,2023-03-15,2023-03-23,235.6
+PRJ-10625,Audit,Retail,S. Chen,2022-03-02,2022-04-05,151.3
+PRJ-10626,Litigation Support,Financial Services,M. Okafor,2022-06-22,2022-07-18,49.5
+PRJ-10627,Tax Advisory,Nonprofit,M. Okafor,2022-10-01,2022-10-11,141.7
+PRJ-10628,Strategy Consulting,Financial Services,L. Fitzgerald,2022-05-19,2022-06-15,483.7
+PRJ-10629,Strategy Consulting,Real Estate,R. Petrov,2022-10-11,2022-10-31,91.6
+PRJ-10630,Strategy Consulting,Retail,L. Fitzgerald,2022-09-13,2022-10-04,221.7
+PRJ-10631,Audit,Healthcare,S. Chen,2023-11-24,2023-12-06,175.0
+PRJ-10632,Tax Advisory,Retail,T. Nakamura,2023-10-05,2023-10-13,67.6
+PRJ-10633,Tax Advisory,Technology,J. Alvarez,2022-04-06,2022-04-18,55.5
+PRJ-10634,Tax Advisory,Nonprofit,M. Okafor,2023-01-13,2023-02-26,35.9
+PRJ-10635,Tax Advisory,Technology,M. Okafor,2022-04-06,2022-05-06,128.8
+PRJ-10636,Strategy Consulting,Technology,L. Fitzgerald,2023-01-02,2023-01-19,69.8
+PRJ-10637,Strategy Consulting,Real Estate,T. Nakamura,2023-03-16,2023-04-07,350.7
+PRJ-10638,Strategy Consulting,Technology,M. Okafor,2022-10-18,2022-11-13,760.6
+PRJ-10639,Tax Advisory,Financial Services,S. Chen,2023-05-12,2023-05-29,68.6
+PRJ-10640,Strategy Consulting,Nonprofit,J. Alvarez,2023-10-04,2023-10-23,164.7
+PRJ-10641,Strategy Consulting,Technology,J. Alvarez,2022-06-11,2022-07-18,246.2
+PRJ-10642,Tax Advisory,Manufacturing,R. Petrov,2022-05-16,2022-05-25,34.6
+PRJ-10643,Strategy Consulting,Healthcare,S. Chen,2022-10-08,2022-11-05,41.5
+PRJ-10644,Audit,Healthcare,M. Okafor,2023-11-12,2023-11-17,55.4
+PRJ-10645,Strategy Consulting,Retail,J. Alvarez,2022-11-09,2023-02-10,196.9
+PRJ-10646,Strategy Consulting,Real Estate,S. Chen,2022-04-04,2022-05-08,149.4
+PRJ-10647,Strategy Consulting,Manufacturing,S. Chen,2022-05-16,2022-06-04,158.8
+PRJ-10648,Litigation Support,Financial Services,L. Fitzgerald,2022-01-09,2022-01-26,380.6
+PRJ-10649,Litigation Support,Real Estate,J. Alvarez,2023-03-09,2023-04-03,241.2
+PRJ-10650,Litigation Support,Technology,J. Alvarez,2022-04-02,2022-05-10,125.3
+PRJ-10651,Strategy Consulting,Manufacturing,J. Alvarez,2022-11-03,2022-11-16,
+PRJ-10652,Audit,Real Estate,S. Chen,2023-11-25,2023-12-07,174.7
+PRJ-10653,Audit,Financial Services,T. Nakamura,2023-03-27,2023-04-16,1536.0
+PRJ-10654,Tax Advisory,Retail,L. Fitzgerald,2023-02-26,2023-03-25,128.3
+PRJ-10655,Litigation Support,Technology,S. Chen,2022-04-13,2022-05-17,196.5
+PRJ-10656,Audit,Manufacturing,T. Nakamura,2022-12-26,2023-01-24,317.6
+PRJ-10657,Strategy Consulting,Healthcare,S. Chen,2023-10-23,2023-11-01,151.1
+PRJ-10658,Audit,Financial Services,T. Nakamura,2023-09-15,2023-10-02,56.9
+PRJ-10659,Audit,Nonprofit,J. Alvarez,2023-11-06,2023-11-24,78.3
+PRJ-10660,Strategy Consulting,Retail,T. Nakamura,2022-07-13,2022-08-10,156.1
+PRJ-10661,Strategy Consulting,Healthcare,L. Fitzgerald,2022-09-03,2022-10-01,142.8
+PRJ-10662,Tax Advisory,Manufacturing,S. Chen,2023-09-01,2023-09-07,62.8
+PRJ-10663,Audit,Manufacturing,M. Okafor,2022-05-16,2022-06-04,62.2
+PRJ-10664,Tax Advisory,Real Estate,T. Nakamura,2023-07-14,2023-08-13,25.7
+PRJ-10665,Litigation Support,Real Estate,R. Petrov,2022-03-16,2022-04-28,584.0
+PRJ-10666,Audit,Manufacturing,J. Alvarez,2022-02-10,2022-04-02,103.3
+PRJ-10667,Strategy Consulting,Real Estate,R. Petrov,2023-10-06,2023-10-23,166.5
+PRJ-10668,Strategy Consulting,Real Estate,R. Petrov,2023-02-16,2023-03-05,
+PRJ-10669,Audit,Financial Services,T. Nakamura,2022-10-12,2022-11-04,91.4
+PRJ-10670,Audit,Manufacturing,T. Nakamura,2022-06-09,2022-06-30,134.3
+PRJ-10671,Tax Advisory,Technology,T. Nakamura,2023-10-28,2023-12-09,81.5
+PRJ-10672,Litigation Support,Manufacturing,M. Okafor,2022-09-02,2022-09-10,388.8
+PRJ-10673,Audit,Manufacturing,R. Petrov,2023-09-19,2023-10-25,20.1
+PRJ-10674,Litigation Support,Healthcare,L. Fitzgerald,2022-06-29,2022-07-17,76.8
+PRJ-10675,Audit,Nonprofit,S. Chen,2022-06-17,2022-06-24,52.9
+PRJ-10676,Tax Advisory,Healthcare,T. Nakamura,2022-09-23,2022-10-26,87.7
+PRJ-10677,Audit,Retail,L. Fitzgerald,2022-10-03,2022-10-07,80.2
+PRJ-10678,Strategy Consulting,Manufacturing,J. Alvarez,2023-03-16,2023-04-11,102.3
+PRJ-10679,Audit,Manufacturing,M. Okafor,2023-08-14,2023-09-06,42.6
+PRJ-10680,Litigation Support,Technology,R. Petrov,2022-02-26,2022-03-27,197.9
+PRJ-10681,Tax Advisory,Financial Services,S. Chen,2022-09-19,2022-09-30,65.2
+PRJ-10682,Strategy Consulting,Financial Services,L. Fitzgerald,2022-08-22,2022-09-10,346.6
+PRJ-10683,Strategy Consulting,Manufacturing,J. Alvarez,2022-01-13,2022-01-24,147.2
+PRJ-10684,Audit,Technology,M. Okafor,2022-06-03,2022-06-15,88.0
+PRJ-10685,Audit,Real Estate,J. Alvarez,2023-11-03,2023-12-31,106.3
+PRJ-10686,Tax Advisory,Healthcare,S. Chen,2022-11-24,2022-12-01,23.0
+PRJ-10687,Audit,Manufacturing,T. Nakamura,2023-05-30,2023-06-17,336.1
+PRJ-10688,Litigation Support,Manufacturing,S. Chen,2023-06-13,2023-07-22,125.2
+PRJ-10689,Strategy Consulting,Technology,J. Alvarez,2022-10-17,2022-12-18,98.2
+PRJ-10690,Strategy Consulting,Healthcare,M. Okafor,2023-04-13,2023-04-28,241.1
+PRJ-10691,Audit,Retail,M. Okafor,2022-11-08,2022-11-22,543.3
+PRJ-10692,Strategy Consulting,Retail,R. Petrov,2023-05-21,2023-06-15,252.2
+PRJ-10693,Strategy Consulting,Real Estate,S. Chen,2023-07-14,2023-09-05,373.1
+PRJ-10694,Strategy Consulting,Retail,S. Chen,2022-08-27,2022-09-09,1667.5
+PRJ-10695,Tax Advisory,Nonprofit,L. Fitzgerald,2022-12-10,2022-12-23,82.8
+PRJ-10696,Audit,Nonprofit,R. Petrov,2022-11-11,2022-12-03,491.2
+PRJ-10697,Audit,Financial Services,S. Chen,2022-03-03,2022-03-26,92.9
+PRJ-10698,Strategy Consulting,Retail,L. Fitzgerald,2022-02-14,2022-02-25,58.4
+PRJ-10699,Strategy Consulting,Real Estate,T. Nakamura,2023-01-17,2023-01-31,347.6
+PRJ-10700,Tax Advisory,Nonprofit,J. Alvarez,2023-06-02,2023-06-30,28.8
+PRJ-10701,Audit,Real Estate,R. Petrov,2023-08-05,2023-09-06,275.2
+PRJ-10702,Audit,Nonprofit,S. Chen,2022-09-25,2022-10-08,241.0
+PRJ-10703,Strategy Consulting,Real Estate,R. Petrov,2022-12-01,2023-01-21,55.4
+PRJ-10704,Tax Advisory,Healthcare,S. Chen,2022-07-27,2022-08-14,47.9
+PRJ-10705,Audit,Real Estate,T. Nakamura,2022-04-19,2022-05-18,304.1
+PRJ-10706,Audit,Technology,M. Okafor,2023-07-03,2023-09-17,165.1
+PRJ-10707,Tax Advisory,Real Estate,S. Chen,2023-04-20,2023-05-26,38.2
+PRJ-10708,Audit,Manufacturing,J. Alvarez,2022-11-08,2022-12-02,124.9
+PRJ-10709,Strategy Consulting,Nonprofit,T. Nakamura,2022-12-02,2022-12-30,437.3
+PRJ-10710,Audit,Nonprofit,S. Chen,2023-02-10,2023-03-21,174.9
+PRJ-10711,Tax Advisory,Nonprofit,M. Okafor,2022-06-28,2022-07-10,46.5
+PRJ-10712,Audit,Technology,R. Petrov,2023-07-18,2023-07-24,57.8
+PRJ-10713,Audit,Technology,J. Alvarez,2022-05-24,2022-06-03,506.2
+PRJ-10714,Audit,Manufacturing,S. Chen,2023-02-15,2023-03-04,102.8
+PRJ-10715,Tax Advisory,Nonprofit,L. Fitzgerald,2023-08-24,2023-09-27,74.4
+PRJ-10716,Audit,Real Estate,J. Alvarez,2022-03-08,2022-03-22,219.2
+PRJ-10717,Audit,Nonprofit,R. Petrov,2022-04-05,2022-04-29,-106.8
+PRJ-10718,Strategy Consulting,Real Estate,M. Okafor,2023-04-18,2023-06-12,126.0
+PRJ-10719,Audit,Financial Services,R. Petrov,2023-02-09,2023-03-13,169.2
+PRJ-10720,Tax Advisory,Technology,L. Fitzgerald,2022-12-29,2023-02-09,95.4
+PRJ-10721,Audit,Retail,M. Okafor,2022-06-02,2022-06-11,136.2
+PRJ-10722,Audit,Financial Services,T. Nakamura,2022-10-30,2022-11-13,158.7
+PRJ-10723,Tax Advisory,Financial Services,R. Petrov,2022-10-14,2022-11-12,41.4
+PRJ-10724,Tax Advisory,Technology,S. Chen,2023-06-23,2023-07-14,142.8
+PRJ-10725,Audit,Real Estate,T. Nakamura,2023-01-27,2023-03-26,149.0
+PRJ-10726,Strategy Consulting,Healthcare,R. Petrov,2023-05-12,2023-08-20,177.5
+PRJ-10727,Tax Advisory,Financial Services,T. Nakamura,2022-10-04,2022-10-11,89.1
+PRJ-10728,Audit,Healthcare,T. Nakamura,2022-10-15,2022-11-10,203.3
+PRJ-10729,Audit,Technology,T. Nakamura,2023-08-22,2023-09-22,296.0
+PRJ-10730,Strategy Consulting,Retail,J. Alvarez,2022-09-04,2022-09-14,136.1
+PRJ-10731,Audit,Real Estate,L. Fitzgerald,2022-08-13,2022-08-25,103.7
+PRJ-10732,Litigation Support,Real Estate,R. Petrov,2022-06-27,2022-07-26,133.2
+PRJ-10733,Audit,Financial Services,M. Okafor,2023-01-03,2023-01-29,386.2
+PRJ-10734,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-08-05,2023-09-01,64.9
+PRJ-10735,Litigation Support,Financial Services,S. Chen,2023-05-20,2023-06-03,462.2
+PRJ-10736,Tax Advisory,Retail,R. Petrov,2022-02-27,2022-03-20,54.6
+PRJ-10737,Audit,Retail,J. Alvarez,2022-01-01,2022-01-31,69.3
+PRJ-10738,Tax Advisory,Financial Services,S. Chen,2022-12-15,2023-01-11,55.1
+PRJ-10739,Strategy Consulting,Real Estate,M. Okafor,2022-06-01,2022-06-17,80.6
+PRJ-10740,Litigation Support,Retail,J. Alvarez,2023-01-09,2023-01-25,331.6
+PRJ-10741,Strategy Consulting,Healthcare,L. Fitzgerald,2023-02-10,2023-02-26,
+PRJ-10742,Litigation Support,Healthcare,M. Okafor,2022-06-11,2022-07-17,
+PRJ-10743,Strategy Consulting,Technology,L. Fitzgerald,2023-10-27,2023-11-03,55.6
+PRJ-10744,Tax Advisory,Nonprofit,T. Nakamura,2023-09-21,2023-11-04,20.6
+PRJ-10745,Strategy Consulting,Retail,L. Fitzgerald,2022-06-29,2022-10-04,101.9
+PRJ-10746,Tax Advisory,Nonprofit,L. Fitzgerald,2022-07-01,2022-07-24,
+PRJ-10747,Strategy Consulting,Nonprofit,T. Nakamura,2023-08-05,2023-10-13,441.5
+PRJ-10748,Audit,Financial Services,M. Okafor,2023-09-19,2023-11-01,508.0
+PRJ-10749,Audit,Financial Services,J. Alvarez,2022-05-25,2022-06-23,245.8
+PRJ-10750,Tax Advisory,Manufacturing,S. Chen,2022-11-24,2022-12-09,103.5
+PRJ-10751,Audit,Manufacturing,L. Fitzgerald,2022-12-10,2022-12-30,67.7
+PRJ-10752,Tax Advisory,Healthcare,S. Chen,2022-03-11,2022-03-26,53.3
+PRJ-10753,Tax Advisory,Real Estate,J. Alvarez,2022-02-19,2022-03-28,97.7
+PRJ-10754,Tax Advisory,Nonprofit,R. Petrov,2023-02-28,2023-04-19,63.8
+PRJ-10755,Tax Advisory,Technology,M. Okafor,2022-04-14,2022-05-02,27.0
+PRJ-10756,Strategy Consulting,Real Estate,T. Nakamura,2022-08-19,2022-08-25,90.8
+PRJ-10757,Audit,Manufacturing,J. Alvarez,2022-11-23,2022-12-12,113.3
+PRJ-10758,Audit,Manufacturing,J. Alvarez,2023-01-20,2023-02-19,346.2
+PRJ-10759,Audit,Manufacturing,T. Nakamura,2022-04-06,2022-06-08,
+PRJ-10760,Tax Advisory,Financial Services,R. Petrov,2023-03-18,2023-04-16,141.0
+PRJ-10761,Strategy Consulting,Retail,T. Nakamura,2022-06-10,2022-06-21,128.0
+PRJ-10762,Audit,Healthcare,S. Chen,2023-02-24,2023-04-05,92.5
+PRJ-10763,Litigation Support,Nonprofit,L. Fitzgerald,2023-11-08,2023-12-31,748.1
+PRJ-10764,Audit,Retail,J. Alvarez,2023-08-09,2023-08-19,85.2
+PRJ-10765,Tax Advisory,Technology,S. Chen,2022-01-04,2022-01-11,66.2
+PRJ-10766,Tax Advisory,Healthcare,L. Fitzgerald,2023-05-07,2023-05-26,75.2
+PRJ-10767,Audit,Manufacturing,S. Chen,2022-10-26,2022-11-03,86.6
+PRJ-10768,Strategy Consulting,Technology,J. Alvarez,2023-02-12,2023-02-27,214.9
+PRJ-10769,Tax Advisory,Nonprofit,M. Okafor,2023-07-12,2023-07-15,26.5
+PRJ-10770,Tax Advisory,Healthcare,R. Petrov,2023-04-02,2023-06-01,58.9
+PRJ-10771,Audit,Technology,R. Petrov,2022-10-03,2022-10-18,
+PRJ-10772,Litigation Support,Retail,L. Fitzgerald,2022-03-29,2022-04-25,131.2
+PRJ-10773,Litigation Support,Real Estate,T. Nakamura,2023-08-27,2023-09-21,99.4
+PRJ-10774,Audit,Manufacturing,R. Petrov,2023-03-05,2023-04-17,205.2
+PRJ-10775,Strategy Consulting,Nonprofit,R. Petrov,2022-08-30,2022-09-17,139.8
+PRJ-10776,Tax Advisory,Manufacturing,R. Petrov,2022-02-05,2022-02-17,32.5
+PRJ-10777,Tax Advisory,Financial Services,T. Nakamura,2023-09-28,2023-10-24,51.2
+PRJ-10778,Audit,Real Estate,R. Petrov,2022-06-21,2022-07-03,227.5
+PRJ-10779,Strategy Consulting,Real Estate,S. Chen,2023-03-10,2023-03-27,426.5
+PRJ-10780,Audit,Nonprofit,R. Petrov,2023-10-05,2023-10-18,118.2
+PRJ-10781,Audit,Financial Services,M. Okafor,2022-03-10,2022-04-14,22.0
+PRJ-10782,Audit,Financial Services,R. Petrov,2022-10-10,2022-10-27,201.0
+PRJ-10783,Tax Advisory,Real Estate,J. Alvarez,2023-10-01,2023-10-29,62.9
+PRJ-10784,Litigation Support,Real Estate,R. Petrov,2022-06-03,2022-06-18,67.0
+PRJ-10785,Audit,Financial Services,T. Nakamura,2022-04-13,2022-04-22,209.2
+PRJ-10786,Strategy Consulting,Financial Services,J. Alvarez,2023-07-03,2023-07-12,184.2
+PRJ-10787,Strategy Consulting,Technology,M. Okafor,2023-05-13,2023-06-02,207.9
+PRJ-10788,Litigation Support,Technology,J. Alvarez,2023-02-17,2023-03-31,64.6
+PRJ-10789,Audit,Financial Services,L. Fitzgerald,2022-02-09,2022-02-21,71.8
+PRJ-10790,Tax Advisory,Healthcare,L. Fitzgerald,2023-05-02,2023-06-12,69.0
+PRJ-10791,Strategy Consulting,Healthcare,J. Alvarez,2022-11-07,2022-11-28,73.7
+PRJ-10792,Tax Advisory,Real Estate,R. Petrov,2022-04-11,2022-05-12,
+PRJ-10793,Strategy Consulting,Retail,S. Chen,2023-03-30,2023-04-15,169.7
+PRJ-10794,Strategy Consulting,Healthcare,M. Okafor,2023-09-12,2023-10-04,84.0
+PRJ-10795,Litigation Support,Retail,R. Petrov,2023-02-21,2023-02-24,94.4
+PRJ-10796,Strategy Consulting,Real Estate,T. Nakamura,2022-02-27,2022-04-04,203.6
+PRJ-10797,Tax Advisory,Retail,J. Alvarez,2023-06-03,2023-06-14,11.5
+PRJ-10798,Tax Advisory,Real Estate,T. Nakamura,2022-01-30,2022-04-12,92.6
+PRJ-10799,Audit,Real Estate,S. Chen,2022-09-13,2022-09-26,121.8
+PRJ-10800,Audit,Manufacturing,M. Okafor,2022-10-08,2022-11-24,105.6
+PRJ-10801,Tax Advisory,Technology,T. Nakamura,2022-05-07,2022-05-20,38.2
+PRJ-10802,Litigation Support,Retail,M. Okafor,2023-04-02,2023-04-13,142.7
+PRJ-10803,Audit,Real Estate,R. Petrov,2022-12-25,2023-02-18,130.8
+PRJ-10804,Tax Advisory,Real Estate,M. Okafor,2022-04-03,2022-04-21,75.2
+PRJ-10805,Audit,Technology,J. Alvarez,2023-08-09,2023-08-17,97.8
+PRJ-10806,Strategy Consulting,Retail,S. Chen,2023-11-25,2023-12-15,278.3
+PRJ-10807,Audit,Nonprofit,R. Petrov,2023-11-30,,105.8
+PRJ-10808,Audit,Retail,L. Fitzgerald,2022-01-09,2022-01-22,147.9
+PRJ-10809,Audit,Financial Services,M. Okafor,2023-10-21,2023-12-01,89.0
+PRJ-10810,Audit,Technology,M. Okafor,2022-08-12,2022-08-20,129.9
+PRJ-10811,Tax Advisory,Nonprofit,T. Nakamura,2023-02-11,2023-02-25,114.2
+PRJ-10812,Litigation Support,Manufacturing,T. Nakamura,2023-01-19,2023-02-28,742.2
+PRJ-10813,Litigation Support,Financial Services,T. Nakamura,2023-12-02,,146.2
+PRJ-10814,Audit,Manufacturing,M. Okafor,2023-10-18,2023-11-22,125.8
+PRJ-10815,Tax Advisory,Healthcare,M. Okafor,2023-10-30,2023-11-11,84.2
+PRJ-10816,Audit,Retail,T. Nakamura,2022-02-28,2022-04-07,76.5
+PRJ-10817,Strategy Consulting,Real Estate,T. Nakamura,2022-11-24,2022-12-10,
+PRJ-10818,Litigation Support,Nonprofit,J. Alvarez,2022-10-30,2022-11-26,102.5
+PRJ-10819,Audit,Technology,R. Petrov,2022-02-06,2022-02-17,
+PRJ-10820,Litigation Support,Financial Services,S. Chen,2022-08-16,2022-10-04,203.4
+PRJ-10821,Litigation Support,Nonprofit,R. Petrov,2023-11-19,2023-12-16,189.2
+PRJ-10822,Tax Advisory,Healthcare,S. Chen,2023-07-26,2023-08-22,28.5
+PRJ-10823,Audit,Manufacturing,R. Petrov,2022-09-22,2022-10-29,105.3
+PRJ-10824,Strategy Consulting,Financial Services,S. Chen,2022-12-10,2023-03-19,344.4
+PRJ-10825,Litigation Support,Retail,M. Okafor,2022-11-11,2022-12-06,300.1
+PRJ-10826,Tax Advisory,Healthcare,M. Okafor,2022-10-29,2022-11-14,68.7
+PRJ-10827,Tax Advisory,Manufacturing,R. Petrov,2023-10-12,2023-10-29,76.0
+PRJ-10828,Litigation Support,Financial Services,J. Alvarez,2022-07-19,2022-09-03,225.0
+PRJ-10829,Tax Advisory,Real Estate,L. Fitzgerald,2022-11-02,2022-12-13,29.7
+PRJ-10830,Tax Advisory,Real Estate,S. Chen,2022-07-25,2022-08-13,150.9
+PRJ-10831,Tax Advisory,Financial Services,R. Petrov,2022-07-04,2022-07-18,13.6
+PRJ-10832,Strategy Consulting,Technology,M. Okafor,2022-07-01,2022-07-21,371.9
+PRJ-10833,Tax Advisory,Manufacturing,J. Alvarez,2022-08-03,2022-08-18,29.8
+PRJ-10834,Strategy Consulting,Retail,T. Nakamura,2023-05-17,2023-06-15,270.2
+PRJ-10835,Strategy Consulting,Real Estate,J. Alvarez,2023-03-21,2023-04-06,126.9
+PRJ-10836,Litigation Support,Technology,R. Petrov,2023-01-28,2023-02-09,152.0
+PRJ-10837,Audit,Financial Services,S. Chen,2022-01-15,2022-02-01,371.8
+PRJ-10838,Strategy Consulting,Real Estate,T. Nakamura,2023-11-24,,351.7
+PRJ-10839,Audit,Nonprofit,S. Chen,2022-12-19,2023-01-04,241.4
+PRJ-10840,Tax Advisory,Manufacturing,R. Petrov,2022-11-10,2022-11-30,79.6
+PRJ-10841,Audit,Real Estate,J. Alvarez,2022-10-25,2022-11-19,63.7
+PRJ-10842,Tax Advisory,Financial Services,T. Nakamura,2023-03-21,2023-05-02,26.3
+PRJ-10843,Strategy Consulting,Retail,M. Okafor,2023-05-17,2023-06-09,108.4
+PRJ-10844,Tax Advisory,Retail,S. Chen,2023-02-18,2023-03-07,73.2
+PRJ-10845,Audit,Retail,L. Fitzgerald,2022-08-05,2022-08-20,180.9
+PRJ-10846,Strategy Consulting,Financial Services,T. Nakamura,2023-01-11,2023-01-20,276.0
+PRJ-10847,Strategy Consulting,Real Estate,J. Alvarez,2023-10-18,2023-12-24,163.9
+PRJ-10848,Audit,Financial Services,T. Nakamura,2022-02-19,2022-03-04,59.6
+PRJ-10849,Litigation Support,Nonprofit,J. Alvarez,2022-04-29,2022-05-22,286.6
+PRJ-10850,Tax Advisory,Technology,J. Alvarez,2023-05-01,2023-05-29,76.7
+PRJ-10851,Strategy Consulting,Retail,L. Fitzgerald,2022-01-10,2022-02-19,233.9
+PRJ-10852,Tax Advisory,Nonprofit,J. Alvarez,2022-10-04,2022-10-22,79.9
+PRJ-10853,Litigation Support,Nonprofit,S. Chen,2022-04-18,2022-06-22,320.3
+PRJ-10854,Tax Advisory,Financial Services,J. Alvarez,2022-04-19,2022-04-30,54.7
+PRJ-10855,Tax Advisory,Financial Services,S. Chen,2023-06-20,2023-07-09,130.2
+PRJ-10856,Strategy Consulting,Healthcare,L. Fitzgerald,2022-06-14,2022-07-18,32.8
+PRJ-10857,Audit,Technology,S. Chen,2023-05-08,2023-05-27,82.5
+PRJ-10858,Tax Advisory,Manufacturing,J. Alvarez,2022-04-24,2022-05-17,75.7
+PRJ-10859,Strategy Consulting,Nonprofit,R. Petrov,2022-04-03,2022-04-19,246.5
+PRJ-10860,Strategy Consulting,Manufacturing,L. Fitzgerald,2022-09-20,2022-10-07,214.8
+PRJ-10861,Litigation Support,Technology,M. Okafor,2022-02-21,2022-03-23,335.5
+PRJ-10862,Audit,Retail,J. Alvarez,2023-01-04,2023-02-13,62.3
+PRJ-10863,Strategy Consulting,Healthcare,R. Petrov,2022-04-08,2022-05-12,103.1
+PRJ-10864,Strategy Consulting,Manufacturing,J. Alvarez,2023-11-11,,194.0
+PRJ-10865,Litigation Support,Healthcare,M. Okafor,2023-09-29,2023-10-16,171.0
+PRJ-10866,Audit,Nonprofit,J. Alvarez,2022-12-17,2023-01-03,118.4
+PRJ-10867,Audit,Technology,R. Petrov,2022-10-06,2022-10-13,210.1
+PRJ-10868,Strategy Consulting,Nonprofit,R. Petrov,2023-10-27,2023-11-07,71.7
+PRJ-10869,Strategy Consulting,Retail,J. Alvarez,2022-03-02,2022-04-29,291.7
+PRJ-10870,Strategy Consulting,Real Estate,S. Chen,2023-08-28,2023-09-15,139.4
+PRJ-10871,Tax Advisory,Financial Services,L. Fitzgerald,2023-09-18,2023-10-30,63.0
+PRJ-10872,Tax Advisory,Healthcare,T. Nakamura,2023-12-02,2023-12-26,31.3
+PRJ-10873,Strategy Consulting,Nonprofit,S. Chen,2023-05-15,2023-06-12,296.9
+PRJ-10874,Audit,Technology,R. Petrov,2022-09-25,2022-11-02,137.0
+PRJ-10875,Litigation Support,Manufacturing,L. Fitzgerald,2023-06-22,2023-07-23,30.1
+PRJ-10876,Strategy Consulting,Financial Services,L. Fitzgerald,2023-11-17,2023-11-24,94.9
+PRJ-10877,Strategy Consulting,Financial Services,T. Nakamura,2023-09-26,2023-11-12,214.5
+PRJ-10878,Audit,Nonprofit,L. Fitzgerald,2022-12-21,2023-01-27,109.0
+PRJ-10879,Litigation Support,Nonprofit,R. Petrov,2023-07-26,2023-09-10,618.3
+PRJ-10880,Strategy Consulting,Financial Services,J. Alvarez,2022-06-10,2022-07-12,472.8
+PRJ-10881,Tax Advisory,Technology,R. Petrov,2022-03-18,2022-03-26,63.3
+PRJ-10882,Strategy Consulting,Healthcare,S. Chen,2022-10-12,2022-10-24,126.3
+PRJ-10883,Audit,Retail,T. Nakamura,2023-02-17,2023-03-07,548.5
+PRJ-10884,Strategy Consulting,Manufacturing,R. Petrov,2023-08-10,2023-09-08,163.5
+PRJ-10885,Tax Advisory,Real Estate,R. Petrov,2022-05-02,2022-06-29,61.9
+PRJ-10886,Strategy Consulting,Nonprofit,L. Fitzgerald,2023-02-18,2023-03-13,97.0
+PRJ-10887,Tax Advisory,Financial Services,T. Nakamura,2023-09-11,2023-09-20,308.1
+PRJ-10888,Strategy Consulting,Nonprofit,M. Okafor,2023-07-30,2023-08-19,97.7
+PRJ-10889,Audit,Nonprofit,R. Petrov,2023-01-08,2023-01-21,
+PRJ-10890,Strategy Consulting,Real Estate,S. Chen,2022-12-06,2022-12-25,56.0
+PRJ-10891,Litigation Support,Financial Services,T. Nakamura,2023-11-04,2023-12-07,69.8
+PRJ-10892,Tax Advisory,Technology,J. Alvarez,2023-11-06,2023-11-14,63.6
+PRJ-10893,Audit,Healthcare,M. Okafor,2022-10-26,2022-11-08,96.6
+PRJ-10894,Tax Advisory,Healthcare,L. Fitzgerald,2022-06-18,2022-08-03,75.0
+PRJ-10895,Tax Advisory,Real Estate,L. Fitzgerald,2023-02-24,2023-03-18,16.1
+PRJ-10896,Audit,Financial Services,S. Chen,2023-02-07,2023-03-10,107.3
+PRJ-10897,Audit,Real Estate,S. Chen,2022-04-21,2022-05-04,139.3
+PRJ-10898,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-08-26,2023-09-08,120.0
+PRJ-10899,Audit,Technology,R. Petrov,2023-06-01,2023-06-22,254.9
+PRJ-10900,Audit,Technology,J. Alvarez,2022-02-19,2022-03-11,
+PRJ-10901,Litigation Support,Technology,T. Nakamura,2023-06-05,2023-06-13,121.8
+PRJ-10902,Strategy Consulting,Retail,L. Fitzgerald,2022-05-12,2022-05-20,42.5
+PRJ-10903,Audit,Nonprofit,T. Nakamura,2022-11-26,2022-12-24,144.7
+PRJ-10904,Tax Advisory,Technology,R. Petrov,2022-09-12,2022-10-17,19.8
+PRJ-10905,Audit,Healthcare,M. Okafor,2022-05-17,2022-06-08,85.6
+PRJ-10906,Audit,Financial Services,L. Fitzgerald,2023-06-09,2023-07-14,370.9
+PRJ-10907,Audit,Nonprofit,T. Nakamura,2023-07-21,2023-08-02,99.4
+PRJ-10908,Litigation Support,Retail,S. Chen,2022-10-25,2022-11-07,44.3
+PRJ-10909,Litigation Support,Nonprofit,S. Chen,2023-10-28,2023-11-08,172.5
+PRJ-10910,Strategy Consulting,Retail,T. Nakamura,2023-10-15,2023-11-05,136.8
+PRJ-10911,Tax Advisory,Manufacturing,M. Okafor,2023-08-20,2023-09-03,51.3
+PRJ-10912,Litigation Support,Nonprofit,L. Fitzgerald,2023-07-01,2023-07-28,225.1
+PRJ-10913,Audit,Real Estate,R. Petrov,2023-06-20,2023-08-07,55.9
+PRJ-10914,Audit,Technology,S. Chen,2022-02-27,2022-03-20,112.0
+PRJ-10915,Audit,Real Estate,S. Chen,2023-12-01,2023-12-25,
+PRJ-10916,Audit,Real Estate,J. Alvarez,2022-10-30,2022-11-23,233.9
+PRJ-10917,Audit,Financial Services,J. Alvarez,2023-04-09,2023-05-05,78.2
+PRJ-10918,Audit,Real Estate,L. Fitzgerald,2022-08-18,2022-09-09,53.9
+PRJ-10919,Strategy Consulting,Financial Services,R. Petrov,2022-10-22,2022-11-09,146.6
+PRJ-10920,Litigation Support,Manufacturing,R. Petrov,2022-11-17,2022-11-23,182.8
+PRJ-10921,Strategy Consulting,Manufacturing,J. Alvarez,2022-07-27,2022-08-18,102.2
+PRJ-10922,Litigation Support,Real Estate,R. Petrov,2023-10-11,2023-10-22,223.7
+PRJ-10923,Strategy Consulting,Nonprofit,M. Okafor,2023-07-14,2023-07-26,363.8
+PRJ-10924,Strategy Consulting,Retail,L. Fitzgerald,2022-10-29,2022-11-25,295.7
+PRJ-10925,Tax Advisory,Nonprofit,J. Alvarez,2022-06-27,2022-08-26,38.2
+PRJ-10926,Strategy Consulting,Manufacturing,R. Petrov,2022-10-13,2022-11-18,65.0
+PRJ-10927,Litigation Support,Retail,S. Chen,2022-09-19,2022-10-03,402.9
+PRJ-10928,Audit,Technology,L. Fitzgerald,2022-02-10,2022-02-28,318.1
+PRJ-10929,Audit,Healthcare,T. Nakamura,2023-10-03,2023-10-27,146.9
+PRJ-10930,Litigation Support,Nonprofit,M. Okafor,2023-08-10,2023-09-13,182.1
+PRJ-10931,Litigation Support,Manufacturing,L. Fitzgerald,2022-08-14,2022-08-21,348.5
+PRJ-10932,Strategy Consulting,Financial Services,J. Alvarez,2022-06-13,2022-06-20,373.8
+PRJ-10933,Tax Advisory,Financial Services,R. Petrov,2022-08-15,2022-09-25,123.6
+PRJ-10934,Strategy Consulting,Nonprofit,M. Okafor,2022-10-28,2022-11-13,69.9
+PRJ-10935,Audit,Real Estate,T. Nakamura,2023-07-29,2023-08-16,55.3
+PRJ-10936,Strategy Consulting,Nonprofit,J. Alvarez,2022-12-21,2023-01-23,120.9
+PRJ-10937,Tax Advisory,Nonprofit,T. Nakamura,2022-09-07,2022-10-25,
+PRJ-10938,Strategy Consulting,Nonprofit,M. Okafor,2022-04-27,2022-05-15,101.2
+PRJ-10939,Tax Advisory,Financial Services,L. Fitzgerald,2023-06-14,2023-06-26,18.5
+PRJ-10940,Strategy Consulting,Healthcare,T. Nakamura,2023-04-02,2023-05-27,294.7
+PRJ-10941,Tax Advisory,Healthcare,L. Fitzgerald,2023-06-11,2023-06-25,25.3
+PRJ-10942,Audit,Manufacturing,S. Chen,2023-07-05,2023-07-29,117.8
+PRJ-10943,Tax Advisory,Nonprofit,J. Alvarez,2023-10-07,2023-11-03,34.0
+PRJ-10944,Strategy Consulting,Real Estate,L. Fitzgerald,2022-04-17,2022-05-07,107.7
+PRJ-10945,Audit,Real Estate,L. Fitzgerald,2023-03-22,2023-04-12,175.9
+PRJ-10946,Litigation Support,Manufacturing,L. Fitzgerald,2022-01-25,2022-02-13,147.4
+PRJ-10947,Tax Advisory,Healthcare,J. Alvarez,2022-02-25,2022-03-13,56.4
+PRJ-10948,Audit,Healthcare,T. Nakamura,2022-08-22,2022-10-15,100.1
+PRJ-10949,Strategy Consulting,Technology,R. Petrov,2023-02-19,2023-03-08,222.1
+PRJ-10950,Tax Advisory,Manufacturing,R. Petrov,2023-07-02,2023-07-19,97.7
+PRJ-10951,Audit,Nonprofit,T. Nakamura,2023-08-23,2023-09-18,272.8
+PRJ-10952,Audit,Real Estate,J. Alvarez,2023-05-30,2023-06-26,111.3
+PRJ-10953,Audit,Real Estate,L. Fitzgerald,2022-03-30,2022-04-09,40.0
+PRJ-10954,Audit,Technology,R. Petrov,2023-11-08,2023-11-30,52.0
+PRJ-10955,Audit,Retail,T. Nakamura,2023-02-05,2023-04-26,403.5
+PRJ-10956,Strategy Consulting,Real Estate,T. Nakamura,2023-10-12,2023-11-09,234.5
+PRJ-10957,Audit,Nonprofit,L. Fitzgerald,2022-01-12,2022-01-27,34.0
+PRJ-10958,Litigation Support,Financial Services,S. Chen,2022-01-06,2022-01-20,115.2
+PRJ-10959,Litigation Support,Technology,T. Nakamura,2022-03-29,2022-04-13,177.8
+PRJ-10960,Tax Advisory,Nonprofit,L. Fitzgerald,2022-12-19,2023-01-20,15.0
+PRJ-10961,Audit,Nonprofit,T. Nakamura,2022-07-08,2022-08-01,56.6
+PRJ-10962,Audit,Real Estate,M. Okafor,2022-07-05,2022-07-17,512.5
+PRJ-10963,Litigation Support,Financial Services,J. Alvarez,2023-07-17,2023-08-03,34.0
+PRJ-10964,Tax Advisory,Financial Services,J. Alvarez,2022-03-10,2022-05-17,129.7
+PRJ-10965,Audit,Retail,L. Fitzgerald,2022-12-05,2023-01-02,50.7
+PRJ-10966,Tax Advisory,Nonprofit,L. Fitzgerald,2022-10-19,2022-11-07,43.3
+PRJ-10967,Litigation Support,Retail,M. Okafor,2022-12-03,2022-12-11,1273.3
+PRJ-10968,Litigation Support,Healthcare,L. Fitzgerald,2023-08-03,2023-08-30,238.9
+PRJ-10969,Litigation Support,Real Estate,M. Okafor,2022-06-22,2022-07-14,427.7
+PRJ-10970,Audit,Retail,S. Chen,2023-10-19,2023-11-04,148.9
+PRJ-10971,Tax Advisory,Real Estate,M. Okafor,2022-12-06,2022-12-23,72.4
+PRJ-10972,Strategy Consulting,Technology,R. Petrov,2022-11-09,2022-11-25,231.8
+PRJ-10973,Tax Advisory,Manufacturing,S. Chen,2022-03-25,2022-04-14,78.1
+PRJ-10974,Strategy Consulting,Real Estate,S. Chen,2022-07-21,2022-08-10,329.9
+PRJ-10975,Audit,Nonprofit,J. Alvarez,2022-01-20,2022-03-05,34.7
+PRJ-10976,Strategy Consulting,Nonprofit,J. Alvarez,2023-08-16,2023-08-30,79.6
+PRJ-10977,Tax Advisory,Financial Services,S. Chen,2023-07-19,2023-09-04,39.5
+PRJ-10978,Audit,Financial Services,R. Petrov,2022-06-02,2022-10-17,26.9
+PRJ-10979,Tax Advisory,Retail,T. Nakamura,2022-10-25,2022-11-18,125.7
+PRJ-10980,Audit,Financial Services,T. Nakamura,2023-01-08,2023-02-01,115.5
+PRJ-10981,Tax Advisory,Nonprofit,S. Chen,2023-09-21,2023-10-21,86.4
+PRJ-10982,Litigation Support,Real Estate,T. Nakamura,2022-06-13,2022-07-05,295.1
+PRJ-10983,Audit,Financial Services,L. Fitzgerald,2022-05-30,2022-06-18,104.5
+PRJ-10984,Strategy Consulting,Technology,M. Okafor,2023-05-15,2023-06-25,130.9
+PRJ-10985,Audit,Healthcare,M. Okafor,2023-11-16,2023-11-19,181.8
+PRJ-10986,Audit,Real Estate,M. Okafor,2023-04-11,2023-05-04,189.9
+PRJ-10987,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-06-18,2023-07-04,148.0
+PRJ-10988,Litigation Support,Healthcare,L. Fitzgerald,2023-07-12,2023-08-18,439.3
+PRJ-10989,Litigation Support,Technology,L. Fitzgerald,2023-08-25,2023-09-20,116.4
+PRJ-10990,Litigation Support,Real Estate,J. Alvarez,2023-01-21,2023-01-30,101.3
+PRJ-10991,Strategy Consulting,Retail,T. Nakamura,2022-12-20,2023-01-24,96.7
+PRJ-10992,Tax Advisory,Technology,T. Nakamura,2023-03-27,2023-04-24,1657.3
+PRJ-10993,Audit,Manufacturing,T. Nakamura,2022-08-05,2022-09-02,199.3
+PRJ-10994,Audit,Retail,M. Okafor,2022-05-02,2022-05-29,76.6
+PRJ-10995,Litigation Support,Technology,M. Okafor,2023-05-09,2023-06-11,350.2
+PRJ-10996,Litigation Support,Technology,S. Chen,2023-10-25,2023-11-26,459.7
+PRJ-10997,Strategy Consulting,Manufacturing,S. Chen,2023-08-11,2023-09-19,191.8
+PRJ-10998,Litigation Support,Retail,L. Fitzgerald,2023-08-10,2023-08-22,196.3
+PRJ-10999,Audit,Retail,M. Okafor,2023-06-14,2023-06-27,107.1
+PRJ-11000,Strategy Consulting,Financial Services,T. Nakamura,2023-11-09,2023-11-28,93.5
+PRJ-11001,Strategy Consulting,Manufacturing,S. Chen,2023-04-28,2023-05-15,
+PRJ-11002,Strategy Consulting,Retail,S. Chen,2023-09-08,2023-10-01,39.8
+PRJ-11003,Audit,Financial Services,S. Chen,2023-06-08,2023-06-20,120.1
+PRJ-11004,Audit,Nonprofit,L. Fitzgerald,2023-04-10,2023-05-16,190.4
+PRJ-11005,Litigation Support,Manufacturing,S. Chen,2022-05-16,2022-05-29,64.9
+PRJ-11006,Audit,Retail,T. Nakamura,2023-06-01,2023-06-12,70.0
+PRJ-11007,Litigation Support,Real Estate,S. Chen,2022-07-01,2022-07-19,357.4
+PRJ-11008,Tax Advisory,Financial Services,T. Nakamura,2023-06-29,2023-07-05,49.9
+PRJ-11009,Tax Advisory,Manufacturing,J. Alvarez,2022-05-14,2022-05-23,93.6
+PRJ-11010,Strategy Consulting,Financial Services,J. Alvarez,2023-11-26,2023-12-20,156.4
+PRJ-11011,Litigation Support,Financial Services,R. Petrov,2022-02-14,2022-02-23,518.4
+PRJ-11012,Litigation Support,Technology,S. Chen,2023-05-09,2023-06-01,24.2
+PRJ-11013,Strategy Consulting,Technology,M. Okafor,2023-08-13,2023-09-26,529.0
+PRJ-11014,Audit,Retail,M. Okafor,2022-08-27,2022-09-11,139.0
+PRJ-11015,Strategy Consulting,Manufacturing,M. Okafor,2023-07-11,2023-07-22,263.9
+PRJ-11016,Tax Advisory,Retail,J. Alvarez,2022-01-08,2022-02-05,83.7
+PRJ-11017,Litigation Support,Manufacturing,T. Nakamura,2022-11-20,2023-03-09,5285.5
+PRJ-11018,Tax Advisory,Manufacturing,S. Chen,2023-08-23,2023-09-07,79.0
+PRJ-11019,Audit,Real Estate,T. Nakamura,2023-01-10,2023-01-17,117.9
+PRJ-11020,Litigation Support,Nonprofit,R. Petrov,2023-02-28,2023-03-16,123.0
+PRJ-11021,Litigation Support,Financial Services,R. Petrov,2023-07-27,2023-08-19,138.6
+PRJ-11022,Litigation Support,Healthcare,M. Okafor,2023-02-12,2023-03-25,112.5
+PRJ-11023,Strategy Consulting,Real Estate,L. Fitzgerald,2022-08-24,2022-09-13,150.0
+PRJ-11024,Tax Advisory,Nonprofit,S. Chen,2023-06-05,2023-06-28,47.7
+PRJ-11025,Tax Advisory,Healthcare,T. Nakamura,2023-12-02,2023-12-14,106.9
+PRJ-11026,Strategy Consulting,Retail,R. Petrov,2022-01-06,2022-01-23,94.6
+PRJ-11027,Strategy Consulting,Real Estate,S. Chen,2023-09-07,2023-09-19,58.5
+PRJ-11028,Tax Advisory,Manufacturing,M. Okafor,2022-03-23,2022-04-27,43.0
+PRJ-11029,Litigation Support,Nonprofit,R. Petrov,2023-02-15,2023-03-10,240.4
+PRJ-11030,Litigation Support,Financial Services,M. Okafor,2023-09-04,2023-09-23,362.8
+PRJ-11031,Audit,Real Estate,S. Chen,2023-03-26,2023-04-14,157.7
+PRJ-11032,Audit,Real Estate,L. Fitzgerald,2023-06-15,2023-06-29,144.5
+PRJ-11033,Audit,Manufacturing,T. Nakamura,2022-08-26,2022-09-14,
+PRJ-11034,Litigation Support,Nonprofit,J. Alvarez,2023-11-02,2023-12-08,541.4
+PRJ-11035,Audit,Retail,J. Alvarez,2023-02-14,2023-03-30,235.9
+PRJ-11036,Tax Advisory,Technology,R. Petrov,2023-06-15,2023-07-08,63.8
+PRJ-11037,Audit,Nonprofit,J. Alvarez,2023-07-17,2023-08-03,77.9
+PRJ-11038,Audit,Real Estate,T. Nakamura,2022-12-23,2023-02-04,184.7
+PRJ-11039,Tax Advisory,Real Estate,M. Okafor,2022-07-19,2022-08-04,54.4
+PRJ-11040,Tax Advisory,Technology,T. Nakamura,2023-06-03,2023-07-03,553.7
+PRJ-11041,Audit,Manufacturing,T. Nakamura,2022-04-30,2022-05-05,43.7
+PRJ-11042,Strategy Consulting,Healthcare,T. Nakamura,2023-08-12,2023-08-22,102.0
+PRJ-11043,Audit,Technology,R. Petrov,2022-09-07,2022-09-26,84.1
+PRJ-11044,Strategy Consulting,Real Estate,R. Petrov,2023-08-24,2023-10-13,109.2
+PRJ-11045,Strategy Consulting,Technology,J. Alvarez,2023-01-27,2023-02-21,188.5
+PRJ-11046,Litigation Support,Retail,L. Fitzgerald,2022-11-20,2022-11-30,309.2
+PRJ-11047,Tax Advisory,Healthcare,T. Nakamura,2022-09-27,2022-10-17,124.2
+PRJ-11048,Audit,Manufacturing,R. Petrov,2022-12-17,2022-12-28,191.9
+PRJ-11049,Audit,Retail,R. Petrov,2022-08-12,2022-09-15,40.4
+PRJ-11050,Strategy Consulting,Healthcare,S. Chen,2023-12-01,2023-12-13,195.2
+PRJ-11051,Strategy Consulting,Retail,R. Petrov,2022-08-29,2022-10-09,81.6
+PRJ-11052,Strategy Consulting,Real Estate,M. Okafor,2022-07-27,2022-09-21,65.2
+PRJ-11053,Strategy Consulting,Real Estate,T. Nakamura,2022-04-20,2022-05-20,79.9
+PRJ-11054,Audit,Manufacturing,L. Fitzgerald,2023-05-20,2023-06-19,95.3
+PRJ-11055,Litigation Support,Real Estate,T. Nakamura,2023-05-09,2023-05-28,136.7
+PRJ-11056,Tax Advisory,Healthcare,R. Petrov,2023-08-12,2023-08-23,61.7
+PRJ-11057,Strategy Consulting,Technology,S. Chen,2023-06-08,2023-06-23,251.9
+PRJ-11058,Audit,Retail,T. Nakamura,2023-06-23,2023-07-04,102.3
+PRJ-11059,Strategy Consulting,Technology,T. Nakamura,2022-12-22,2023-01-09,25.0
+PRJ-11060,Tax Advisory,Nonprofit,S. Chen,2022-05-04,2022-06-06,324.8
+PRJ-11061,Litigation Support,Technology,M. Okafor,2022-01-13,2022-01-30,197.3
+PRJ-11062,Litigation Support,Technology,T. Nakamura,2023-01-06,2023-02-04,203.2
+PRJ-11063,Litigation Support,Healthcare,S. Chen,2022-08-31,2022-10-10,87.5
+PRJ-11064,Audit,Financial Services,M. Okafor,2023-05-26,2023-06-27,198.0
+PRJ-11065,Tax Advisory,Technology,L. Fitzgerald,2023-01-09,2023-01-30,81.6
+PRJ-11066,Strategy Consulting,Healthcare,R. Petrov,2022-05-15,2022-06-13,240.2
+PRJ-11067,Strategy Consulting,Nonprofit,S. Chen,2022-10-04,2022-10-18,117.1
+PRJ-11068,Strategy Consulting,Financial Services,R. Petrov,2022-07-20,2022-09-11,161.1
+PRJ-11069,Audit,Nonprofit,S. Chen,2022-01-10,2022-01-18,50.4
+PRJ-11070,Audit,Technology,S. Chen,2023-10-08,2023-10-29,134.7
+PRJ-11071,Tax Advisory,Nonprofit,M. Okafor,2022-11-04,2022-11-28,67.7
+PRJ-11072,Audit,Real Estate,T. Nakamura,2022-04-12,2022-06-02,102.6
+PRJ-11073,Litigation Support,Manufacturing,S. Chen,2023-05-03,2023-05-15,65.2
+PRJ-11074,Strategy Consulting,Manufacturing,R. Petrov,2022-09-24,2022-10-01,139.5
+PRJ-11075,Tax Advisory,Financial Services,T. Nakamura,2022-09-21,2022-11-16,
+PRJ-11076,Tax Advisory,Technology,J. Alvarez,2023-11-27,2023-12-21,60.9
+PRJ-11077,Strategy Consulting,Retail,T. Nakamura,2023-10-27,2023-11-10,62.1
+PRJ-11078,Tax Advisory,Real Estate,M. Okafor,2023-11-21,2023-12-08,46.1
+PRJ-11079,Tax Advisory,Real Estate,L. Fitzgerald,2022-03-22,2022-04-20,147.2
+PRJ-11080,Tax Advisory,Healthcare,R. Petrov,2022-05-29,2022-06-22,27.6
+PRJ-11081,Strategy Consulting,Nonprofit,M. Okafor,2023-09-20,2023-10-31,212.6
+PRJ-11082,Litigation Support,Real Estate,J. Alvarez,2022-12-18,2022-12-29,604.7
+PRJ-11083,Audit,Healthcare,L. Fitzgerald,2022-10-01,2022-10-10,68.0
+PRJ-11084,Litigation Support,Technology,M. Okafor,2023-01-07,2023-02-03,169.8
+PRJ-11085,Strategy Consulting,Financial Services,R. Petrov,2022-07-08,2022-07-28,299.4
+PRJ-11086,Strategy Consulting,Retail,L. Fitzgerald,2022-09-15,2022-10-08,119.9
+PRJ-11087,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-06-20,2022-09-01,83.6
+PRJ-11088,Tax Advisory,Manufacturing,J. Alvarez,2023-04-30,2023-05-23,19.5
+PRJ-11089,Tax Advisory,Manufacturing,R. Petrov,2022-03-27,2022-04-17,247.4
+PRJ-11090,Audit,Financial Services,S. Chen,2023-02-04,2023-02-20,105.1
+PRJ-11091,Tax Advisory,Retail,L. Fitzgerald,2023-10-04,2023-11-20,52.9
+PRJ-11092,Audit,Financial Services,S. Chen,2023-11-11,,25.5
+PRJ-11093,Tax Advisory,Healthcare,R. Petrov,2023-07-08,2023-07-25,22.1
+PRJ-11094,Strategy Consulting,Financial Services,R. Petrov,2023-07-07,2023-08-05,111.1
+PRJ-11095,Audit,Financial Services,R. Petrov,2023-10-14,2023-11-10,39.2
+PRJ-11096,Strategy Consulting,Technology,T. Nakamura,2023-07-01,2023-07-10,618.7
+PRJ-11097,Tax Advisory,Healthcare,R. Petrov,2022-04-02,2022-04-16,68.5
+PRJ-11098,Tax Advisory,Healthcare,R. Petrov,2022-11-07,2022-11-28,80.8
+PRJ-11099,Audit,Financial Services,S. Chen,2023-04-26,2023-05-24,76.6
+PRJ-11100,Tax Advisory,Nonprofit,R. Petrov,2023-05-04,2023-05-22,212.2
+PRJ-11101,Audit,Real Estate,R. Petrov,2023-09-04,2023-09-13,198.6
+PRJ-11102,Audit,Manufacturing,T. Nakamura,2023-02-26,2023-03-25,61.4
+PRJ-11103,Strategy Consulting,Technology,R. Petrov,2023-10-24,2023-11-18,423.9
+PRJ-11104,Tax Advisory,Technology,S. Chen,2023-03-09,2023-03-29,48.2
+PRJ-11105,Litigation Support,Financial Services,T. Nakamura,2022-10-06,2022-11-05,83.3
+PRJ-11106,Audit,Nonprofit,T. Nakamura,2023-02-27,2023-03-15,222.5
+PRJ-11107,Audit,Manufacturing,S. Chen,2022-04-24,2022-05-18,86.4
+PRJ-11108,Litigation Support,Financial Services,R. Petrov,2023-09-30,2023-10-20,147.3
+PRJ-11109,Tax Advisory,Healthcare,J. Alvarez,2023-07-02,2023-07-20,260.9
+PRJ-11110,Audit,Manufacturing,M. Okafor,2023-03-25,2023-04-08,
+PRJ-11111,Strategy Consulting,Retail,J. Alvarez,2023-05-21,2023-06-08,252.5
+PRJ-11112,Audit,Technology,M. Okafor,2023-05-26,2023-07-11,76.2
+PRJ-11113,Strategy Consulting,Technology,L. Fitzgerald,2022-12-05,2022-12-19,405.2
+PRJ-11114,Audit,Real Estate,S. Chen,2023-02-06,2023-03-16,32.5
+PRJ-11115,Audit,Technology,S. Chen,2022-09-14,2022-10-17,74.3
+PRJ-11116,Strategy Consulting,Real Estate,J. Alvarez,2022-09-12,2022-10-17,37.8
+PRJ-11117,Tax Advisory,Technology,S. Chen,2022-02-04,2022-03-08,25.7
+PRJ-11118,Audit,Nonprofit,J. Alvarez,2022-08-02,2022-08-13,121.2
+PRJ-11119,Tax Advisory,Nonprofit,M. Okafor,2022-06-12,2022-07-13,45.1
+PRJ-11120,Litigation Support,Manufacturing,L. Fitzgerald,2023-06-18,2023-07-17,215.4
+PRJ-11121,Audit,Technology,L. Fitzgerald,2023-01-05,2023-01-13,478.7
+PRJ-11122,Strategy Consulting,Real Estate,L. Fitzgerald,2022-04-26,2022-05-18,465.3
+PRJ-11123,Audit,Technology,M. Okafor,2022-10-10,2022-10-19,64.0
+PRJ-11124,Litigation Support,Technology,S. Chen,2023-05-02,2023-06-07,1453.1
+PRJ-11125,Litigation Support,Retail,M. Okafor,2022-09-12,2022-11-02,182.9
+PRJ-11126,Audit,Manufacturing,L. Fitzgerald,2023-10-03,2023-10-23,43.5
+PRJ-11127,Audit,Healthcare,L. Fitzgerald,2023-07-04,2023-07-30,49.9
+PRJ-11128,Strategy Consulting,Retail,R. Petrov,2023-07-26,2023-08-11,279.1
+PRJ-11129,Strategy Consulting,Real Estate,M. Okafor,2023-03-26,2023-04-18,24.2
+PRJ-11130,Strategy Consulting,Manufacturing,L. Fitzgerald,2022-05-18,2022-06-13,203.6
+PRJ-11131,Audit,Manufacturing,R. Petrov,2023-07-27,2023-08-07,285.0
+PRJ-11132,Audit,Nonprofit,R. Petrov,2022-07-11,2022-08-22,193.2
+PRJ-11133,Tax Advisory,Healthcare,L. Fitzgerald,2023-09-06,2023-10-01,17.3
+PRJ-11134,Strategy Consulting,Financial Services,S. Chen,2022-06-08,2022-06-27,105.4
+PRJ-11135,Tax Advisory,Real Estate,M. Okafor,2023-04-10,2023-04-25,76.5
+PRJ-11136,Audit,Nonprofit,T. Nakamura,2022-07-09,2022-07-30,74.8
+PRJ-11137,Strategy Consulting,Financial Services,M. Okafor,2022-09-02,2022-09-12,70.1
+PRJ-11138,Tax Advisory,Manufacturing,L. Fitzgerald,2023-02-01,2023-02-11,96.5
+PRJ-11139,Audit,Nonprofit,R. Petrov,2022-06-07,2022-07-04,191.3
+PRJ-11140,Litigation Support,Healthcare,R. Petrov,2022-04-24,2022-05-07,59.8
+PRJ-11141,Audit,Nonprofit,J. Alvarez,2022-05-13,2022-05-24,276.8
+PRJ-11142,Audit,Manufacturing,S. Chen,2022-07-16,2022-08-12,86.7
+PRJ-11143,Audit,Financial Services,L. Fitzgerald,2023-11-05,2023-11-23,207.7
+PRJ-11144,Tax Advisory,Financial Services,L. Fitzgerald,2022-02-20,2022-04-10,39.5
+PRJ-11145,Tax Advisory,Financial Services,L. Fitzgerald,2022-08-02,2022-09-08,202.7
+PRJ-11146,Litigation Support,Real Estate,J. Alvarez,2023-10-17,2023-10-29,212.3
+PRJ-11147,Audit,Financial Services,L. Fitzgerald,2023-03-02,2023-03-30,67.1
+PRJ-11148,Strategy Consulting,Real Estate,L. Fitzgerald,2023-09-24,2023-11-11,201.0
+PRJ-11149,Audit,Manufacturing,L. Fitzgerald,2022-11-08,2022-11-16,189.2
+PRJ-11150,Audit,Retail,T. Nakamura,2022-08-25,2022-09-05,250.6
+PRJ-11151,Tax Advisory,Retail,S. Chen,2022-09-12,2022-10-06,45.9
+PRJ-11152,Litigation Support,Retail,T. Nakamura,2023-03-02,2023-07-15,808.6
+PRJ-11153,Strategy Consulting,Real Estate,L. Fitzgerald,2023-11-22,2023-12-10,229.4
+PRJ-11154,Tax Advisory,Nonprofit,R. Petrov,2022-06-20,2022-07-25,87.2
+PRJ-11155,Strategy Consulting,Financial Services,R. Petrov,2023-11-05,,119.8
+PRJ-11156,Audit,Financial Services,R. Petrov,2022-11-19,2022-12-17,141.0
+PRJ-11157,Litigation Support,Healthcare,M. Okafor,2023-10-11,2023-11-07,318.8
+PRJ-11158,Tax Advisory,Nonprofit,M. Okafor,2023-07-31,2023-08-14,107.9
+PRJ-11159,Tax Advisory,Technology,T. Nakamura,2022-09-18,2022-09-28,40.6
+PRJ-11160,Tax Advisory,Technology,R. Petrov,2022-01-01,2022-02-03,81.6
+PRJ-11161,Strategy Consulting,Healthcare,T. Nakamura,2022-05-19,2022-07-15,206.7
+PRJ-11162,Strategy Consulting,Healthcare,J. Alvarez,2022-08-16,2022-09-16,149.4
+PRJ-11163,Audit,Healthcare,J. Alvarez,2022-10-10,2022-10-26,55.9
+PRJ-11164,Strategy Consulting,Financial Services,T. Nakamura,2023-08-09,2023-09-12,244.1
+PRJ-11165,Audit,Manufacturing,R. Petrov,2022-05-22,2022-06-11,97.7
+PRJ-11166,Audit,Financial Services,S. Chen,2022-11-04,2022-11-20,41.5
+PRJ-11167,Audit,Technology,T. Nakamura,2022-03-21,2022-04-19,223.8
+PRJ-11168,Strategy Consulting,Real Estate,R. Petrov,2023-08-14,2023-09-04,213.0
+PRJ-11169,Strategy Consulting,Manufacturing,T. Nakamura,2022-02-08,2022-02-22,150.7
+PRJ-11170,Strategy Consulting,Financial Services,R. Petrov,2022-02-27,2022-03-26,244.6
+PRJ-11171,Strategy Consulting,Healthcare,M. Okafor,2023-03-21,2023-04-05,211.7
+PRJ-11172,Tax Advisory,Real Estate,J. Alvarez,2022-08-21,2022-09-30,13.3
+PRJ-11173,Strategy Consulting,Real Estate,T. Nakamura,2023-10-12,2023-10-24,107.3
+PRJ-11174,Strategy Consulting,Technology,J. Alvarez,2022-02-12,2022-02-28,243.7
+PRJ-11175,Tax Advisory,Financial Services,S. Chen,2022-08-15,2022-09-14,126.0
+PRJ-11176,Audit,Nonprofit,L. Fitzgerald,2023-04-02,2023-04-11,193.6
+PRJ-11177,Strategy Consulting,Financial Services,T. Nakamura,2023-03-19,2023-04-12,350.4
+PRJ-11178,Audit,Technology,S. Chen,2022-03-26,2022-04-17,92.7
+PRJ-11179,Tax Advisory,Nonprofit,J. Alvarez,2022-09-26,2022-10-22,17.3
+PRJ-11180,Audit,Financial Services,R. Petrov,2022-05-14,2022-05-23,58.4
+PRJ-11181,Strategy Consulting,Technology,T. Nakamura,2023-02-09,2023-03-21,51.7
+PRJ-11182,Litigation Support,Retail,T. Nakamura,2023-06-21,2023-08-12,128.7
+PRJ-11183,Audit,Manufacturing,M. Okafor,2022-11-28,2022-12-05,82.5
+PRJ-11184,Litigation Support,Financial Services,J. Alvarez,2023-02-28,2023-04-13,91.5
+PRJ-11185,Tax Advisory,Healthcare,S. Chen,2023-09-01,2023-09-16,53.8
+PRJ-11186,Litigation Support,Real Estate,M. Okafor,2022-12-25,2023-01-22,223.7
+PRJ-11187,Litigation Support,Real Estate,R. Petrov,2023-03-28,2023-05-17,437.2
+PRJ-11188,Audit,Real Estate,S. Chen,2023-01-18,2023-01-27,93.3
+PRJ-11189,Audit,Nonprofit,J. Alvarez,2022-02-25,2022-03-21,
+PRJ-11190,Audit,Financial Services,S. Chen,2022-10-22,2022-11-02,61.1
+PRJ-11191,Audit,Nonprofit,J. Alvarez,2023-04-28,2023-05-18,152.6
+PRJ-11192,Audit,Retail,L. Fitzgerald,2022-07-28,2022-08-10,122.8
+PRJ-11193,Tax Advisory,Real Estate,M. Okafor,2023-09-30,2023-10-12,51.1
+PRJ-11194,Strategy Consulting,Retail,L. Fitzgerald,2022-01-19,2022-02-27,
+PRJ-11195,Tax Advisory,Nonprofit,T. Nakamura,2022-06-24,2022-07-06,16.5
+PRJ-11196,Audit,Retail,L. Fitzgerald,2022-02-24,2022-03-10,42.1
+PRJ-11197,Tax Advisory,Manufacturing,J. Alvarez,2022-10-05,2022-10-13,56.6
+PRJ-11198,Litigation Support,Nonprofit,M. Okafor,2022-01-20,2022-01-31,104.9
+PRJ-11199,Audit,Nonprofit,R. Petrov,2023-01-25,2023-02-15,138.7
+PRJ-11200,Tax Advisory,Nonprofit,J. Alvarez,2023-05-12,2023-06-04,36.2
+PRJ-11201,Strategy Consulting,Financial Services,J. Alvarez,2023-05-28,2023-06-14,102.3
+PRJ-11202,Strategy Consulting,Financial Services,L. Fitzgerald,2022-09-11,2022-10-27,484.0
+PRJ-11203,Strategy Consulting,Healthcare,M. Okafor,2022-06-10,2022-07-14,60.4
+PRJ-11204,Audit,Nonprofit,M. Okafor,2022-11-06,2022-11-16,211.8
+PRJ-11205,Audit,Financial Services,M. Okafor,2023-10-03,2023-11-24,212.9
+PRJ-11206,Audit,Technology,J. Alvarez,2022-10-14,2022-10-26,54.7
+PRJ-11207,Audit,Healthcare,R. Petrov,2022-03-31,2022-04-24,244.7
+PRJ-11208,Strategy Consulting,Financial Services,L. Fitzgerald,2023-10-03,2023-10-28,220.7
+PRJ-11209,Litigation Support,Technology,S. Chen,2023-03-13,2023-03-22,262.9
+PRJ-11210,Strategy Consulting,Financial Services,M. Okafor,2022-05-15,2022-06-26,312.2
+PRJ-11211,Audit,Retail,T. Nakamura,2022-07-27,2022-08-16,102.2
+PRJ-11212,Strategy Consulting,Healthcare,L. Fitzgerald,2023-06-21,2023-07-19,51.4
+PRJ-11213,Strategy Consulting,Technology,S. Chen,2023-08-02,2023-08-22,223.9
+PRJ-11214,Strategy Consulting,Healthcare,J. Alvarez,2022-05-02,2022-05-19,329.5
+PRJ-11215,Audit,Real Estate,S. Chen,2022-11-23,2022-12-04,178.2
+PRJ-11216,Strategy Consulting,Technology,R. Petrov,2023-10-15,2023-11-02,147.5
+PRJ-11217,Strategy Consulting,Healthcare,S. Chen,2022-04-20,2022-05-06,175.6
+PRJ-11218,Audit,Manufacturing,T. Nakamura,2023-09-13,2023-10-17,109.4
+PRJ-11219,Litigation Support,Retail,T. Nakamura,2022-01-27,2022-02-04,147.3
+PRJ-11220,Tax Advisory,Nonprofit,R. Petrov,2023-09-12,2023-10-30,204.2
+PRJ-11221,Tax Advisory,Nonprofit,M. Okafor,2023-02-01,2023-03-04,24.3
+PRJ-11222,Tax Advisory,Retail,S. Chen,2022-02-03,2022-02-27,42.2
+PRJ-11223,Tax Advisory,Manufacturing,M. Okafor,2022-08-16,2022-09-03,73.7
+PRJ-11224,Strategy Consulting,Retail,S. Chen,2023-03-26,2023-04-08,86.7
+PRJ-11225,Strategy Consulting,Technology,L. Fitzgerald,2023-04-14,2023-04-26,79.0
+PRJ-11226,Strategy Consulting,Technology,R. Petrov,2023-09-15,2023-09-28,143.1
+PRJ-11227,Strategy Consulting,Technology,L. Fitzgerald,2023-09-19,2023-11-09,241.8
+PRJ-11228,Strategy Consulting,Financial Services,T. Nakamura,2023-10-19,2023-11-12,99.9
+PRJ-11229,Strategy Consulting,Real Estate,J. Alvarez,2023-04-08,2023-05-05,212.8
+PRJ-11230,Tax Advisory,Manufacturing,S. Chen,2023-02-10,2023-03-14,63.3
+PRJ-11231,Strategy Consulting,Manufacturing,T. Nakamura,2023-10-08,2023-10-17,210.2
+PRJ-11232,Strategy Consulting,Retail,M. Okafor,2022-11-08,2022-12-13,275.6
+PRJ-11233,Strategy Consulting,Healthcare,R. Petrov,2022-10-29,2022-11-19,87.9
+PRJ-11234,Litigation Support,Manufacturing,L. Fitzgerald,2022-05-26,2022-06-13,322.7
+PRJ-11235,Tax Advisory,Nonprofit,R. Petrov,2023-05-28,2023-08-22,127.2
+PRJ-11236,Audit,Real Estate,T. Nakamura,2023-07-14,2023-07-23,69.2
+PRJ-11237,Audit,Technology,M. Okafor,2022-07-03,2022-08-04,148.4
+PRJ-11238,Tax Advisory,Nonprofit,S. Chen,2022-04-03,2022-05-23,51.0
+PRJ-11239,Audit,Nonprofit,L. Fitzgerald,2022-06-17,2022-07-18,47.0
+PRJ-11240,Strategy Consulting,Manufacturing,J. Alvarez,2023-04-06,2023-06-03,98.2
+PRJ-11241,Litigation Support,Manufacturing,T. Nakamura,2023-06-08,2023-06-21,806.8
+PRJ-11242,Litigation Support,Retail,R. Petrov,2022-02-14,2022-03-21,136.1
+PRJ-11243,Strategy Consulting,Healthcare,T. Nakamura,2022-06-03,2022-06-23,114.4
+PRJ-11244,Audit,Retail,S. Chen,2022-02-22,2022-02-28,122.2
+PRJ-11245,Tax Advisory,Healthcare,L. Fitzgerald,2023-04-02,2023-04-15,59.4
+PRJ-11246,Audit,Retail,J. Alvarez,2022-07-27,2022-09-14,85.0
+PRJ-11247,Audit,Real Estate,M. Okafor,2023-05-25,2023-06-28,49.8
+PRJ-11248,Strategy Consulting,Financial Services,J. Alvarez,2023-05-21,2023-06-07,123.4
+PRJ-11249,Audit,Financial Services,L. Fitzgerald,2023-02-24,2023-03-21,208.7
+PRJ-11250,Tax Advisory,Financial Services,T. Nakamura,2022-10-12,2022-11-18,1268.1
+PRJ-11251,Litigation Support,Financial Services,S. Chen,2022-06-01,2022-06-15,158.6
+PRJ-11252,Audit,Healthcare,J. Alvarez,2022-02-03,2022-02-15,56.1
+PRJ-11253,Litigation Support,Real Estate,T. Nakamura,2022-03-31,2022-05-14,1576.1
+PRJ-11254,Audit,Technology,S. Chen,2022-10-19,2022-10-28,46.6
+PRJ-11255,Litigation Support,Nonprofit,L. Fitzgerald,2023-07-30,2023-08-28,280.2
+PRJ-11256,Audit,Technology,L. Fitzgerald,2022-02-06,2022-02-24,176.2
+PRJ-11257,Audit,Healthcare,M. Okafor,2023-01-24,2023-02-18,109.9
+PRJ-11258,Strategy Consulting,Real Estate,R. Petrov,2022-03-08,2022-03-13,159.3
+PRJ-11259,Audit,Retail,J. Alvarez,2022-10-09,2022-10-21,102.2
+PRJ-11260,Tax Advisory,Technology,T. Nakamura,2022-08-03,2022-12-06,67.8
+PRJ-11261,Litigation Support,Manufacturing,T. Nakamura,2023-10-07,2023-10-24,258.7
+PRJ-11262,Tax Advisory,Manufacturing,R. Petrov,2023-09-12,2023-10-10,114.4
+PRJ-11263,Strategy Consulting,Nonprofit,M. Okafor,2022-11-21,2022-12-21,201.3
+PRJ-11264,Audit,Financial Services,T. Nakamura,2022-05-13,2022-05-23,506.3
+PRJ-11265,Litigation Support,Technology,T. Nakamura,2023-05-25,2023-06-06,278.6
+PRJ-11266,Tax Advisory,Retail,T. Nakamura,2022-10-25,2022-11-06,88.5
+PRJ-11267,Strategy Consulting,Manufacturing,J. Alvarez,2023-10-03,2023-10-20,112.0
+PRJ-11268,Strategy Consulting,Nonprofit,S. Chen,2023-03-01,2023-04-06,297.0
+PRJ-11269,Tax Advisory,Healthcare,M. Okafor,2023-10-15,2023-11-05,25.1
+PRJ-11270,Audit,Nonprofit,S. Chen,2022-09-18,2022-09-27,73.0
+PRJ-11271,Strategy Consulting,Healthcare,M. Okafor,2022-11-28,2022-12-15,
+PRJ-11272,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-02-10,2023-03-09,820.0
+PRJ-11273,Strategy Consulting,Financial Services,J. Alvarez,2022-07-18,2022-08-01,57.2
+PRJ-11274,Tax Advisory,Healthcare,L. Fitzgerald,2023-05-01,2023-07-13,122.6
+PRJ-11275,Strategy Consulting,Nonprofit,S. Chen,2023-10-05,2023-10-11,49.4
+PRJ-11276,Tax Advisory,Real Estate,T. Nakamura,2023-04-19,2023-05-15,222.3
+PRJ-11277,Strategy Consulting,Technology,L. Fitzgerald,2023-06-18,2023-07-16,81.7
+PRJ-11278,Audit,Nonprofit,L. Fitzgerald,2023-07-03,2023-07-24,19.0
+PRJ-11279,Audit,Financial Services,L. Fitzgerald,2022-12-29,2023-02-03,151.0
+PRJ-11280,Audit,Retail,M. Okafor,2022-12-14,2023-01-05,59.0
+PRJ-11281,Strategy Consulting,Nonprofit,T. Nakamura,2023-08-08,2023-09-01,78.5
+PRJ-11282,Litigation Support,Retail,T. Nakamura,2022-11-12,2022-11-28,106.9
+PRJ-11283,Strategy Consulting,Healthcare,L. Fitzgerald,2023-02-28,2023-03-31,74.7
+PRJ-11284,Audit,Retail,M. Okafor,2022-11-06,2022-11-24,218.9
+PRJ-11285,Audit,Healthcare,S. Chen,2022-02-08,2022-02-16,123.3
+PRJ-11286,Strategy Consulting,Manufacturing,R. Petrov,2023-05-10,2023-05-30,121.6
+PRJ-11287,Strategy Consulting,Retail,S. Chen,2023-05-11,2023-05-21,939.4
+PRJ-11288,Strategy Consulting,Financial Services,M. Okafor,2022-05-27,2022-07-04,418.0
+PRJ-11289,Strategy Consulting,Manufacturing,T. Nakamura,2022-05-16,2022-07-15,182.6
+PRJ-11290,Audit,Manufacturing,R. Petrov,2023-06-19,2023-07-15,155.7
+PRJ-11291,Audit,Healthcare,J. Alvarez,2023-09-01,2023-10-14,115.6
+PRJ-11292,Strategy Consulting,Healthcare,R. Petrov,2022-04-16,2022-04-30,323.2
+PRJ-11293,Tax Advisory,Nonprofit,L. Fitzgerald,2023-08-15,2023-09-02,23.8
+PRJ-11294,Strategy Consulting,Nonprofit,S. Chen,2022-07-17,2022-08-06,85.7
+PRJ-11295,Audit,Financial Services,M. Okafor,2023-11-19,2023-12-04,285.3
+PRJ-11296,Audit,Retail,S. Chen,2022-01-16,2022-02-06,116.5
+PRJ-11297,Strategy Consulting,Financial Services,T. Nakamura,2023-07-10,2023-07-15,271.7
+PRJ-11298,Tax Advisory,Healthcare,M. Okafor,2022-10-18,2022-11-10,39.2
+PRJ-11299,Litigation Support,Retail,J. Alvarez,2022-12-13,2022-12-28,463.3
+PRJ-11300,Tax Advisory,Manufacturing,S. Chen,2023-11-23,2023-12-23,16.1
+PRJ-11301,Audit,Technology,J. Alvarez,2023-02-06,2023-02-16,76.9
+PRJ-11302,Audit,Financial Services,T. Nakamura,2023-04-02,2023-04-20,77.5
+PRJ-11303,Litigation Support,Healthcare,M. Okafor,2023-11-18,2023-11-23,131.0
+PRJ-11304,Strategy Consulting,Manufacturing,R. Petrov,2022-04-06,2022-05-21,281.1
+PRJ-11305,Strategy Consulting,Nonprofit,R. Petrov,2022-11-14,2022-11-24,236.7
+PRJ-11306,Litigation Support,Nonprofit,R. Petrov,2022-08-18,2022-09-07,173.7
+PRJ-11307,Audit,Financial Services,M. Okafor,2023-02-06,2023-03-09,182.5
+PRJ-11308,Audit,Nonprofit,M. Okafor,2022-11-29,2022-12-21,71.8
+PRJ-11309,Tax Advisory,Manufacturing,J. Alvarez,2022-12-26,2023-02-14,82.6
+PRJ-11310,Tax Advisory,Real Estate,S. Chen,2022-12-23,2023-01-25,98.2
+PRJ-11311,Litigation Support,Retail,T. Nakamura,2022-04-20,2022-06-07,212.1
+PRJ-11312,Tax Advisory,Nonprofit,J. Alvarez,2023-06-30,2023-07-12,79.9
+PRJ-11313,Tax Advisory,Financial Services,R. Petrov,2022-09-07,2022-10-08,160.2
+PRJ-11314,Tax Advisory,Technology,R. Petrov,2022-08-02,2022-08-17,44.0
+PRJ-11315,Strategy Consulting,Financial Services,R. Petrov,2023-03-22,2023-04-18,184.6
+PRJ-11316,Litigation Support,Healthcare,T. Nakamura,2022-06-27,2022-07-22,229.6
+PRJ-11317,Litigation Support,Manufacturing,L. Fitzgerald,2023-08-11,2023-09-19,
+PRJ-11318,Strategy Consulting,Manufacturing,T. Nakamura,2022-11-30,2023-01-05,171.4
+PRJ-11319,Litigation Support,Real Estate,R. Petrov,2023-02-20,2023-03-18,97.1
+PRJ-11320,Audit,Manufacturing,L. Fitzgerald,2023-01-24,2023-02-11,425.8
+PRJ-11321,Tax Advisory,Nonprofit,L. Fitzgerald,2022-08-11,2022-08-25,33.1
+PRJ-11322,Strategy Consulting,Financial Services,L. Fitzgerald,2022-05-31,2022-06-13,70.0
+PRJ-11323,Litigation Support,Technology,T. Nakamura,2023-09-23,2023-10-02,154.3
+PRJ-11324,Litigation Support,Retail,S. Chen,2022-11-21,2022-12-27,202.2
+PRJ-11325,Audit,Real Estate,L. Fitzgerald,2023-03-22,2023-05-13,63.6
+PRJ-11326,Strategy Consulting,Healthcare,J. Alvarez,2023-09-19,2023-10-27,214.5
+PRJ-11327,Strategy Consulting,Technology,S. Chen,2022-03-05,2022-04-09,94.6
+PRJ-11328,Tax Advisory,Financial Services,J. Alvarez,2023-01-03,2023-02-07,333.0
+PRJ-11329,Audit,Healthcare,J. Alvarez,2023-08-28,2023-09-26,135.3
+PRJ-11330,Tax Advisory,Healthcare,L. Fitzgerald,2023-01-26,2023-02-07,26.3
+PRJ-11331,Tax Advisory,Retail,L. Fitzgerald,2022-05-23,2022-06-03,91.1
+PRJ-11332,Audit,Technology,M. Okafor,2022-06-07,2022-06-16,166.0
+PRJ-11333,Audit,Real Estate,L. Fitzgerald,2022-01-12,2022-01-22,217.3
+PRJ-11334,Audit,Manufacturing,S. Chen,2023-05-14,2023-06-13,
+PRJ-11335,Litigation Support,Retail,J. Alvarez,2023-03-02,2023-03-31,122.8
+PRJ-11336,Strategy Consulting,Real Estate,L. Fitzgerald,2023-03-12,2023-03-27,180.0
+PRJ-11337,Litigation Support,Technology,T. Nakamura,2023-04-06,2023-04-12,
+PRJ-11338,Tax Advisory,Retail,S. Chen,2022-01-08,2022-01-16,76.6
+PRJ-11339,Litigation Support,Real Estate,L. Fitzgerald,2023-05-29,2023-06-15,213.8
+PRJ-11340,Audit,Financial Services,T. Nakamura,2022-02-08,2022-02-25,193.0
+PRJ-11341,Litigation Support,Nonprofit,M. Okafor,2023-05-09,2023-06-10,158.8
+PRJ-11342,Strategy Consulting,Manufacturing,S. Chen,2023-06-24,2023-07-19,189.6
+PRJ-11343,Strategy Consulting,Real Estate,M. Okafor,2022-03-22,2022-03-30,208.3
+PRJ-11344,Tax Advisory,Financial Services,J. Alvarez,2023-10-08,2023-11-07,101.9
+PRJ-11345,Strategy Consulting,Nonprofit,J. Alvarez,2023-07-07,2023-07-25,73.6
+PRJ-11346,Strategy Consulting,Healthcare,T. Nakamura,2022-12-18,2023-01-06,145.9
+PRJ-11347,Tax Advisory,Manufacturing,R. Petrov,2023-04-26,2023-06-14,75.8
+PRJ-11348,Litigation Support,Healthcare,R. Petrov,2022-10-29,2022-11-07,426.5
+PRJ-11349,Audit,Manufacturing,L. Fitzgerald,2022-11-08,2022-12-24,185.5
+PRJ-11350,Strategy Consulting,Financial Services,M. Okafor,2023-04-30,2023-06-09,196.6
+PRJ-11351,Litigation Support,Financial Services,J. Alvarez,2022-10-26,2022-12-03,818.0
+PRJ-11352,Strategy Consulting,Financial Services,J. Alvarez,2022-03-26,2022-05-04,178.6
+PRJ-11353,Audit,Manufacturing,M. Okafor,2023-09-23,2023-10-14,132.8
+PRJ-11354,Audit,Real Estate,M. Okafor,2022-04-25,2022-06-17,93.8
+PRJ-11355,Litigation Support,Financial Services,L. Fitzgerald,2023-04-03,2023-05-25,112.8
+PRJ-11356,Tax Advisory,Retail,M. Okafor,2022-08-30,2022-09-08,85.1
+PRJ-11357,Tax Advisory,Real Estate,T. Nakamura,2022-12-18,2022-12-23,77.6
+PRJ-11358,Strategy Consulting,Retail,T. Nakamura,2022-06-07,2022-07-12,232.4
+PRJ-11359,Strategy Consulting,Real Estate,R. Petrov,2022-09-01,2022-09-23,99.1
+PRJ-11360,Litigation Support,Nonprofit,L. Fitzgerald,2023-08-15,2023-08-30,785.4
+PRJ-11361,Strategy Consulting,Healthcare,J. Alvarez,2022-04-29,2022-06-19,71.5
+PRJ-11362,Audit,Technology,R. Petrov,2023-05-03,2023-05-24,474.0
+PRJ-11363,Strategy Consulting,Real Estate,T. Nakamura,2023-12-01,,304.5
+PRJ-11364,Strategy Consulting,Technology,M. Okafor,2023-03-22,2023-04-06,89.2
+PRJ-11365,Audit,Real Estate,R. Petrov,2022-11-20,2023-01-16,284.0
+PRJ-11366,Strategy Consulting,Nonprofit,J. Alvarez,2023-06-29,2023-07-11,222.4
+PRJ-11367,Litigation Support,Real Estate,R. Petrov,2023-10-30,2023-11-14,803.7
+PRJ-11368,Strategy Consulting,Healthcare,M. Okafor,2022-04-11,2022-05-06,118.6
+PRJ-11369,Audit,Financial Services,R. Petrov,2023-11-23,2023-12-28,356.2
+PRJ-11370,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-07-19,2022-08-15,200.5
+PRJ-11371,Tax Advisory,Nonprofit,L. Fitzgerald,2022-11-17,2022-12-16,61.9
+PRJ-11372,Tax Advisory,Nonprofit,J. Alvarez,2022-01-13,2022-01-30,10.2
+PRJ-11373,Tax Advisory,Financial Services,J. Alvarez,2022-12-26,2023-01-05,71.0
+PRJ-11374,Audit,Healthcare,M. Okafor,2022-01-25,2022-02-12,157.3
+PRJ-11375,Litigation Support,Manufacturing,T. Nakamura,2022-08-11,2022-10-03,683.4
+PRJ-11376,Strategy Consulting,Nonprofit,J. Alvarez,2022-05-03,2022-05-22,108.3
+PRJ-11377,Audit,Financial Services,S. Chen,2023-10-26,2023-11-11,113.9
+PRJ-11378,Litigation Support,Retail,J. Alvarez,2022-09-17,2022-09-30,229.3
+PRJ-11379,Audit,Nonprofit,J. Alvarez,2022-10-11,2022-11-10,54.4
+PRJ-11380,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-11-28,2022-12-10,233.1
+PRJ-11381,Audit,Real Estate,J. Alvarez,2022-03-05,2022-03-19,224.6
+PRJ-11382,Tax Advisory,Healthcare,J. Alvarez,2022-09-29,2022-11-02,71.6
+PRJ-11383,Audit,Manufacturing,R. Petrov,2022-07-25,2022-08-21,117.2
+PRJ-11384,Litigation Support,Retail,L. Fitzgerald,2022-05-28,2022-06-15,139.3
+PRJ-11385,Tax Advisory,Technology,S. Chen,2022-04-19,2022-05-02,51.9
+PRJ-11386,Strategy Consulting,Nonprofit,M. Okafor,2022-03-16,2022-03-24,132.5
+PRJ-11387,Audit,Nonprofit,M. Okafor,2022-01-20,2022-02-06,85.1
+PRJ-11388,Strategy Consulting,Retail,L. Fitzgerald,2022-02-08,2022-02-26,125.4
+PRJ-11389,Litigation Support,Healthcare,S. Chen,2023-02-05,2023-03-04,191.5
+PRJ-11390,Litigation Support,Financial Services,L. Fitzgerald,2023-05-18,2023-06-01,368.9
+PRJ-11391,Tax Advisory,Technology,L. Fitzgerald,2022-03-13,2022-03-24,25.8
+PRJ-11392,Tax Advisory,Manufacturing,R. Petrov,2023-05-09,2023-05-26,42.7
+PRJ-11393,Audit,Financial Services,M. Okafor,2022-11-07,2022-11-16,70.0
+PRJ-11394,Tax Advisory,Nonprofit,L. Fitzgerald,2023-07-02,2023-07-25,43.6
+PRJ-11395,Strategy Consulting,Healthcare,J. Alvarez,2022-10-24,2022-11-08,227.5
+PRJ-11396,Litigation Support,Retail,T. Nakamura,2023-01-29,2023-02-10,149.8
+PRJ-11397,Litigation Support,Healthcare,L. Fitzgerald,2022-04-20,2022-05-02,195.6
+PRJ-11398,Litigation Support,Healthcare,R. Petrov,2023-10-10,2023-10-17,298.7
+PRJ-11399,Tax Advisory,Retail,S. Chen,2022-01-26,2022-02-20,46.6
+PRJ-11400,Strategy Consulting,Financial Services,S. Chen,2022-03-06,2022-06-19,170.6
+PRJ-11401,Strategy Consulting,Nonprofit,M. Okafor,2023-04-06,2023-04-17,
+PRJ-11402,Strategy Consulting,Manufacturing,J. Alvarez,2022-12-12,2022-12-19,140.3
+PRJ-11403,Strategy Consulting,Manufacturing,R. Petrov,2023-11-01,2023-11-13,141.8
+PRJ-11404,Litigation Support,Technology,L. Fitzgerald,2023-07-04,2023-07-19,379.6
+PRJ-11405,Audit,Financial Services,S. Chen,2022-02-07,2022-02-21,110.6
+PRJ-11406,Strategy Consulting,Technology,L. Fitzgerald,2023-09-26,2023-10-13,506.7
+PRJ-11407,Audit,Nonprofit,L. Fitzgerald,2022-06-26,2022-07-30,432.8
+PRJ-11408,Litigation Support,Healthcare,J. Alvarez,2022-06-24,2022-07-20,280.3
+PRJ-11409,Strategy Consulting,Manufacturing,J. Alvarez,2023-09-02,2023-09-08,197.6
+PRJ-11410,Strategy Consulting,Retail,J. Alvarez,2023-03-13,2023-04-16,123.4
+PRJ-11411,Tax Advisory,Real Estate,L. Fitzgerald,2022-11-29,2022-12-08,58.0
+PRJ-11412,Audit,Nonprofit,T. Nakamura,2022-11-26,2023-01-23,115.7
+PRJ-11413,Strategy Consulting,Real Estate,S. Chen,2023-08-31,2023-09-20,359.0
+PRJ-11414,Audit,Manufacturing,J. Alvarez,2023-03-02,2023-03-18,233.6
+PRJ-11415,Audit,Healthcare,T. Nakamura,2022-09-07,2022-09-19,36.4
+PRJ-11416,Strategy Consulting,Manufacturing,S. Chen,2023-10-10,2023-10-27,447.9
+PRJ-11417,Litigation Support,Real Estate,S. Chen,2023-05-14,2023-05-31,168.7
+PRJ-11418,Audit,Manufacturing,S. Chen,2023-10-30,2023-12-24,455.0
+PRJ-11419,Litigation Support,Healthcare,R. Petrov,2023-05-03,2023-05-22,945.3
+PRJ-11420,Litigation Support,Retail,S. Chen,2023-06-20,2023-06-28,246.0
+PRJ-11421,Tax Advisory,Retail,S. Chen,2022-02-08,2022-02-18,168.7
+PRJ-11422,Litigation Support,Nonprofit,R. Petrov,2022-04-01,2022-04-11,232.8
+PRJ-11423,Litigation Support,Real Estate,M. Okafor,2022-01-05,2022-01-17,132.4
+PRJ-11424,Litigation Support,Retail,J. Alvarez,2022-04-08,2022-04-23,130.7
+PRJ-11425,Litigation Support,Real Estate,T. Nakamura,2023-04-21,2023-05-25,136.3
+PRJ-11426,Strategy Consulting,Nonprofit,S. Chen,2022-07-18,2022-08-10,69.2
+PRJ-11427,Audit,Retail,L. Fitzgerald,2023-05-01,2023-05-16,281.5
+PRJ-11428,Tax Advisory,Retail,L. Fitzgerald,2022-02-25,2022-03-15,36.3
+PRJ-11429,Litigation Support,Healthcare,S. Chen,2022-12-09,2023-01-01,456.7
+PRJ-11430,Litigation Support,Real Estate,R. Petrov,2022-02-23,2022-03-23,137.9
+PRJ-11431,Strategy Consulting,Retail,S. Chen,2023-05-12,2023-06-12,69.3
+PRJ-11432,Tax Advisory,Manufacturing,S. Chen,2023-08-30,2023-09-16,79.9
+PRJ-11433,Litigation Support,Technology,S. Chen,2022-11-30,2022-12-12,111.2
+PRJ-11434,Audit,Manufacturing,M. Okafor,2022-08-31,2022-10-13,174.5
+PRJ-11435,Strategy Consulting,Real Estate,S. Chen,2022-08-14,2022-09-10,96.0
+PRJ-11436,Audit,Financial Services,R. Petrov,2023-03-23,2023-04-06,27.8
+PRJ-11437,Audit,Financial Services,R. Petrov,2023-01-18,2023-01-30,117.4
+PRJ-11438,Audit,Nonprofit,S. Chen,2022-10-04,2022-10-18,62.3
+PRJ-11439,Audit,Retail,J. Alvarez,2022-03-03,2022-03-21,147.2
+PRJ-11440,Audit,Manufacturing,R. Petrov,2022-06-25,2022-06-30,25.0
+PRJ-11441,Strategy Consulting,Retail,M. Okafor,2023-10-16,2023-11-12,98.1
+PRJ-11442,Strategy Consulting,Retail,T. Nakamura,2022-08-24,2022-09-08,21.9
+PRJ-11443,Audit,Real Estate,T. Nakamura,2022-08-10,2022-09-27,83.0
+PRJ-11444,Litigation Support,Real Estate,R. Petrov,2023-03-15,2023-04-10,152.7
+PRJ-11445,Strategy Consulting,Retail,S. Chen,2023-08-17,2023-08-22,165.6
+PRJ-11446,Audit,Financial Services,S. Chen,2022-01-06,2022-01-29,205.5
+PRJ-11447,Tax Advisory,Manufacturing,J. Alvarez,2023-06-01,,85.6
+PRJ-11448,Audit,Financial Services,R. Petrov,2022-04-11,2022-06-09,27.9
+PRJ-11449,Tax Advisory,Retail,J. Alvarez,2022-01-13,2022-02-06,49.1
+PRJ-11450,Litigation Support,Technology,S. Chen,2022-10-30,2022-11-15,193.7
+PRJ-11451,Audit,Manufacturing,J. Alvarez,2022-11-09,2022-12-04,
+PRJ-11452,Audit,Technology,T. Nakamura,2022-01-25,2022-02-26,41.5
+PRJ-11453,Strategy Consulting,Technology,S. Chen,2023-02-20,2023-03-02,112.1
+PRJ-11454,Audit,Real Estate,M. Okafor,2023-10-11,2023-11-24,87.6
+PRJ-11455,Audit,Nonprofit,J. Alvarez,2022-12-07,2023-01-02,82.5
+PRJ-11456,Tax Advisory,Healthcare,R. Petrov,2023-09-20,2023-10-23,36.0
+PRJ-11457,Tax Advisory,Real Estate,S. Chen,2022-03-24,2022-05-26,97.0
+PRJ-11458,Litigation Support,Healthcare,L. Fitzgerald,2023-06-12,2023-07-13,176.9
+PRJ-11459,Strategy Consulting,Nonprofit,M. Okafor,2022-04-24,2022-06-08,160.7
+PRJ-11460,Tax Advisory,Technology,T. Nakamura,2023-01-11,2023-02-12,36.3
+PRJ-11461,Audit,Financial Services,L. Fitzgerald,2022-07-29,2022-08-18,
+PRJ-11462,Audit,Healthcare,S. Chen,2023-10-27,2023-11-20,128.0
+PRJ-11463,Tax Advisory,Real Estate,T. Nakamura,2022-08-03,2022-08-26,
+PRJ-11464,Strategy Consulting,Real Estate,S. Chen,2022-10-01,2022-11-07,452.7
+PRJ-11465,Tax Advisory,Technology,M. Okafor,2023-01-17,2023-02-01,110.3
+PRJ-11466,Tax Advisory,Technology,T. Nakamura,2022-05-06,2022-06-12,32.2
+PRJ-11467,Tax Advisory,Financial Services,L. Fitzgerald,2022-10-27,2022-12-16,110.8
+PRJ-11468,Tax Advisory,Healthcare,L. Fitzgerald,2022-03-09,2022-03-27,39.3
+PRJ-11469,Audit,Technology,J. Alvarez,2022-07-03,2022-07-19,38.1
+PRJ-11470,Audit,Manufacturing,J. Alvarez,2022-04-25,2022-05-10,241.1
+PRJ-11471,Litigation Support,Technology,S. Chen,2023-06-18,2023-07-06,313.1
+PRJ-11472,Strategy Consulting,Manufacturing,M. Okafor,2023-11-30,2023-12-10,
+PRJ-11473,Tax Advisory,Retail,R. Petrov,2023-03-31,2023-04-03,63.7
+PRJ-11474,Strategy Consulting,Manufacturing,M. Okafor,2022-01-23,2022-01-30,131.6
+PRJ-11475,Strategy Consulting,Retail,T. Nakamura,2023-02-26,2023-03-31,348.9
+PRJ-11476,Litigation Support,Nonprofit,L. Fitzgerald,2023-05-13,2023-07-04,277.3
+PRJ-11477,Litigation Support,Nonprofit,T. Nakamura,2023-04-01,2023-05-30,102.9
+PRJ-11478,Tax Advisory,Financial Services,S. Chen,2022-11-10,2022-11-28,115.2
+PRJ-11479,Audit,Healthcare,S. Chen,2022-10-23,2022-11-02,265.7
+PRJ-11480,Strategy Consulting,Manufacturing,S. Chen,2023-04-12,2023-04-26,84.2
+PRJ-11481,Strategy Consulting,Financial Services,S. Chen,2022-10-20,2022-10-31,103.6
+PRJ-11482,Audit,Retail,L. Fitzgerald,2023-11-14,2023-12-01,282.5
+PRJ-11483,Strategy Consulting,Retail,S. Chen,2022-11-21,2022-12-05,192.0
+PRJ-11484,Litigation Support,Technology,M. Okafor,2022-07-30,2022-08-23,55.9
+PRJ-11485,Litigation Support,Manufacturing,L. Fitzgerald,2022-12-19,2023-01-08,52.4
+PRJ-11486,Audit,Technology,T. Nakamura,2023-07-01,2023-09-08,46.0
+PRJ-11487,Tax Advisory,Manufacturing,R. Petrov,2022-05-29,2022-06-20,113.6
+PRJ-11488,Strategy Consulting,Healthcare,S. Chen,2023-06-04,2023-06-16,4784.5
+PRJ-11489,Tax Advisory,Nonprofit,M. Okafor,2022-10-24,2022-11-16,87.8
+PRJ-11490,Strategy Consulting,Real Estate,T. Nakamura,2023-08-02,2023-09-16,180.4
+PRJ-11491,Strategy Consulting,Technology,M. Okafor,2023-05-06,2023-05-30,250.5
+PRJ-11492,Strategy Consulting,Retail,L. Fitzgerald,2022-11-12,2022-11-23,47.1
+PRJ-11493,Audit,Financial Services,S. Chen,2022-04-05,2022-04-27,110.1
+PRJ-11494,Tax Advisory,Financial Services,L. Fitzgerald,2023-06-24,2023-09-21,27.2
+PRJ-11495,Audit,Real Estate,M. Okafor,2022-03-27,2022-04-26,346.9
+PRJ-11496,Tax Advisory,Technology,L. Fitzgerald,2022-03-31,2022-04-18,63.1
+PRJ-11497,Strategy Consulting,Technology,S. Chen,2023-09-10,2023-10-01,77.0
+PRJ-11498,Litigation Support,Manufacturing,L. Fitzgerald,2022-06-01,2022-06-10,239.5
+PRJ-11499,Strategy Consulting,Technology,M. Okafor,2022-01-13,2022-02-01,189.5
+PRJ-11500,Audit,Healthcare,M. Okafor,2023-07-29,2023-08-10,31.6
+PRJ-11501,Audit,Nonprofit,R. Petrov,2023-03-02,2023-05-06,89.8
+PRJ-11502,Strategy Consulting,Healthcare,S. Chen,2023-03-11,2023-03-20,221.5
+PRJ-11503,Strategy Consulting,Technology,S. Chen,2023-09-05,2023-09-13,210.8
+PRJ-11504,Audit,Retail,M. Okafor,2023-06-22,2023-07-07,256.1
+PRJ-11505,Strategy Consulting,Manufacturing,T. Nakamura,2022-04-01,2022-05-17,140.5
+PRJ-11506,Audit,Nonprofit,M. Okafor,2023-07-24,2023-08-02,48.7
+PRJ-11507,Tax Advisory,Financial Services,S. Chen,2023-01-26,2023-03-06,39.9
+PRJ-11508,Audit,Technology,J. Alvarez,2022-11-06,2022-11-09,41.4
+PRJ-11509,Strategy Consulting,Healthcare,R. Petrov,2023-04-20,2023-05-19,109.4
+PRJ-11510,Audit,Real Estate,J. Alvarez,2022-11-04,2022-11-19,278.0
+PRJ-11511,Strategy Consulting,Real Estate,L. Fitzgerald,2023-11-01,2023-12-12,112.5
+PRJ-11512,Litigation Support,Healthcare,R. Petrov,2023-10-23,2023-11-08,54.0
+PRJ-11513,Audit,Manufacturing,M. Okafor,2022-03-10,2022-04-06,137.1
+PRJ-11514,Litigation Support,Healthcare,T. Nakamura,2023-03-23,2023-04-13,140.0
+PRJ-11515,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-05-03,2022-05-17,26.3
+PRJ-11516,Tax Advisory,Nonprofit,T. Nakamura,2022-09-23,2022-10-04,82.4
+PRJ-11517,Audit,Manufacturing,S. Chen,2022-05-19,2022-06-15,125.1
+PRJ-11518,Tax Advisory,Manufacturing,M. Okafor,2023-10-14,2023-11-06,47.2
+PRJ-11519,Strategy Consulting,Healthcare,J. Alvarez,2023-06-27,2023-07-15,76.5
+PRJ-11520,Litigation Support,Manufacturing,T. Nakamura,2023-10-06,2023-10-29,306.6
+PRJ-11521,Audit,Manufacturing,T. Nakamura,2023-07-11,2023-08-04,79.6
+PRJ-11522,Tax Advisory,Healthcare,L. Fitzgerald,2022-10-05,2022-10-11,98.9
+PRJ-11523,Litigation Support,Nonprofit,M. Okafor,2023-08-17,2023-09-03,450.2
+PRJ-11524,Tax Advisory,Retail,J. Alvarez,2022-10-16,2022-11-28,80.8
+PRJ-11525,Tax Advisory,Technology,R. Petrov,2022-06-16,2022-06-29,23.0
+PRJ-11526,Audit,Retail,T. Nakamura,2022-07-12,2022-07-25,98.1
+PRJ-11527,Strategy Consulting,Financial Services,T. Nakamura,2023-06-23,2023-07-05,505.3
+PRJ-11528,Strategy Consulting,Nonprofit,T. Nakamura,2022-04-27,2022-05-20,101.7
+PRJ-11529,Tax Advisory,Manufacturing,J. Alvarez,2022-01-18,2022-02-03,25.9
+PRJ-11530,Tax Advisory,Healthcare,L. Fitzgerald,2023-03-29,2023-04-15,74.9
+PRJ-11531,Strategy Consulting,Financial Services,T. Nakamura,2022-12-17,2023-01-01,140.5
+PRJ-11532,Audit,Healthcare,J. Alvarez,2022-05-02,2022-05-27,41.6
+PRJ-11533,Audit,Real Estate,L. Fitzgerald,2022-08-21,2022-09-11,409.9
+PRJ-11534,Tax Advisory,Retail,S. Chen,2023-03-12,2023-04-12,70.2
+PRJ-11535,Litigation Support,Real Estate,J. Alvarez,2023-05-11,2023-07-08,82.3
+PRJ-11536,Strategy Consulting,Manufacturing,S. Chen,2023-11-07,2024-01-01,172.8
+PRJ-11537,Tax Advisory,Manufacturing,R. Petrov,2022-09-17,2022-11-18,35.9
+PRJ-11538,Audit,Healthcare,L. Fitzgerald,2022-04-09,2022-05-08,206.5
+PRJ-11539,Strategy Consulting,Financial Services,S. Chen,2022-07-24,2022-08-11,176.7
+PRJ-11540,Audit,Healthcare,J. Alvarez,2022-10-12,2022-11-03,278.1
+PRJ-11541,Strategy Consulting,Healthcare,M. Okafor,2023-05-28,2023-06-07,
+PRJ-11542,Strategy Consulting,Financial Services,S. Chen,2022-03-11,2022-04-05,131.7
+PRJ-11543,Audit,Financial Services,J. Alvarez,2022-07-16,2022-08-28,115.3
+PRJ-11544,Strategy Consulting,Retail,T. Nakamura,2022-08-08,2022-08-30,500.6
+PRJ-11545,Strategy Consulting,Real Estate,L. Fitzgerald,2023-08-27,2023-09-29,42.0
+PRJ-11546,Audit,Nonprofit,J. Alvarez,2022-12-30,2023-01-26,112.3
+PRJ-11547,Strategy Consulting,Technology,S. Chen,2023-02-22,2023-04-08,81.9
+PRJ-11548,Audit,Healthcare,J. Alvarez,2023-06-17,2023-07-16,248.8
+PRJ-11549,Audit,Real Estate,M. Okafor,2023-07-25,2023-08-23,109.6
+PRJ-11550,Strategy Consulting,Manufacturing,M. Okafor,2023-01-30,2023-03-06,91.5
+PRJ-11551,Audit,Financial Services,L. Fitzgerald,2023-03-31,2023-05-09,380.7
+PRJ-11552,Audit,Technology,M. Okafor,2023-03-15,2023-04-10,72.0
+PRJ-11553,Audit,Manufacturing,R. Petrov,2023-01-12,2023-02-10,48.5
+PRJ-11554,Audit,Nonprofit,R. Petrov,2023-02-10,2023-02-16,164.5
+PRJ-11555,Tax Advisory,Nonprofit,L. Fitzgerald,2022-05-27,2022-06-13,26.6
+PRJ-11556,Tax Advisory,Nonprofit,T. Nakamura,2022-06-22,2022-07-02,48.6
+PRJ-11557,Audit,Retail,M. Okafor,2023-02-18,2023-03-14,157.6
+PRJ-11558,Audit,Real Estate,R. Petrov,2022-10-13,2022-10-26,104.7
+PRJ-11559,Strategy Consulting,Real Estate,T. Nakamura,2023-10-22,2023-12-17,312.5
+PRJ-11560,Strategy Consulting,Healthcare,R. Petrov,2023-02-19,2023-03-05,106.9
+PRJ-11561,Strategy Consulting,Financial Services,M. Okafor,2023-04-11,2023-04-27,211.6
+PRJ-11562,Audit,Healthcare,R. Petrov,2023-10-06,2023-11-07,
+PRJ-11563,Strategy Consulting,Manufacturing,J. Alvarez,2022-03-11,2022-04-26,39.4
+PRJ-11564,Tax Advisory,Manufacturing,S. Chen,2023-11-27,2023-12-13,63.1
+PRJ-11565,Tax Advisory,Healthcare,T. Nakamura,2022-03-20,2022-04-09,56.4
+PRJ-11566,Litigation Support,Financial Services,R. Petrov,2022-07-26,2022-09-15,59.5
+PRJ-11567,Audit,Technology,R. Petrov,2023-07-10,2023-08-06,123.5
+PRJ-11568,Tax Advisory,Real Estate,T. Nakamura,2022-02-02,2022-02-13,116.8
+PRJ-11569,Strategy Consulting,Manufacturing,R. Petrov,2023-01-21,2023-02-07,208.9
+PRJ-11570,Tax Advisory,Manufacturing,J. Alvarez,2023-11-07,2023-11-12,108.5
+PRJ-11571,Strategy Consulting,Healthcare,L. Fitzgerald,2023-03-18,2023-04-01,139.9
+PRJ-11572,Audit,Nonprofit,R. Petrov,2022-04-23,2022-05-20,162.4
+PRJ-11573,Litigation Support,Technology,L. Fitzgerald,2023-07-07,2023-07-20,121.9
+PRJ-11574,Litigation Support,Technology,T. Nakamura,2023-06-03,2023-06-15,185.1
+PRJ-11575,Audit,Healthcare,R. Petrov,2023-01-22,2023-02-07,216.3
+PRJ-11576,Litigation Support,Healthcare,M. Okafor,2022-01-29,2022-02-14,
+PRJ-11577,Litigation Support,Retail,M. Okafor,2023-08-21,2023-08-28,96.7
+PRJ-11578,Audit,Nonprofit,M. Okafor,2023-03-15,2023-04-06,50.5
+PRJ-11579,Tax Advisory,Healthcare,R. Petrov,2023-11-09,2023-12-04,152.1
+PRJ-11580,Audit,Retail,L. Fitzgerald,2022-03-28,2022-04-24,78.5
+PRJ-11581,Strategy Consulting,Manufacturing,M. Okafor,2022-06-23,2022-07-06,108.8
+PRJ-11582,Audit,Healthcare,J. Alvarez,2023-03-09,2023-03-16,53.5
+PRJ-11583,Litigation Support,Technology,M. Okafor,2023-04-26,2023-05-19,152.2
+PRJ-11584,Litigation Support,Healthcare,R. Petrov,2022-11-27,2022-12-13,186.9
+PRJ-11585,Litigation Support,Real Estate,R. Petrov,2023-11-23,2023-12-23,103.2
+PRJ-11586,Audit,Technology,T. Nakamura,2023-11-15,2023-12-18,47.7
+PRJ-11587,Tax Advisory,Financial Services,M. Okafor,2023-03-23,2023-04-05,29.7
+PRJ-11588,Audit,Nonprofit,J. Alvarez,2023-07-03,2023-07-18,43.0
+PRJ-11589,Audit,Healthcare,J. Alvarez,2023-08-11,2023-09-08,237.5
+PRJ-11590,Tax Advisory,Retail,T. Nakamura,2022-04-05,2022-05-03,119.0
+PRJ-11591,Strategy Consulting,Financial Services,J. Alvarez,2022-10-07,2022-10-24,69.3
+PRJ-11592,Audit,Real Estate,T. Nakamura,2022-08-03,2022-09-18,69.5
+PRJ-11593,Tax Advisory,Manufacturing,L. Fitzgerald,2023-06-01,2023-07-06,26.0
+PRJ-11594,Strategy Consulting,Technology,L. Fitzgerald,2022-07-24,2022-09-24,
+PRJ-11595,Tax Advisory,Healthcare,T. Nakamura,2023-11-19,2023-12-21,45.0
+PRJ-11596,Strategy Consulting,Retail,J. Alvarez,2023-06-13,2023-06-27,740.8
+PRJ-11597,Strategy Consulting,Financial Services,R. Petrov,2023-04-24,2023-04-30,51.2
+PRJ-11598,Audit,Nonprofit,T. Nakamura,2023-03-21,2023-03-27,197.6
+PRJ-11599,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-07-25,2022-08-21,115.6
+PRJ-11600,Tax Advisory,Retail,S. Chen,2022-11-04,2022-12-01,68.3
+PRJ-11601,Strategy Consulting,Technology,M. Okafor,2022-03-07,2022-04-21,175.3
+PRJ-11602,Litigation Support,Real Estate,R. Petrov,2022-10-21,2022-11-03,102.7
+PRJ-11603,Litigation Support,Healthcare,L. Fitzgerald,2023-02-20,2023-03-26,116.4
+PRJ-11604,Audit,Retail,S. Chen,2022-11-14,2022-12-11,225.4
+PRJ-11605,Tax Advisory,Financial Services,R. Petrov,2022-02-07,2022-02-17,137.4
+PRJ-11606,Audit,Healthcare,S. Chen,2022-10-12,2022-12-03,385.5
+PRJ-11607,Litigation Support,Retail,L. Fitzgerald,2023-05-13,2023-07-13,334.7
+PRJ-11608,Strategy Consulting,Manufacturing,J. Alvarez,2022-11-02,2022-11-17,47.0
+PRJ-11609,Strategy Consulting,Technology,M. Okafor,2022-04-03,2022-05-05,89.7
+PRJ-11610,Tax Advisory,Real Estate,L. Fitzgerald,2022-08-30,2022-10-02,28.8
+PRJ-11611,Audit,Nonprofit,T. Nakamura,2023-06-19,2023-07-20,
+PRJ-11612,Litigation Support,Financial Services,T. Nakamura,2022-04-03,2022-04-14,243.9
+PRJ-11613,Audit,Manufacturing,M. Okafor,2023-08-22,2023-10-05,66.3
+PRJ-11614,Strategy Consulting,Real Estate,L. Fitzgerald,2023-03-10,2023-03-30,258.8
+PRJ-11615,Audit,Manufacturing,S. Chen,2022-10-09,2022-10-15,89.6
+PRJ-11616,Tax Advisory,Healthcare,T. Nakamura,2023-07-01,2023-09-05,
+PRJ-11617,Tax Advisory,Manufacturing,M. Okafor,2023-05-02,2023-05-25,24.5
+PRJ-11618,Litigation Support,Healthcare,S. Chen,2023-01-12,2023-01-21,404.9
+PRJ-11619,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-09-13,2023-10-19,170.7
+PRJ-11620,Audit,Nonprofit,L. Fitzgerald,2022-02-25,2022-06-22,121.1
+PRJ-11621,Litigation Support,Real Estate,L. Fitzgerald,2023-07-20,2023-08-28,62.2
+PRJ-11622,Tax Advisory,Nonprofit,L. Fitzgerald,2022-05-05,2022-06-07,53.2
+PRJ-11623,Tax Advisory,Retail,R. Petrov,2023-02-07,2023-02-20,81.7
+PRJ-11624,Strategy Consulting,Healthcare,M. Okafor,2022-08-30,2022-09-05,176.1
+PRJ-11625,Audit,Real Estate,S. Chen,2023-10-09,2023-11-03,183.1
+PRJ-11626,Tax Advisory,Real Estate,L. Fitzgerald,2022-02-04,2022-03-15,
+PRJ-11627,Audit,Manufacturing,R. Petrov,2023-02-27,2023-03-21,155.2
+PRJ-11628,Strategy Consulting,Healthcare,L. Fitzgerald,2022-04-13,2022-04-26,81.0
+PRJ-11629,Strategy Consulting,Nonprofit,M. Okafor,2022-12-27,2023-02-14,344.2
+PRJ-11630,Tax Advisory,Nonprofit,T. Nakamura,2023-04-10,2023-05-01,50.8
+PRJ-11631,Litigation Support,Real Estate,J. Alvarez,2022-07-08,2022-08-19,106.2
+PRJ-11632,Litigation Support,Real Estate,L. Fitzgerald,2023-02-15,2023-04-23,318.7
+PRJ-11633,Audit,Healthcare,M. Okafor,2022-04-24,2022-05-10,64.9
+PRJ-11634,Audit,Financial Services,L. Fitzgerald,2023-10-27,2023-11-26,141.1
+PRJ-11635,Strategy Consulting,Real Estate,T. Nakamura,2022-11-24,2022-12-06,129.0
+PRJ-11636,Tax Advisory,Real Estate,L. Fitzgerald,2022-06-27,2022-07-29,111.2
+PRJ-11637,Litigation Support,Real Estate,M. Okafor,2022-07-23,2022-09-08,105.3
+PRJ-11638,Audit,Healthcare,S. Chen,2023-01-22,2023-02-13,272.2
+PRJ-11639,Strategy Consulting,Financial Services,S. Chen,2022-01-24,2022-02-22,158.6
+PRJ-11640,Strategy Consulting,Nonprofit,T. Nakamura,2022-04-02,2022-04-23,82.1
+PRJ-11641,Strategy Consulting,Retail,M. Okafor,2022-06-22,2022-07-27,33.2
+PRJ-11642,Audit,Financial Services,R. Petrov,2022-06-02,2022-07-23,40.2
+PRJ-11643,Audit,Healthcare,S. Chen,2022-05-01,2022-05-19,95.2
+PRJ-11644,Audit,Financial Services,R. Petrov,2023-04-10,2023-04-27,77.3
+PRJ-11645,Strategy Consulting,Technology,J. Alvarez,2022-07-28,2022-08-01,404.9
+PRJ-11646,Audit,Real Estate,M. Okafor,2023-05-22,2023-06-16,
+PRJ-11647,Tax Advisory,Technology,S. Chen,2022-10-17,2022-10-28,25.8
+PRJ-11648,Strategy Consulting,Retail,R. Petrov,2022-05-30,2022-06-10,485.0
+PRJ-11649,Audit,Healthcare,S. Chen,2022-09-12,2022-10-23,53.5
+PRJ-11650,Tax Advisory,Nonprofit,L. Fitzgerald,2022-01-11,2022-01-22,76.0
+PRJ-11651,Tax Advisory,Real Estate,M. Okafor,2023-02-12,2023-02-23,69.8
+PRJ-11652,Litigation Support,Nonprofit,R. Petrov,2023-09-04,2023-10-13,432.2
+PRJ-11653,Audit,Manufacturing,T. Nakamura,2022-12-07,2023-01-02,174.1
+PRJ-11654,Strategy Consulting,Technology,M. Okafor,2023-11-18,2023-12-08,514.6
+PRJ-11655,Strategy Consulting,Financial Services,L. Fitzgerald,2022-02-16,2022-03-15,65.6
+PRJ-11656,Audit,Financial Services,T. Nakamura,2023-02-09,2023-02-20,516.8
+PRJ-11657,Litigation Support,Retail,T. Nakamura,2022-07-03,2022-07-29,155.3
+PRJ-11658,Audit,Financial Services,R. Petrov,2023-04-25,2023-05-06,115.6
+PRJ-11659,Audit,Healthcare,L. Fitzgerald,2022-05-26,2022-08-18,263.2
+PRJ-11660,Audit,Healthcare,J. Alvarez,2023-05-27,2023-06-08,137.7
+PRJ-11661,Strategy Consulting,Real Estate,M. Okafor,2023-03-17,2023-04-10,50.7
+PRJ-11662,Audit,Healthcare,T. Nakamura,2022-09-28,2022-10-25,259.9
+PRJ-11663,Tax Advisory,Technology,S. Chen,2023-05-19,2023-06-02,59.9
+PRJ-11664,Strategy Consulting,Retail,T. Nakamura,2023-11-05,2023-12-09,69.8
+PRJ-11665,Litigation Support,Technology,J. Alvarez,2022-02-25,2022-03-05,379.2
+PRJ-11666,Audit,Manufacturing,R. Petrov,2023-04-24,2023-05-23,365.2
+PRJ-11667,Tax Advisory,Technology,J. Alvarez,2023-07-29,2023-08-07,159.8
+PRJ-11668,Tax Advisory,Technology,J. Alvarez,2022-06-01,2022-06-20,23.1
+PRJ-11669,Audit,Manufacturing,S. Chen,2022-07-04,2022-09-03,170.6
+PRJ-11670,Strategy Consulting,Nonprofit,T. Nakamura,2023-07-31,2023-08-18,
+PRJ-11671,Strategy Consulting,Financial Services,S. Chen,2022-01-05,2022-02-17,73.1
+PRJ-11672,Tax Advisory,Financial Services,S. Chen,2022-03-20,2022-05-14,30.5
+PRJ-11673,Audit,Technology,L. Fitzgerald,2022-12-03,2023-01-26,98.3
+PRJ-11674,Audit,Nonprofit,L. Fitzgerald,2023-01-18,2023-02-06,193.0
+PRJ-11675,Litigation Support,Manufacturing,M. Okafor,2022-03-25,2022-04-11,139.0
+PRJ-11676,Tax Advisory,Nonprofit,L. Fitzgerald,2023-10-06,2023-10-27,81.0
+PRJ-11677,Strategy Consulting,Financial Services,L. Fitzgerald,2023-11-03,2023-11-22,1463.8
+PRJ-11678,Litigation Support,Technology,M. Okafor,2023-08-06,2023-08-11,211.3
+PRJ-11679,Audit,Real Estate,J. Alvarez,2022-10-17,2022-10-28,165.4
+PRJ-11680,Tax Advisory,Manufacturing,L. Fitzgerald,2023-09-09,2023-09-16,26.8
+PRJ-11681,Tax Advisory,Technology,M. Okafor,2023-02-13,2023-02-22,17.1
+PRJ-11682,Audit,Real Estate,S. Chen,2023-02-17,2023-04-25,73.1
+PRJ-11683,Audit,Real Estate,L. Fitzgerald,2022-11-02,2022-11-25,83.0
+PRJ-11684,Tax Advisory,Technology,L. Fitzgerald,2022-11-14,2022-12-06,79.4
+PRJ-11685,Strategy Consulting,Financial Services,S. Chen,2022-04-09,2022-04-19,142.1
+PRJ-11686,Strategy Consulting,Financial Services,S. Chen,2023-02-02,2023-04-05,414.2
+PRJ-11687,Tax Advisory,Financial Services,T. Nakamura,2023-03-09,2023-03-20,18.5
+PRJ-11688,Strategy Consulting,Financial Services,S. Chen,2023-03-13,2023-03-24,123.3
+PRJ-11689,Audit,Financial Services,M. Okafor,2023-11-24,2023-12-07,171.0
+PRJ-11690,Audit,Nonprofit,L. Fitzgerald,2023-05-23,2023-07-04,546.2
+PRJ-11691,Tax Advisory,Nonprofit,T. Nakamura,2023-04-25,2023-06-02,69.6
+PRJ-11692,Tax Advisory,Real Estate,R. Petrov,2022-05-11,2022-05-25,130.1
+PRJ-11693,Litigation Support,Healthcare,S. Chen,2022-10-30,2022-11-21,113.0
+PRJ-11694,Litigation Support,Financial Services,J. Alvarez,2023-06-10,2023-07-02,
+PRJ-11695,Audit,Technology,R. Petrov,2023-11-08,2023-11-20,39.8
+PRJ-11696,Strategy Consulting,Real Estate,M. Okafor,2023-08-23,2023-09-12,142.4
+PRJ-11697,Audit,Financial Services,J. Alvarez,2023-11-09,2023-11-18,477.4
+PRJ-11698,Tax Advisory,Real Estate,S. Chen,2022-02-16,2022-04-08,85.5
+PRJ-11699,Audit,Nonprofit,M. Okafor,2023-04-11,2023-04-27,588.5
+PRJ-11700,Strategy Consulting,Technology,T. Nakamura,2022-12-16,2023-01-14,211.6
+PRJ-11701,Strategy Consulting,Real Estate,S. Chen,2022-03-22,2022-04-10,172.0
+PRJ-11702,Strategy Consulting,Financial Services,M. Okafor,2022-04-19,2022-04-23,203.5
+PRJ-11703,Tax Advisory,Manufacturing,J. Alvarez,2022-01-14,2022-02-05,96.7
+PRJ-11704,Audit,Technology,R. Petrov,2023-11-05,,102.7
+PRJ-11705,Strategy Consulting,Financial Services,L. Fitzgerald,2023-09-26,2023-10-12,93.5
+PRJ-11706,Strategy Consulting,Financial Services,M. Okafor,2023-11-23,2023-12-05,604.7
+PRJ-11707,Tax Advisory,Healthcare,J. Alvarez,2022-01-15,2022-02-03,40.8
+PRJ-11708,Audit,Real Estate,J. Alvarez,2022-07-12,2022-08-04,
+PRJ-11709,Strategy Consulting,Retail,R. Petrov,2023-10-28,2023-11-12,60.7
+PRJ-11710,Audit,Real Estate,L. Fitzgerald,2023-07-06,2023-07-26,78.4
+PRJ-11711,Audit,Healthcare,R. Petrov,2023-03-09,2023-04-04,161.7
+PRJ-11712,Audit,Retail,S. Chen,2023-04-01,2023-05-10,34.6
+PRJ-11713,Strategy Consulting,Technology,J. Alvarez,2023-08-23,2023-10-10,179.0
+PRJ-11714,Audit,Healthcare,T. Nakamura,2023-02-06,2023-03-18,163.8
+PRJ-11715,Audit,Manufacturing,J. Alvarez,2023-03-19,2023-05-05,166.3
+PRJ-11716,Strategy Consulting,Real Estate,R. Petrov,2023-09-03,2023-09-22,
+PRJ-11717,Strategy Consulting,Healthcare,J. Alvarez,2023-05-13,2023-06-17,736.1
+PRJ-11718,Tax Advisory,Nonprofit,T. Nakamura,2023-05-15,2023-05-24,89.7
+PRJ-11719,Audit,Manufacturing,T. Nakamura,2023-08-14,2023-09-08,48.7
+PRJ-11720,Tax Advisory,Manufacturing,M. Okafor,2023-03-04,2023-03-18,66.4
+PRJ-11721,Strategy Consulting,Manufacturing,R. Petrov,2023-10-24,2023-12-17,165.6
+PRJ-11722,Tax Advisory,Nonprofit,R. Petrov,2022-10-22,2022-11-01,97.6
+PRJ-11723,Strategy Consulting,Technology,M. Okafor,2023-06-04,2023-06-16,
+PRJ-11724,Audit,Nonprofit,M. Okafor,2023-11-04,2023-11-20,91.5
+PRJ-11725,Tax Advisory,Healthcare,L. Fitzgerald,2023-03-03,2023-03-12,42.9
+PRJ-11726,Strategy Consulting,Nonprofit,L. Fitzgerald,2023-04-29,2023-05-14,137.2
+PRJ-11727,Strategy Consulting,Real Estate,S. Chen,2022-10-17,2022-12-27,19.3
+PRJ-11728,Litigation Support,Manufacturing,L. Fitzgerald,2022-06-27,2022-07-13,428.6
+PRJ-11729,Audit,Financial Services,R. Petrov,2023-03-02,2023-03-12,121.6
+PRJ-11730,Strategy Consulting,Technology,M. Okafor,2023-07-25,2023-09-28,491.6
+PRJ-11731,Audit,Manufacturing,M. Okafor,2023-01-01,2023-02-08,133.9
+PRJ-11732,Litigation Support,Retail,T. Nakamura,2022-03-07,2022-03-16,
+PRJ-11733,Tax Advisory,Manufacturing,T. Nakamura,2023-07-30,2023-08-21,45.0
+PRJ-11734,Audit,Healthcare,M. Okafor,2022-02-17,2022-03-07,87.3
+PRJ-11735,Strategy Consulting,Financial Services,M. Okafor,2023-06-12,2023-07-02,
+PRJ-11736,Litigation Support,Manufacturing,L. Fitzgerald,2023-03-25,2023-04-05,207.5
+PRJ-11737,Strategy Consulting,Real Estate,J. Alvarez,2023-09-18,2023-09-27,90.8
+PRJ-11738,Litigation Support,Real Estate,J. Alvarez,2022-02-12,2022-02-17,396.5
+PRJ-11739,Tax Advisory,Retail,L. Fitzgerald,2022-07-30,2022-09-16,134.5
+PRJ-11740,Strategy Consulting,Retail,L. Fitzgerald,2023-03-29,2023-04-02,121.4
+PRJ-11741,Strategy Consulting,Technology,L. Fitzgerald,2022-06-07,2022-06-27,116.5
+PRJ-11742,Litigation Support,Healthcare,S. Chen,2022-07-26,2022-08-10,98.6
+PRJ-11743,Tax Advisory,Technology,J. Alvarez,2023-05-01,2023-06-01,175.1
+PRJ-11744,Tax Advisory,Financial Services,S. Chen,2023-01-17,2023-01-25,31.4
+PRJ-11745,Strategy Consulting,Technology,M. Okafor,2022-09-09,2022-09-27,119.3
+PRJ-11746,Audit,Real Estate,T. Nakamura,2022-08-22,2022-09-06,169.8
+PRJ-11747,Audit,Technology,R. Petrov,2023-04-15,2023-06-21,171.7
+PRJ-11748,Strategy Consulting,Financial Services,L. Fitzgerald,2022-01-31,2022-02-20,265.5
+PRJ-11749,Tax Advisory,Real Estate,J. Alvarez,2023-06-14,2023-06-30,52.8
+PRJ-11750,Strategy Consulting,Manufacturing,M. Okafor,2022-06-18,2022-07-02,342.8
+PRJ-11751,Tax Advisory,Technology,J. Alvarez,2023-10-19,2023-11-09,61.9
+PRJ-11752,Audit,Financial Services,J. Alvarez,2023-11-08,2023-11-17,84.5
+PRJ-11753,Strategy Consulting,Healthcare,R. Petrov,2023-11-29,2023-12-19,188.1
+PRJ-11754,Strategy Consulting,Real Estate,M. Okafor,2022-11-18,2022-12-03,212.9
+PRJ-11755,Strategy Consulting,Manufacturing,M. Okafor,2023-09-18,2023-09-30,352.6
+PRJ-11756,Strategy Consulting,Nonprofit,R. Petrov,2022-07-30,2022-08-06,497.2
+PRJ-11757,Strategy Consulting,Financial Services,T. Nakamura,2022-12-20,2023-01-16,203.4
+PRJ-11758,Strategy Consulting,Real Estate,L. Fitzgerald,2022-07-22,2022-08-18,85.9
+PRJ-11759,Strategy Consulting,Manufacturing,J. Alvarez,2023-02-04,2023-02-09,367.3
+PRJ-11760,Strategy Consulting,Nonprofit,S. Chen,2023-07-08,2023-07-12,213.3
+PRJ-11761,Audit,Manufacturing,T. Nakamura,2023-06-18,2023-08-12,
+PRJ-11762,Tax Advisory,Nonprofit,S. Chen,2023-07-07,2023-07-17,39.9
+PRJ-11763,Litigation Support,Retail,M. Okafor,2023-06-02,2023-08-13,174.1
+PRJ-11764,Audit,Manufacturing,M. Okafor,2023-06-04,2023-06-15,33.3
+PRJ-11765,Tax Advisory,Manufacturing,L. Fitzgerald,2023-04-05,2023-06-08,171.2
+PRJ-11766,Audit,Nonprofit,J. Alvarez,2022-08-30,2022-09-08,111.6
+PRJ-11767,Strategy Consulting,Financial Services,T. Nakamura,2023-10-05,2023-11-28,650.5
+PRJ-11768,Litigation Support,Real Estate,T. Nakamura,2022-11-03,2022-11-15,321.7
+PRJ-11769,Audit,Real Estate,L. Fitzgerald,2022-05-24,2022-06-12,116.0
+PRJ-11770,Strategy Consulting,Financial Services,L. Fitzgerald,2022-12-02,2023-01-21,189.1
+PRJ-11771,Tax Advisory,Retail,M. Okafor,2022-05-31,2022-06-11,111.0
+PRJ-11772,Strategy Consulting,Real Estate,R. Petrov,2022-03-05,2022-03-30,393.1
+PRJ-11773,Tax Advisory,Retail,R. Petrov,2022-03-21,2022-05-10,97.1
+PRJ-11774,Tax Advisory,Financial Services,R. Petrov,2023-06-16,2023-07-06,27.6
+PRJ-11775,Strategy Consulting,Real Estate,M. Okafor,2023-10-14,2023-10-22,103.4
+PRJ-11776,Tax Advisory,Technology,L. Fitzgerald,2023-05-17,2023-08-19,76.5
+PRJ-11777,Strategy Consulting,Technology,S. Chen,2022-05-11,2022-05-31,41.4
+PRJ-11778,Tax Advisory,Technology,S. Chen,2023-06-10,2023-07-02,93.9
+PRJ-11779,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-04-30,2023-05-09,138.6
+PRJ-11780,Audit,Retail,T. Nakamura,2022-05-02,2022-05-15,141.2
+PRJ-11781,Litigation Support,Technology,J. Alvarez,2023-08-09,2023-09-21,43.2
+PRJ-11782,Audit,Financial Services,S. Chen,2022-11-09,2022-11-30,234.7
+PRJ-11783,Strategy Consulting,Healthcare,M. Okafor,2022-05-27,2022-07-06,
+PRJ-11784,Audit,Financial Services,R. Petrov,2022-11-09,2022-12-15,140.4
+PRJ-11785,Strategy Consulting,Retail,S. Chen,2023-05-16,2023-07-01,121.8
+PRJ-11786,Audit,Financial Services,M. Okafor,2022-02-15,2022-03-10,150.2
+PRJ-11787,Tax Advisory,Financial Services,M. Okafor,2022-12-12,2023-01-05,24.7
+PRJ-11788,Strategy Consulting,Technology,L. Fitzgerald,2022-05-16,2022-05-30,
+PRJ-11789,Strategy Consulting,Financial Services,L. Fitzgerald,2023-04-06,2023-04-17,84.8
+PRJ-11790,Litigation Support,Retail,L. Fitzgerald,2023-10-02,2023-11-17,885.1
+PRJ-11791,Litigation Support,Technology,R. Petrov,2023-02-09,2023-02-19,767.1
+PRJ-11792,Tax Advisory,Manufacturing,L. Fitzgerald,2022-10-12,2022-10-21,63.1
+PRJ-11793,Litigation Support,Real Estate,S. Chen,2023-08-09,2023-08-21,122.9
+PRJ-11794,Litigation Support,Real Estate,L. Fitzgerald,2023-10-23,2023-11-08,476.3
+PRJ-11795,Audit,Financial Services,J. Alvarez,2023-09-26,2023-10-26,253.5
+PRJ-11796,Tax Advisory,Real Estate,J. Alvarez,2023-06-19,2023-06-27,300.9
+PRJ-11797,Audit,Technology,T. Nakamura,2022-05-04,2022-06-14,289.7
+PRJ-11798,Litigation Support,Financial Services,S. Chen,2022-10-09,2022-11-16,101.2
+PRJ-11799,Strategy Consulting,Retail,L. Fitzgerald,2023-08-17,2023-09-04,189.8
+PRJ-11800,Tax Advisory,Real Estate,T. Nakamura,2023-02-16,2023-03-01,33.7
+PRJ-11801,Litigation Support,Technology,J. Alvarez,2022-07-04,2022-07-25,839.8
+PRJ-11802,Tax Advisory,Real Estate,T. Nakamura,2022-09-21,2022-10-04,103.7
+PRJ-11803,Audit,Manufacturing,T. Nakamura,2022-05-28,2022-07-07,69.5
+PRJ-11804,Audit,Real Estate,J. Alvarez,2023-02-22,2023-03-10,46.7
+PRJ-11805,Litigation Support,Manufacturing,T. Nakamura,2022-07-05,2022-07-27,204.8
+PRJ-11806,Audit,Manufacturing,M. Okafor,2022-11-24,2022-12-20,105.9
+PRJ-11807,Audit,Healthcare,M. Okafor,2022-05-04,2022-06-05,194.9
+PRJ-11808,Audit,Retail,T. Nakamura,2023-05-20,2023-06-06,60.2
+PRJ-11809,Tax Advisory,Financial Services,R. Petrov,2022-10-03,2022-11-07,138.5
+PRJ-11810,Audit,Technology,T. Nakamura,2023-05-11,2023-06-05,45.9
+PRJ-11811,Audit,Nonprofit,S. Chen,2022-01-20,2022-02-10,30.0
+PRJ-11812,Audit,Financial Services,L. Fitzgerald,2023-07-23,2023-08-03,453.0
+PRJ-11813,Litigation Support,Retail,M. Okafor,2023-04-02,2023-05-05,111.5
+PRJ-11814,Audit,Nonprofit,T. Nakamura,2022-05-26,2022-06-09,40.8
+PRJ-11815,Tax Advisory,Retail,S. Chen,2023-03-10,2023-03-24,91.1
+PRJ-11816,Strategy Consulting,Financial Services,R. Petrov,2023-04-21,2023-05-23,127.2
+PRJ-11817,Strategy Consulting,Financial Services,M. Okafor,2022-06-21,2022-07-15,201.5
+PRJ-11818,Audit,Technology,M. Okafor,2023-11-28,2023-12-24,94.6
+PRJ-11819,Tax Advisory,Healthcare,L. Fitzgerald,2023-06-07,2023-07-04,55.0
+PRJ-11820,Audit,Retail,L. Fitzgerald,2022-03-13,2022-03-31,84.7
+PRJ-11821,Tax Advisory,Technology,L. Fitzgerald,2022-05-24,2022-06-13,30.0
+PRJ-11822,Strategy Consulting,Healthcare,R. Petrov,2023-06-01,2023-06-11,85.0
+PRJ-11823,Strategy Consulting,Healthcare,L. Fitzgerald,2023-10-13,2023-11-05,179.8
+PRJ-11824,Audit,Real Estate,L. Fitzgerald,2022-09-09,2022-09-25,207.6
+PRJ-11825,Litigation Support,Healthcare,M. Okafor,2023-09-06,2023-10-05,266.1
+PRJ-11826,Tax Advisory,Nonprofit,S. Chen,2022-01-03,2022-01-15,81.9
+PRJ-11827,Litigation Support,Manufacturing,J. Alvarez,2023-02-28,2023-03-26,222.0
+PRJ-11828,Litigation Support,Nonprofit,L. Fitzgerald,2023-02-07,2023-02-13,201.0
+PRJ-11829,Tax Advisory,Real Estate,L. Fitzgerald,2023-07-06,2023-09-23,67.1
+PRJ-11830,Audit,Real Estate,L. Fitzgerald,2022-05-07,2022-05-20,
+PRJ-11831,Tax Advisory,Real Estate,R. Petrov,2023-01-02,2023-01-27,77.9
+PRJ-11832,Tax Advisory,Real Estate,L. Fitzgerald,2022-05-08,2022-05-17,138.3
+PRJ-11833,Tax Advisory,Retail,R. Petrov,2022-10-15,2022-11-13,1321.7
+PRJ-11834,Litigation Support,Nonprofit,M. Okafor,2023-09-21,2023-10-16,181.1
+PRJ-11835,Litigation Support,Real Estate,L. Fitzgerald,2023-05-21,2023-06-25,411.1
+PRJ-11836,Strategy Consulting,Manufacturing,M. Okafor,2023-09-13,2023-10-17,67.4
+PRJ-11837,Audit,Retail,L. Fitzgerald,2022-10-12,2022-11-02,114.7
+PRJ-11838,Litigation Support,Technology,S. Chen,2023-11-07,2023-11-26,210.5
+PRJ-11839,Strategy Consulting,Nonprofit,L. Fitzgerald,2022-06-29,2022-07-18,345.4
+PRJ-11840,Audit,Retail,L. Fitzgerald,2022-09-23,2022-10-09,54.8
+PRJ-11841,Strategy Consulting,Real Estate,S. Chen,2022-10-08,2022-11-20,
+PRJ-11842,Audit,Nonprofit,J. Alvarez,2023-11-26,2023-12-08,183.0
+PRJ-11843,Tax Advisory,Healthcare,L. Fitzgerald,2023-04-10,2023-05-04,341.7
+PRJ-11844,Audit,Technology,L. Fitzgerald,2023-10-28,2023-11-16,293.0
+PRJ-11845,Audit,Healthcare,R. Petrov,2023-02-21,2023-03-27,
+PRJ-11846,Audit,Nonprofit,T. Nakamura,2023-01-06,2023-02-14,281.5
+PRJ-11847,Tax Advisory,Manufacturing,L. Fitzgerald,2022-10-12,2022-10-29,110.5
+PRJ-11848,Strategy Consulting,Financial Services,R. Petrov,2023-02-06,2023-03-03,100.5
+PRJ-11849,Audit,Manufacturing,T. Nakamura,2022-08-20,2022-09-07,-230.6
+PRJ-11850,Strategy Consulting,Technology,J. Alvarez,2022-07-21,2022-09-09,316.2
+PRJ-11851,Audit,Healthcare,J. Alvarez,2022-04-10,2022-04-22,63.2
+PRJ-11852,Audit,Technology,J. Alvarez,2023-10-04,2023-10-29,108.8
+PRJ-11853,Strategy Consulting,Real Estate,M. Okafor,2023-04-30,2023-06-16,103.9
+PRJ-11854,Audit,Healthcare,J. Alvarez,2023-06-17,2023-07-08,161.5
+PRJ-11855,Strategy Consulting,Manufacturing,T. Nakamura,2022-04-08,2022-04-17,54.9
+PRJ-11856,Litigation Support,Financial Services,J. Alvarez,2022-03-04,2022-03-09,243.5
+PRJ-11857,Strategy Consulting,Technology,M. Okafor,2022-03-08,2022-03-27,304.7
+PRJ-11858,Strategy Consulting,Manufacturing,R. Petrov,2023-09-18,2023-12-10,1452.1
+PRJ-11859,Litigation Support,Manufacturing,J. Alvarez,2023-07-27,2023-08-15,176.1
+PRJ-11860,Audit,Real Estate,R. Petrov,2023-09-25,2023-11-22,240.9
+PRJ-11861,Strategy Consulting,Retail,T. Nakamura,2023-10-01,2023-10-08,47.7
+PRJ-11862,Audit,Technology,R. Petrov,2023-09-28,2023-10-27,77.6
+PRJ-11863,Litigation Support,Healthcare,L. Fitzgerald,2022-01-27,2022-03-07,283.2
+PRJ-11864,Tax Advisory,Healthcare,T. Nakamura,2022-04-16,2022-04-21,25.9
+PRJ-11865,Audit,Nonprofit,J. Alvarez,2022-07-18,2022-07-30,218.8
+PRJ-11866,Strategy Consulting,Retail,L. Fitzgerald,2022-12-30,2023-01-21,36.5
+PRJ-11867,Tax Advisory,Nonprofit,T. Nakamura,2022-09-06,2022-09-25,104.5
+PRJ-11868,Audit,Manufacturing,J. Alvarez,2023-08-22,2023-09-10,87.1
+PRJ-11869,Tax Advisory,Nonprofit,M. Okafor,2023-07-09,2023-07-18,46.3
+PRJ-11870,Strategy Consulting,Retail,R. Petrov,2022-12-18,2023-01-15,91.0
+PRJ-11871,Audit,Manufacturing,T. Nakamura,2023-11-26,2023-12-19,150.3
+PRJ-11872,Audit,Retail,T. Nakamura,2023-07-27,2023-08-14,59.8
+PRJ-11873,Strategy Consulting,Technology,M. Okafor,2022-07-25,2022-08-17,32.7
+PRJ-11874,Litigation Support,Retail,J. Alvarez,2023-11-15,2023-11-23,543.8
+PRJ-11875,Tax Advisory,Nonprofit,R. Petrov,2022-12-06,2022-12-31,39.8
+PRJ-11876,Strategy Consulting,Financial Services,M. Okafor,2023-03-05,2023-03-21,
+PRJ-11877,Tax Advisory,Manufacturing,R. Petrov,2022-02-13,2022-02-19,37.0
+PRJ-11878,Tax Advisory,Manufacturing,L. Fitzgerald,2022-08-24,2022-11-03,
+PRJ-11879,Tax Advisory,Retail,S. Chen,2022-12-06,2022-12-26,72.9
+PRJ-11880,Strategy Consulting,Technology,S. Chen,2022-01-07,2022-01-27,187.9
+PRJ-11881,Tax Advisory,Manufacturing,M. Okafor,2022-04-28,2022-06-01,34.0
+PRJ-11882,Audit,Technology,S. Chen,2023-01-04,2023-01-25,140.5
+PRJ-11883,Audit,Manufacturing,S. Chen,2022-06-28,2022-08-12,60.6
+PRJ-11884,Audit,Healthcare,L. Fitzgerald,2023-07-22,2023-08-06,191.1
+PRJ-11885,Audit,Retail,J. Alvarez,2022-09-26,2022-10-11,242.0
+PRJ-11886,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-11-02,2023-11-15,86.8
+PRJ-11887,Strategy Consulting,Manufacturing,M. Okafor,2022-11-09,2022-12-06,43.4
+PRJ-11888,Tax Advisory,Healthcare,M. Okafor,2023-06-24,2023-07-04,16.7
+PRJ-11889,Strategy Consulting,Financial Services,R. Petrov,2022-03-08,2022-03-27,35.1
+PRJ-11890,Audit,Retail,S. Chen,2023-01-23,2023-02-09,108.0
+PRJ-11891,Litigation Support,Healthcare,T. Nakamura,2023-10-14,2023-10-24,96.4
+PRJ-11892,Audit,Manufacturing,T. Nakamura,2023-07-03,2023-07-18,166.1
+PRJ-11893,Audit,Retail,M. Okafor,2023-10-07,2023-10-19,149.7
+PRJ-11894,Strategy Consulting,Real Estate,S. Chen,2023-08-22,2023-10-06,170.3
+PRJ-11895,Strategy Consulting,Retail,L. Fitzgerald,2023-04-27,2023-05-13,226.1
+PRJ-11896,Strategy Consulting,Financial Services,J. Alvarez,2023-02-02,2023-02-20,179.6
+PRJ-11897,Strategy Consulting,Nonprofit,T. Nakamura,2023-06-16,2023-07-03,150.8
+PRJ-11898,Tax Advisory,Healthcare,L. Fitzgerald,2023-05-10,2023-06-02,53.5
+PRJ-11899,Strategy Consulting,Technology,R. Petrov,2023-02-15,2023-02-26,74.8
+PRJ-11900,Litigation Support,Real Estate,T. Nakamura,2022-08-01,2022-08-09,75.7
+PRJ-11901,Audit,Retail,R. Petrov,2023-02-10,2023-03-05,51.2
+PRJ-11902,Audit,Technology,R. Petrov,2023-01-19,2023-02-16,64.2
+PRJ-11903,Audit,Manufacturing,S. Chen,2022-10-30,2022-11-05,123.0
+PRJ-11904,Tax Advisory,Healthcare,S. Chen,2023-04-22,2023-05-26,94.9
+PRJ-11905,Tax Advisory,Healthcare,R. Petrov,2023-03-19,2023-04-15,29.9
+PRJ-11906,Tax Advisory,Real Estate,R. Petrov,2023-01-27,2023-02-18,32.9
+PRJ-11907,Audit,Technology,S. Chen,2022-03-19,2022-03-26,49.5
+PRJ-11908,Tax Advisory,Manufacturing,M. Okafor,2023-06-10,2023-06-29,45.9
+PRJ-11909,Tax Advisory,Manufacturing,M. Okafor,2022-04-11,2022-04-21,45.4
+PRJ-11910,Audit,Healthcare,J. Alvarez,2022-12-08,2023-01-01,90.7
+PRJ-11911,Audit,Healthcare,M. Okafor,2023-12-01,2023-12-24,116.3
+PRJ-11912,Strategy Consulting,Retail,L. Fitzgerald,2022-05-22,2022-07-03,93.8
+PRJ-11913,Strategy Consulting,Real Estate,L. Fitzgerald,2022-09-25,2022-10-23,65.8
+PRJ-11914,Audit,Healthcare,M. Okafor,2023-02-18,2023-03-18,274.5
+PRJ-11915,Strategy Consulting,Real Estate,T. Nakamura,2022-01-13,2022-01-28,130.2
+PRJ-11916,Tax Advisory,Financial Services,S. Chen,2022-08-22,2022-08-30,123.9
+PRJ-11917,Audit,Nonprofit,S. Chen,2023-06-13,2023-06-29,60.8
+PRJ-11918,Litigation Support,Financial Services,R. Petrov,2023-04-18,2023-05-14,475.6
+PRJ-11919,Tax Advisory,Manufacturing,M. Okafor,2023-03-16,2023-04-02,30.5
+PRJ-11920,Strategy Consulting,Nonprofit,R. Petrov,2023-04-06,2023-04-19,97.6
+PRJ-11921,Strategy Consulting,Manufacturing,M. Okafor,2022-05-12,2022-05-21,297.6
+PRJ-11922,Tax Advisory,Nonprofit,J. Alvarez,2023-11-06,2023-12-10,185.0
+PRJ-11923,Strategy Consulting,Healthcare,S. Chen,2023-02-18,2023-03-05,321.9
+PRJ-11924,Strategy Consulting,Nonprofit,T. Nakamura,2023-08-25,2023-09-02,135.1
+PRJ-11925,Audit,Real Estate,J. Alvarez,2022-06-07,2022-07-05,83.1
+PRJ-11926,Strategy Consulting,Healthcare,T. Nakamura,2023-09-10,2023-09-20,371.6
+PRJ-11927,Strategy Consulting,Financial Services,R. Petrov,2022-07-29,2022-08-17,116.1
+PRJ-11928,Strategy Consulting,Manufacturing,T. Nakamura,2023-05-02,2023-05-31,56.5
+PRJ-11929,Audit,Financial Services,R. Petrov,2022-11-08,2022-11-26,72.3
+PRJ-11930,Audit,Manufacturing,L. Fitzgerald,2022-02-02,2022-02-15,87.5
+PRJ-11931,Strategy Consulting,Financial Services,R. Petrov,2022-07-23,2022-08-10,149.3
+PRJ-11932,Audit,Technology,M. Okafor,2022-10-26,2022-11-08,92.5
+PRJ-11933,Litigation Support,Manufacturing,R. Petrov,2023-06-15,2023-08-10,250.1
+PRJ-11934,Audit,Healthcare,R. Petrov,2022-04-24,2022-06-01,132.3
+PRJ-11935,Audit,Technology,R. Petrov,2023-02-03,2023-02-26,45.3
+PRJ-11936,Strategy Consulting,Real Estate,S. Chen,2022-07-30,2022-08-07,69.6
+PRJ-11937,Tax Advisory,Real Estate,L. Fitzgerald,2022-06-12,2022-07-24,35.8
+PRJ-11938,Litigation Support,Healthcare,T. Nakamura,2023-04-15,2023-05-09,388.9
+PRJ-11939,Audit,Manufacturing,S. Chen,2023-02-13,2023-03-03,41.0
+PRJ-11940,Litigation Support,Retail,T. Nakamura,2023-08-06,2023-08-29,247.0
+PRJ-11941,Strategy Consulting,Technology,R. Petrov,2022-04-04,2022-04-16,41.3
+PRJ-11942,Audit,Technology,M. Okafor,2022-11-01,2022-11-29,114.7
+PRJ-11943,Tax Advisory,Real Estate,S. Chen,2022-07-03,2022-07-22,12.9
+PRJ-11944,Strategy Consulting,Nonprofit,R. Petrov,2023-11-06,2023-12-10,165.8
+PRJ-11945,Audit,Financial Services,J. Alvarez,2022-02-14,2022-03-15,194.9
+PRJ-11946,Audit,Real Estate,S. Chen,2023-10-06,2023-10-12,68.5
+PRJ-11947,Tax Advisory,Nonprofit,J. Alvarez,2022-08-11,2022-09-18,45.6
+PRJ-11948,Strategy Consulting,Technology,T. Nakamura,2023-01-13,2023-02-14,397.8
+PRJ-11949,Audit,Manufacturing,T. Nakamura,2022-11-30,2022-12-26,162.1
+PRJ-11950,Tax Advisory,Retail,M. Okafor,2022-02-15,2022-03-06,40.7
+PRJ-11951,Tax Advisory,Manufacturing,L. Fitzgerald,2023-04-18,2023-04-29,193.0
+PRJ-11952,Tax Advisory,Nonprofit,R. Petrov,2023-02-11,2023-02-28,185.8
+PRJ-11953,Audit,Healthcare,J. Alvarez,2022-05-20,2022-05-29,303.5
+PRJ-11954,Tax Advisory,Nonprofit,R. Petrov,2022-03-11,2022-03-24,90.4
+PRJ-11955,Audit,Nonprofit,S. Chen,2023-03-25,2023-04-17,44.6
+PRJ-11956,Audit,Real Estate,M. Okafor,2022-06-24,2022-07-06,243.3
+PRJ-11957,Strategy Consulting,Financial Services,J. Alvarez,2022-05-08,2022-05-27,52.5
+PRJ-11958,Tax Advisory,Technology,S. Chen,2022-01-12,2022-02-10,56.4
+PRJ-11959,Litigation Support,Retail,R. Petrov,2022-08-10,2022-08-30,388.8
+PRJ-11960,Strategy Consulting,Nonprofit,T. Nakamura,2022-02-18,2022-03-14,549.8
+PRJ-11961,Strategy Consulting,Real Estate,T. Nakamura,2023-11-07,2023-11-14,117.7
+PRJ-11962,Strategy Consulting,Technology,L. Fitzgerald,2022-02-23,2022-03-12,124.8
+PRJ-11963,Litigation Support,Manufacturing,R. Petrov,2022-09-13,2022-10-10,-391.7
+PRJ-11964,Tax Advisory,Retail,S. Chen,2023-03-08,2023-03-31,
+PRJ-11965,Audit,Manufacturing,M. Okafor,2023-11-28,,192.0
+PRJ-11966,Litigation Support,Retail,J. Alvarez,2023-11-12,2023-12-15,372.3
+PRJ-11967,Audit,Retail,J. Alvarez,2022-04-21,2022-05-17,125.2
+PRJ-11968,Strategy Consulting,Healthcare,T. Nakamura,2023-10-02,2023-10-11,359.7
+PRJ-11969,Audit,Financial Services,R. Petrov,2022-05-04,2022-05-17,94.0
+PRJ-11970,Audit,Manufacturing,M. Okafor,2022-01-16,2022-02-28,156.5
+PRJ-11971,Tax Advisory,Healthcare,J. Alvarez,2023-04-15,2023-04-20,39.5
+PRJ-11972,Audit,Nonprofit,M. Okafor,2023-01-13,2023-02-18,89.9
+PRJ-11973,Audit,Retail,R. Petrov,2023-09-06,2023-10-03,174.8
+PRJ-11974,Tax Advisory,Manufacturing,L. Fitzgerald,2023-08-06,2023-08-15,49.3
+PRJ-11975,Audit,Manufacturing,T. Nakamura,2023-10-09,2023-10-21,172.1
+PRJ-11976,Litigation Support,Nonprofit,L. Fitzgerald,2022-06-29,2022-07-28,922.6
+PRJ-11977,Litigation Support,Nonprofit,M. Okafor,2023-11-14,2023-11-28,133.2
+PRJ-11978,Tax Advisory,Healthcare,J. Alvarez,2023-08-23,2023-09-10,56.2
+PRJ-11979,Tax Advisory,Financial Services,L. Fitzgerald,2023-05-31,2023-06-23,131.1
+PRJ-11980,Litigation Support,Manufacturing,S. Chen,2022-05-08,2022-07-12,119.8
+PRJ-11981,Tax Advisory,Nonprofit,R. Petrov,2023-09-27,2023-10-30,62.1
+PRJ-11982,Audit,Retail,M. Okafor,2022-07-26,2022-08-21,78.4
+PRJ-11983,Audit,Retail,L. Fitzgerald,2023-09-05,2023-09-11,149.2
+PRJ-11984,Strategy Consulting,Technology,L. Fitzgerald,2022-05-18,2022-07-02,614.8
+PRJ-11985,Audit,Nonprofit,J. Alvarez,2023-03-01,2023-03-11,90.9
+PRJ-11986,Litigation Support,Healthcare,J. Alvarez,2022-12-06,2022-12-28,255.1
+PRJ-11987,Tax Advisory,Retail,T. Nakamura,2023-11-12,2023-12-05,77.0
+PRJ-11988,Strategy Consulting,Real Estate,L. Fitzgerald,2022-08-16,2022-10-05,213.8
+PRJ-11989,Litigation Support,Technology,T. Nakamura,2023-03-29,2023-04-09,297.7
+PRJ-11990,Litigation Support,Manufacturing,R. Petrov,2022-07-17,2022-09-11,519.1
+PRJ-11991,Audit,Retail,S. Chen,2022-06-27,2022-07-07,1090.0
+PRJ-11992,Litigation Support,Real Estate,S. Chen,2022-03-22,2022-03-28,237.1
+PRJ-11993,Tax Advisory,Technology,M. Okafor,2022-07-22,2022-08-06,
+PRJ-11994,Audit,Retail,T. Nakamura,2022-10-20,2022-11-02,461.2
+PRJ-11995,Litigation Support,Nonprofit,S. Chen,2023-05-08,2023-05-23,61.3
+PRJ-11996,Audit,Healthcare,R. Petrov,2023-04-28,2023-05-30,30.1
+PRJ-11997,Tax Advisory,Financial Services,T. Nakamura,2022-06-09,2022-06-30,14.1
+PRJ-11998,Strategy Consulting,Real Estate,R. Petrov,2023-01-26,2023-02-12,35.0
+PRJ-11999,Tax Advisory,Manufacturing,M. Okafor,2022-06-06,2022-07-02,189.6
+PRJ-12000,Litigation Support,Retail,M. Okafor,2022-11-10,2022-11-30,109.3
+PRJ-12001,Tax Advisory,Technology,T. Nakamura,2022-03-15,2022-04-11,60.8
+PRJ-12002,Tax Advisory,Nonprofit,R. Petrov,2022-07-14,2022-08-12,23.0
+PRJ-12003,Audit,Real Estate,T. Nakamura,2023-01-19,2023-02-02,18.1
+PRJ-12004,Tax Advisory,Technology,R. Petrov,2023-01-18,2023-02-17,42.6
+PRJ-12005,Tax Advisory,Healthcare,L. Fitzgerald,2022-03-14,2022-03-23,61.0
+PRJ-12006,Tax Advisory,Manufacturing,J. Alvarez,2023-08-03,2023-08-26,30.1
+PRJ-12007,Audit,Real Estate,R. Petrov,2022-12-23,2023-01-06,113.5
+PRJ-12008,Tax Advisory,Technology,L. Fitzgerald,2022-03-01,2022-04-01,42.9
+PRJ-12009,Litigation Support,Technology,L. Fitzgerald,2023-05-05,2023-05-24,
+PRJ-12010,Audit,Real Estate,M. Okafor,2023-11-24,2023-12-02,548.1
+PRJ-12011,Audit,Nonprofit,L. Fitzgerald,2023-09-12,2023-10-15,32.8
+PRJ-12012,Tax Advisory,Nonprofit,S. Chen,2023-09-09,2023-09-26,37.3
+PRJ-12013,Litigation Support,Nonprofit,S. Chen,2022-04-05,2022-04-22,115.8
+PRJ-12014,Litigation Support,Technology,R. Petrov,2022-03-24,2022-04-26,612.3
+PRJ-12015,Tax Advisory,Retail,R. Petrov,2023-03-14,2023-03-22,
+PRJ-12016,Audit,Healthcare,T. Nakamura,2023-11-06,2023-11-09,53.6
+PRJ-12017,Strategy Consulting,Financial Services,M. Okafor,2022-04-02,2022-05-09,85.1
+PRJ-12018,Audit,Financial Services,M. Okafor,2022-10-03,2022-10-21,172.3
+PRJ-12019,Strategy Consulting,Nonprofit,R. Petrov,2022-01-07,2022-01-20,147.7
+PRJ-12020,Strategy Consulting,Real Estate,R. Petrov,2023-03-04,2023-04-06,1469.6
+PRJ-12021,Tax Advisory,Nonprofit,M. Okafor,2022-06-24,2022-07-19,19.4
+PRJ-12022,Audit,Retail,L. Fitzgerald,2023-05-14,2023-05-30,230.5
+PRJ-12023,Audit,Manufacturing,R. Petrov,2022-08-06,2022-11-27,196.0
+PRJ-12024,Audit,Manufacturing,L. Fitzgerald,2022-07-16,2022-08-11,111.5
+PRJ-12025,Audit,Real Estate,R. Petrov,2023-10-02,2023-10-25,71.6
+PRJ-12026,Audit,Nonprofit,S. Chen,2022-03-29,2022-04-21,165.6
+PRJ-12027,Tax Advisory,Healthcare,J. Alvarez,2023-08-23,2023-09-15,29.4
+PRJ-12028,Audit,Technology,L. Fitzgerald,2022-01-10,2022-02-06,
+PRJ-12029,Audit,Real Estate,J. Alvarez,2022-02-12,2022-03-02,235.3
+PRJ-12030,Audit,Financial Services,J. Alvarez,2023-06-17,2023-07-11,202.8
+PRJ-12031,Strategy Consulting,Real Estate,M. Okafor,2023-04-30,2023-05-25,77.1
+PRJ-12032,Strategy Consulting,Financial Services,R. Petrov,2023-11-30,2023-12-14,74.9
+PRJ-12033,Strategy Consulting,Healthcare,S. Chen,2023-11-13,2023-12-08,171.3
+PRJ-12034,Tax Advisory,Financial Services,J. Alvarez,2022-12-05,2023-01-13,26.1
+PRJ-12035,Strategy Consulting,Manufacturing,R. Petrov,2023-02-16,2023-03-01,223.9
+PRJ-12036,Strategy Consulting,Retail,J. Alvarez,2023-06-28,2023-07-17,51.1
+PRJ-12037,Audit,Nonprofit,S. Chen,2023-09-26,2023-10-18,87.8
+PRJ-12038,Litigation Support,Real Estate,R. Petrov,2023-11-08,2023-11-14,155.1
+PRJ-12039,Audit,Nonprofit,M. Okafor,2023-01-04,2023-01-21,91.4
+PRJ-12040,Strategy Consulting,Real Estate,L. Fitzgerald,2023-03-31,2023-04-13,233.7
+PRJ-12041,Audit,Technology,R. Petrov,2022-03-25,2022-03-31,388.6
+PRJ-12042,Tax Advisory,Technology,L. Fitzgerald,2022-04-13,2022-05-01,150.2
+PRJ-12043,Strategy Consulting,Healthcare,T. Nakamura,2022-05-27,2022-06-18,273.8
+PRJ-12044,Strategy Consulting,Financial Services,L. Fitzgerald,2022-05-11,2022-05-27,333.1
+PRJ-12045,Tax Advisory,Manufacturing,M. Okafor,2023-07-16,2023-09-03,27.8
+PRJ-12046,Strategy Consulting,Technology,S. Chen,2022-04-29,2022-05-22,138.5
+PRJ-12047,Tax Advisory,Financial Services,S. Chen,2022-06-24,2022-07-05,142.4
+PRJ-12048,Strategy Consulting,Nonprofit,L. Fitzgerald,2023-03-22,2023-04-05,227.6
+PRJ-12049,Strategy Consulting,Manufacturing,S. Chen,2022-12-01,2022-12-22,136.7
+PRJ-12050,Strategy Consulting,Real Estate,M. Okafor,2022-09-21,2022-10-04,52.5
+PRJ-12051,Litigation Support,Nonprofit,J. Alvarez,2023-07-02,2023-08-06,514.9
+PRJ-12052,Litigation Support,Technology,J. Alvarez,2022-12-07,2022-12-31,191.4
+PRJ-12053,Strategy Consulting,Financial Services,T. Nakamura,2022-12-18,2023-02-03,122.1
+PRJ-12054,Tax Advisory,Nonprofit,L. Fitzgerald,2023-01-26,2023-02-19,52.1
+PRJ-12055,Litigation Support,Real Estate,T. Nakamura,2023-03-24,2023-04-06,446.1
+PRJ-12056,Strategy Consulting,Retail,M. Okafor,2022-03-31,2022-04-08,446.7
+PRJ-12057,Audit,Healthcare,L. Fitzgerald,2022-07-12,2022-07-28,
+PRJ-12058,Strategy Consulting,Manufacturing,T. Nakamura,2022-11-17,2022-11-23,126.6
+PRJ-12059,Strategy Consulting,Financial Services,L. Fitzgerald,2023-07-03,2023-07-14,920.1
+PRJ-12060,Audit,Technology,R. Petrov,2023-01-09,2023-01-28,78.4
+PRJ-12061,Strategy Consulting,Real Estate,S. Chen,2023-09-09,2023-10-02,293.3
+PRJ-12062,Litigation Support,Manufacturing,R. Petrov,2022-11-20,2022-11-30,3464.6
+PRJ-12063,Audit,Healthcare,S. Chen,2023-04-12,2023-06-12,64.8
+PRJ-12064,Audit,Healthcare,S. Chen,2022-02-05,2022-04-02,71.7
+PRJ-12065,Litigation Support,Healthcare,T. Nakamura,2022-05-07,2022-05-28,168.7
+PRJ-12066,Audit,Real Estate,L. Fitzgerald,2023-10-09,2023-11-23,253.9
+PRJ-12067,Strategy Consulting,Technology,M. Okafor,2023-01-21,2023-02-06,138.8
+PRJ-12068,Audit,Real Estate,M. Okafor,2022-08-04,2022-08-29,115.4
+PRJ-12069,Strategy Consulting,Real Estate,S. Chen,2022-02-23,2022-03-16,279.9
+PRJ-12070,Strategy Consulting,Real Estate,S. Chen,2023-02-06,2023-04-03,231.3
+PRJ-12071,Audit,Real Estate,L. Fitzgerald,2022-06-13,2022-07-08,156.7
+PRJ-12072,Strategy Consulting,Financial Services,R. Petrov,2023-11-26,2023-11-30,51.8
+PRJ-12073,Tax Advisory,Healthcare,R. Petrov,2023-06-25,2023-07-14,78.7
+PRJ-12074,Strategy Consulting,Healthcare,L. Fitzgerald,2023-07-16,2023-08-09,104.6
+PRJ-12075,Tax Advisory,Retail,M. Okafor,2023-08-18,2023-09-28,57.5
+PRJ-12076,Strategy Consulting,Manufacturing,L. Fitzgerald,2023-11-02,2023-11-15,159.3
+PRJ-12077,Audit,Retail,R. Petrov,2022-10-26,2022-11-13,240.0
+PRJ-12078,Strategy Consulting,Retail,S. Chen,2022-07-20,2022-08-04,216.9
+PRJ-12079,Strategy Consulting,Manufacturing,M. Okafor,2023-08-13,2023-09-04,95.2
+PRJ-12080,Audit,Real Estate,S. Chen,2023-03-14,2023-04-11,121.1
+PRJ-12081,Litigation Support,Retail,J. Alvarez,2023-05-01,2023-05-07,165.7
+PRJ-12082,Audit,Manufacturing,J. Alvarez,2023-10-28,2023-11-30,
+PRJ-12083,Tax Advisory,Technology,S. Chen,2023-02-18,2023-03-08,48.7
+PRJ-12084,Audit,Manufacturing,S. Chen,2022-11-06,2022-11-19,239.4
+PRJ-12085,Litigation Support,Retail,L. Fitzgerald,2023-11-18,2023-12-07,67.9
+PRJ-12086,Litigation Support,Real Estate,R. Petrov,2023-10-28,2023-11-08,142.5
+PRJ-12087,Tax Advisory,Nonprofit,L. Fitzgerald,2022-01-12,2022-02-09,53.1
+PRJ-12088,Audit,Manufacturing,J. Alvarez,2023-11-16,2023-12-11,119.2
+PRJ-12089,Strategy Consulting,Retail,J. Alvarez,2023-08-10,2023-08-27,533.8
+PRJ-12090,Tax Advisory,Nonprofit,L. Fitzgerald,2023-08-31,2023-09-15,72.9
+PRJ-12091,Audit,Technology,L. Fitzgerald,2022-11-02,2022-11-16,66.4
+PRJ-12092,Litigation Support,Manufacturing,M. Okafor,2023-07-05,2023-07-31,143.0
+PRJ-12093,Audit,Real Estate,L. Fitzgerald,2023-07-24,2023-08-06,621.3
+PRJ-12094,Strategy Consulting,Real Estate,T. Nakamura,2023-06-16,2023-07-06,112.1
+PRJ-12095,Strategy Consulting,Financial Services,L. Fitzgerald,2023-10-30,2023-11-23,
+PRJ-12096,Audit,Real Estate,S. Chen,2022-05-01,2022-05-05,294.8
+PRJ-12097,Audit,Financial Services,L. Fitzgerald,2023-07-23,2023-08-07,22.6
+PRJ-12098,Tax Advisory,Healthcare,J. Alvarez,2023-08-12,2023-08-20,129.3
+PRJ-12099,Audit,Retail,J. Alvarez,2022-02-05,2022-03-06,14.6
+PRJ-12100,Audit,Manufacturing,T. Nakamura,2023-07-12,2023-07-22,142.3
+PRJ-12101,Audit,Nonprofit,J. Alvarez,2022-02-17,2022-02-28,60.2
+PRJ-12102,Strategy Consulting,Financial Services,M. Okafor,2023-04-01,2023-04-15,162.1
+PRJ-12103,Audit,Technology,L. Fitzgerald,2022-12-27,2022-12-30,169.6
+PRJ-12104,Litigation Support,Financial Services,S. Chen,2023-11-10,2023-11-20,
+PRJ-12105,Strategy Consulting,Retail,J. Alvarez,2022-11-03,2022-11-18,125.4
+PRJ-12106,Strategy Consulting,Retail,S. Chen,2022-08-10,2022-08-16,262.2
+PRJ-12107,Litigation Support,Healthcare,S. Chen,2023-03-09,2023-04-07,206.5
+PRJ-12108,Audit,Healthcare,M. Okafor,2022-06-17,2022-07-02,440.2
+PRJ-12109,Tax Advisory,Manufacturing,M. Okafor,2022-05-27,2022-06-03,75.3
+PRJ-12110,Tax Advisory,Manufacturing,L. Fitzgerald,2023-10-11,2023-11-14,
+PRJ-12111,Litigation Support,Retail,L. Fitzgerald,2023-11-05,2023-12-17,199.2
+PRJ-12112,Litigation Support,Financial Services,T. Nakamura,2022-06-07,2022-07-05,76.5
+PRJ-12113,Tax Advisory,Real Estate,R. Petrov,2023-09-11,2023-10-08,222.0
+PRJ-12114,Audit,Healthcare,J. Alvarez,2023-12-02,2023-12-23,145.6
+PRJ-12115,Tax Advisory,Manufacturing,M. Okafor,2023-01-07,2023-02-23,20.0
+PRJ-12116,Strategy Consulting,Real Estate,M. Okafor,2022-08-20,2022-09-17,97.8
+PRJ-12117,Audit,Manufacturing,R. Petrov,2022-08-16,2022-08-26,40.2
+PRJ-12118,Tax Advisory,Manufacturing,J. Alvarez,2022-11-10,2022-11-27,163.8
+PRJ-12119,Litigation Support,Real Estate,R. Petrov,2022-12-24,2023-01-13,553.1
+PRJ-12120,Strategy Consulting,Real Estate,M. Okafor,2023-09-15,2023-10-20,41.3
+PRJ-12121,Audit,Manufacturing,S. Chen,2023-02-03,2023-03-06,79.4
+PRJ-12122,Audit,Real Estate,L. Fitzgerald,2023-06-29,2023-07-07,122.1
+PRJ-12123,Litigation Support,Real Estate,R. Petrov,2022-05-11,2022-07-28,224.4
+PRJ-12124,Audit,Nonprofit,T. Nakamura,2023-11-05,2023-11-25,169.5
+PRJ-12125,Audit,Technology,T. Nakamura,2022-02-24,2022-03-19,254.7
+PRJ-12126,Strategy Consulting,Nonprofit,M. Okafor,2022-09-13,2022-09-23,173.7
+PRJ-12127,Litigation Support,Technology,L. Fitzgerald,2023-03-26,2023-05-04,235.6
+PRJ-12128,Strategy Consulting,Real Estate,R. Petrov,2022-10-10,2022-11-28,83.5
+PRJ-12129,Strategy Consulting,Financial Services,L. Fitzgerald,2022-08-23,2022-09-04,140.7
+PRJ-12130,Tax Advisory,Real Estate,J. Alvarez,2023-02-21,2023-03-10,120.6
+PRJ-12131,Strategy Consulting,Real Estate,J. Alvarez,2022-03-20,2022-04-06,255.3
+PRJ-12132,Strategy Consulting,Manufacturing,S. Chen,2022-03-28,2022-04-25,143.8
+PRJ-12133,Strategy Consulting,Financial Services,R. Petrov,2022-01-11,2022-01-17,
+PRJ-12134,Strategy Consulting,Technology,L. Fitzgerald,2022-05-20,2022-06-25,68.4
+PRJ-12135,Tax Advisory,Financial Services,L. Fitzgerald,2023-06-30,2023-07-15,54.7
+PRJ-12136,Litigation Support,Technology,J. Alvarez,2022-01-08,2022-01-18,77.3
+PRJ-12137,Strategy Consulting,Nonprofit,T. Nakamura,2022-09-08,2022-09-27,36.4
+PRJ-12138,Strategy Consulting,Nonprofit,T. Nakamura,2022-02-13,2022-02-24,98.7
+PRJ-12139,Litigation Support,Retail,L. Fitzgerald,2023-06-21,2023-07-17,190.7
+PRJ-12140,Strategy Consulting,Retail,J. Alvarez,2022-05-17,2022-05-25,649.3
+PRJ-12141,Tax Advisory,Manufacturing,R. Petrov,2022-06-24,2022-07-31,135.1
+PRJ-12142,Tax Advisory,Manufacturing,M. Okafor,2022-09-13,2022-10-06,34.8
+PRJ-12143,Strategy Consulting,Real Estate,J. Alvarez,2023-05-10,2023-06-02,108.9
+PRJ-12144,Audit,Retail,J. Alvarez,2023-08-06,2023-09-05,345.1
+PRJ-12145,Tax Advisory,Healthcare,L. Fitzgerald,2022-02-06,2022-02-22,85.7
+PRJ-12146,Strategy Consulting,Financial Services,R. Petrov,2022-01-07,2022-01-25,53.1
+PRJ-12147,Litigation Support,Healthcare,M. Okafor,2022-01-06,2022-01-14,465.4
+PRJ-12148,Tax Advisory,Nonprofit,S. Chen,2022-01-10,2022-02-01,28.7
+PRJ-12149,Audit,Technology,S. Chen,2023-06-11,2023-06-24,60.2
+PRJ-12150,Strategy Consulting,Technology,J. Alvarez,2022-01-08,2022-01-17,111.5
+PRJ-12151,Audit,Nonprofit,M. Okafor,2023-02-09,2023-03-13,60.7
+PRJ-12152,Tax Advisory,Healthcare,R. Petrov,2023-07-04,2023-07-12,24.0
+PRJ-12153,Strategy Consulting,Manufacturing,R. Petrov,2023-03-26,2023-04-27,96.5
+PRJ-12154,Audit,Healthcare,L. Fitzgerald,2023-01-03,2023-01-18,104.5
+PRJ-12155,Strategy Consulting,Nonprofit,S. Chen,2022-10-19,2022-10-26,154.7
+PRJ-12156,Audit,Technology,R. Petrov,2022-02-02,2022-02-28,169.7
+PRJ-12157,Audit,Retail,R. Petrov,2022-09-30,2022-11-07,90.1
+PRJ-12158,Audit,Technology,T. Nakamura,2023-11-30,,54.5
+PRJ-12159,Strategy Consulting,Healthcare,R. Petrov,2023-02-03,2023-02-20,167.1
+PRJ-12160,Audit,Manufacturing,J. Alvarez,2022-12-19,2023-01-07,118.3
+PRJ-12161,Tax Advisory,Real Estate,L. Fitzgerald,2023-11-26,2023-12-07,141.0
+PRJ-12162,Strategy Consulting,Technology,T. Nakamura,2023-03-21,2023-04-29,88.0
+PRJ-12163,Tax Advisory,Healthcare,R. Petrov,2023-03-16,2023-04-21,39.5
+PRJ-12164,Audit,Retail,L. Fitzgerald,2022-09-13,2022-09-29,394.3
+PRJ-12165,Audit,Manufacturing,M. Okafor,2022-09-11,2022-09-21,193.3
+PRJ-12166,Litigation Support,Technology,S. Chen,2022-04-16,2022-05-09,339.2
+PRJ-12167,Strategy Consulting,Financial Services,T. Nakamura,2023-08-29,2023-09-12,
+PRJ-12168,Litigation Support,Retail,S. Chen,2023-02-15,2023-03-15,62.5
+PRJ-12169,Audit,Retail,S. Chen,2023-09-24,2023-10-11,28.3
+PRJ-12170,Audit,Real Estate,J. Alvarez,2023-06-22,2023-07-15,231.9
+PRJ-12171,Tax Advisory,Nonprofit,S. Chen,2023-03-13,2023-04-20,234.7
+PRJ-12172,Tax Advisory,Financial Services,R. Petrov,2022-11-08,2022-11-29,38.0
+PRJ-12173,Audit,Healthcare,M. Okafor,2023-03-05,2023-03-13,116.1
+PRJ-12174,Audit,Manufacturing,S. Chen,2022-02-23,2022-03-10,62.1
+PRJ-12175,Litigation Support,Healthcare,S. Chen,2022-10-14,2022-11-04,48.1
+PRJ-12176,Strategy Consulting,Manufacturing,R. Petrov,2023-05-19,2023-05-26,126.0
+PRJ-12177,Tax Advisory,Healthcare,J. Alvarez,2022-01-14,2022-02-15,79.6
+PRJ-12178,Litigation Support,Real Estate,S. Chen,2023-01-06,2023-01-23,234.4
+PRJ-12179,Strategy Consulting,Financial Services,T. Nakamura,2022-09-01,2022-10-02,226.9
+PRJ-12180,Litigation Support,Retail,T. Nakamura,2022-04-19,2022-05-01,248.0
+PRJ-12181,Audit,Nonprofit,T. Nakamura,2023-08-24,2023-10-06,145.6
+PRJ-12182,Strategy Consulting,Nonprofit,S. Chen,2023-04-02,2023-06-14,98.8
+PRJ-12183,Strategy Consulting,Manufacturing,T. Nakamura,2022-11-05,2022-11-26,103.8
+PRJ-12184,Strategy Consulting,Real Estate,S. Chen,2022-06-07,2022-07-01,93.7
+PRJ-12185,Audit,Retail,R. Petrov,2022-09-16,2022-10-01,35.4
+PRJ-12186,Strategy Consulting,Real Estate,T. Nakamura,2023-01-10,2023-02-01,69.8
+PRJ-12187,Tax Advisory,Nonprofit,J. Alvarez,2022-03-11,2022-04-10,120.4
+PRJ-12188,Tax Advisory,Financial Services,T. Nakamura,2022-06-20,2022-08-30,11.4
+PRJ-12189,Litigation Support,Nonprofit,S. Chen,2023-08-03,2023-08-16,245.9
+PRJ-12190,Audit,Nonprofit,S. Chen,2023-02-12,2023-03-07,
+PRJ-12191,Tax Advisory,Financial Services,T. Nakamura,2022-06-19,2022-07-12,37.6
+PRJ-12192,Tax Advisory,Financial Services,R. Petrov,2023-02-04,2023-02-20,39.2
+PRJ-12193,Tax Advisory,Healthcare,S. Chen,2022-06-13,2022-06-21,37.1
+PRJ-12194,Litigation Support,Financial Services,L. Fitzgerald,2023-06-10,2023-07-09,3211.8
+PRJ-12195,Tax Advisory,Nonprofit,L. Fitzgerald,2022-11-07,2022-12-11,86.0
+PRJ-12196,Strategy Consulting,Healthcare,L. Fitzgerald,2022-05-02,2022-05-17,188.2
+PRJ-12197,Audit,Manufacturing,T. Nakamura,2022-02-10,2022-02-19,216.0
+PRJ-12198,Litigation Support,Healthcare,S. Chen,2022-02-22,2022-03-05,106.5
+PRJ-12199,Litigation Support,Retail,S. Chen,2022-01-02,2022-02-07,426.0
