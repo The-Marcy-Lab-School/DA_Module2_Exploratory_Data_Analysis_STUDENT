@@ -39,6 +39,11 @@ is the bar:
   checkable clarifying questions about the data's origin, completeness,
   or bias, plus a paragraph connecting at least one to whether your
   stakeholder should trust your answer.
+- [ ] **`README.md` rewritten as your project's actual landing page** —
+  replace the given setup instructions entirely with: your scenario, a
+  data overview, a statistical summary, your visualizations (real,
+  embedded chart images — save them as files and reference them with
+  markdown, not just describe them in words), and your takeaways.
 - [ ] **Clean notebook** — runs top to bottom without errors, no leftover
   debugging cells.
 - [ ] **GitHub repo** — public, at least 4 real, well-messaged commits.
