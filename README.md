@@ -1,4 +1,4 @@
-# EDA Project: NASA Meteorite Landings
+# EDA Project: Choose Your Domain
 
 **New here?** Start with `PROJECT_OVERVIEW.md` for what you're building and
 why. This file (`README.md`) is where the step-by-step setup lives — you're
@@ -21,12 +21,12 @@ for contributing back upstream, not for an independent assignment.
 **Step 2 — Install what you need.**
 - Python 3, if you don't already have it.
 - The [Jupyter extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), if you don't already have it — this is how you'll open and run `starter/analysis.ipynb`.
-- This project's Python packages, **including Polars — new this module**:
+- This project's Python packages:
   ```bash
   pip install -r requirements.txt
   ```
 - An AI assistant that accepts **image uploads** (the same Claude/ChatGPT-
-  style tool you already use — confirm it can take an image before Part 3
+  style tool you already use — confirm it can take an image before Part 5
   of the notebook, not the night this is due).
 
 **Step 3 — Clone your copy locally** and open it in VS Code:
@@ -42,27 +42,26 @@ build yourself here. **Do open `LICENSE`, though**, and replace the
 easy to miss precisely because the file already exists and nothing else
 prompts you to open it.
 
-## The dataset
+## Choose your domain
 
-`data/meteorite_landings.csv` — 45,716 real NASA-recorded meteorite
-landings. Public domain (U.S. government work) — see `data/SOURCE.md` for
-the full license note, column descriptions, and known data-quality
-wrinkles in the raw file. You haven't seen this dataset before; that's
-deliberate.
+Read `SCENARIOS.md` and pick **one** of 4 business domains (finance &
+insurance, healthcare operations, public sector, or professional
+services) — each has a real stakeholder, a real business problem, and its
+own data file (three are real government data; one is clearly-labeled
+synthetic — see `data/SOURCE.md`). Everyone works from the same starter
+notebook and the same bar (`MVP.md`); the domain changes what you're
+looking at, not what's required.
 
 ## What to do
 
-**First, read `SCENARIOS.md` and pick one of the 4 stakeholders** — your
-whole notebook builds toward answering their specific question, not just
-profiling the dataset in general. Then open `starter/analysis.ipynb` in VS
-Code and work through it top to bottom: real pandas code (Part 1), the
-same core analysis redone in Polars plus a real tradeoffs reflection (Part
-2), a chart you generate yourself and get an AI's read on (Part 3), your
-direct answer to your stakeholder's question (Part 4), and a standard-
-deviation/volatility question (Part 5). Most of the code is yours to write
-this time — a worked example models each new technique, but you're not
-just filling in blanks anymore. When the notebook's done, write
-`starter/memo.md`. See `MVP.md` for the full scope and
-`CHECKLIST_TIMELINE.md` for the day-by-day pace. Commit incrementally as
-you go — a `git commit` after Part 1's pandas work, another after Part 2's
-Polars work, not one commit at the very end.
+Open `starter/analysis.ipynb` in VS Code and work through it top to
+bottom. **Almost no code is given** — this notebook gives you structure
+and asks questions; deciding which pandas method, which chart type, and
+which visualization tool (matplotlib, seaborn, plotly, or pandas' own
+`.plot()`) actually fits each question is part of the assignment. Real
+data cleaning and a real imputation decision are required, and at least
+one repeated operation needs to become a real function, not copy-pasted
+code. When the notebook's done, write `starter/memo.md`. See `MVP.md` for
+the full scope and `CHECKLIST_TIMELINE.md` for the day-by-day pace. Commit
+incrementally as you go — a `git commit` after Part 2's cleaning is done,
+another after Part 4's charts, not one commit at the very end.

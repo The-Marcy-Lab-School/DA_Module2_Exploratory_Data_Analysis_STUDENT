@@ -1,52 +1,89 @@
-# Data Source
+# Data Sources
 
-**Dataset:** NASA Meteorite Landings
-**File:** `meteorite_landings.csv` (45,716 rows, 10 columns)
-**Downloaded from:** https://data.nasa.gov/docs/legacy/meteorite_landings/Meteorite_Landings.csv
+Pick **one** of the four files below, matching the domain you chose in
+`DOMAIN_SCENARIOS.md`. Three are real, government-published data, trimmed
+to a focused set of columns (not modified otherwise — real messiness
+left in). One (`professional_services.csv`) is clearly-labeled synthetic
+data, generated for this project because real billable-hours data is
+proprietary business information that isn't published anywhere.
 
-## License
+## `finance_insurance.csv` — FEMA NFIP flood insurance claims (South Carolina, 2015)
 
-Published by NASA (a U.S. federal agency; publisher bureau code `026:00`,
-`accessLevel: public`). The dataset's own listing doesn't attach a specific
-license, but NASA's official content policy resolves that: *"NASA content —
-images, audio, video, related media and files... generally are not subject
-to copyright in the United States... United States government works... are
-not protected by copyright in the U.S. (17 U.S.C. §105) and may be used
-without obtaining permission from NASA."* This is public-domain factual/
-tabular data — safe to redistribute in this repo.
+**5,710 rows.** Real claims data from FEMA's National Flood Insurance
+Program. **License:** U.S. Government Work — public domain (17 U.S.C.
+§105), per FEMA's own OpenFEMA data dictionary.
 
-## Columns
+| Column | Notes |
+|---|---|
+| `dateOfLoss` | date of the flood event |
+| `occupancyType` | FEMA-defined numeric code (not decoded here — see "known wrinkles") |
+| `countyCode` | numeric county code |
+| `causeOfDamage` | categorical, 158 rows blank |
+| `amountPaidOnBuildingClaim` | dollars paid on the building claim; **1,464 rows missing** |
+| `amountPaidOnContentsClaim` | dollars paid on contents; **1,464 rows missing** |
+| `buildingDamageAmount` | assessed damage; **876 rows missing** |
+| `netBuildingPaymentAmount` | net payment amount |
 
-| Column | Type | Notes |
-|---|---|---|
-| `name` | text | meteorite name |
-| `id` | integer | record id |
-| `nametype` | category | `Valid` or `Relict` (heavily lopsided — not useful for grouping) |
-| `recclass` | category, 466 unique values | meteorite classification (e.g. `L6`, `H5`) |
-| `mass (g)` | number | mass in grams; 131 rows missing |
-| `fall` | category, 2 values | `Fell` (witnessed fall, 1,107 rows) or `Found` (discovered later, 44,609 rows) |
-| `year` | number | year of fall/find; 291 rows missing |
-| `reclat` | number | latitude; 7,315 rows missing |
-| `reclong` | number | longitude; 7,315 rows missing |
-| `GeoLocation` | text | `(lat, long)` as a single string — redundant with `reclat`/`reclong` |
+**Known wrinkle:** `occupancyType` is a real FEMA numeric code (1, 2, 3,
+6, 11, ...) — this file doesn't decode it into readable labels. Whether
+that's worth tracking down, and where, is a real question, not solved
+for you here.
 
-## Known data-quality wrinkles (real, not staged)
+## `healthcare_operations.csv` — CMS emergency-department wait times
 
-These are genuinely present in the raw file — nothing here was added or
-modified for this project:
+**4,658 rows**, one per U.S. hospital, filtered from CMS's public
+"Timely and Effective Care" dataset to measure `OP_18c` (median minutes
+psychiatric patients spent in the ED before leaving). **License:** public
+domain — CMS's own data dictionary states "public reporting data are in
+the public domain and permission is not required to reuse them."
 
-- **7,315 rows have no `reclat`/`reclong` at all** (blank in the raw file).
-- **Separately, 6,214 rows have `reclat`/`reclong` set to exactly
-  `0.000000, 0.000000`** — a real location on Earth (off the coast of west
-  Africa) that is wildly over-represented in this data, a classic sign of a
-  missing-value placeholder rather than 6,214 genuine meteorite landings at
-  the same spot.
-- **131 rows are missing `mass (g)`; 291 rows are missing `year`.**
-- **One row (`Northwest Africa 7701`) lists `year` as 2101** — a date in
-  the future relative to when this dataset was compiled, almost certainly
-  a data-entry error rather than a real historical find.
-- **One row's `reclong` (354.47) falls outside the valid -180/180 range**
-  for an Earth longitude — not a data error, worth investigating why.
+| Column | Notes |
+|---|---|
+| `Facility Name` | hospital name |
+| `State` | 2-letter state code |
+| `County/Parish` | county |
+| `ed_wait_minutes` | **not a clean numeric column** — most rows are real numbers, but some contain the literal text `"Not Available"` (CMS's own suppression flag for small sample sizes) |
+| `Sample` | how CMS describes the sample size for that row (also text, not always numeric) |
+| `Footnote` | CMS footnote code explaining suppression, where present; blank otherwise |
 
-This file is used unmodified — figuring out which of the above (if any)
-actually matters for a specific analysis is part of the project.
+**Known wrinkle:** `ed_wait_minutes` needs real cleaning before it's
+usable as a number — see above.
+
+## `public_sector.csv` — San Francisco building permits (filed 2023)
+
+**24,913 rows.** Real permit data from DataSF. **License:** Open Data
+Commons Public Domain Dedication and License (PDDL), per DataSF's own
+dataset metadata.
+
+| Column | Notes |
+|---|---|
+| `permit_type_definition` | category of permit (e.g. "otc alterations permit") |
+| `filed_date` | when the permit application was filed |
+| `issued_date` | when issued; **2,012 rows missing** (still pending, or never issued) |
+| `completed_date` | when work finished; **7,266 rows missing** |
+| `estimated_cost` | dollars; **158 rows missing** |
+| `existing_units` | **4,887 rows missing** |
+| `proposed_units` | **4,662 rows missing** |
+
+**Known wrinkle:** processing time isn't a column — it's something you'd
+compute from two date columns yourself, and only for rows where both
+dates actually exist.
+
+## `professional_services.csv` — Consulting engagement hours (synthetic)
+
+**2,200 rows.** **Clearly synthetic** — generated for this project, not
+real client data (which no firm publishes). Built to have the same kind
+of real-feeling messiness as the three real files above: right-skewed
+`billed_hours` with rare, genuinely huge outlier engagements, ~4% missing
+`billed_hours` (unlogged time), a handful of negative `billed_hours`
+values (data-entry errors, planted on purpose), and blank `end_date` for
+projects still ongoing as of the file's cutoff.
+
+| Column | Notes |
+|---|---|
+| `project_id` | unique id |
+| `service_type` | Audit / Tax Advisory / Litigation Support / Strategy Consulting |
+| `client_industry` | client's industry |
+| `partner_assigned` | partner overseeing the engagement |
+| `start_date` / `end_date` | `end_date` blank for still-ongoing projects |
+| `billed_hours` | see wrinkles above |

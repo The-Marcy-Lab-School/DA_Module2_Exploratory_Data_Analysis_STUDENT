@@ -1,68 +1,78 @@
-# Choose Your Scenario
+# Choose Your Domain
 
-Pick **one** of the four stakeholders below. Each one asks a real question
-about the *same* dataset (`data/meteorite_landings.csv`) — your job is
-answering **their specific question**, not just profiling the dataset in
-general. Whichever you pick, name it clearly at the top of `starter/memo.md`
-so it's obvious which question you're answering.
+Pick **one** of the four business domains below. Each gives you a real
+stakeholder, a real business problem, and its own data file — but
+everyone works from the **same starter notebook** (`starter/analysis.ipynb`)
+and the **same bar** (`MVP.md`). The domain changes what you're looking at
+and why; it doesn't change what's required of you.
 
-## Option 1: The Museum Curator
+## Option 1: Finance & Insurance
 
-**Stakeholder:** Elena, curator planning a new meteorite exhibit.
+**Stakeholder:** A FEMA National Flood Insurance Program analyst.
 
-> "I want to build a case for which classifications are worth chasing for
-> acquisitions — I need to know which meteorite classes tend to produce
-> the most exceptional specimens, not just the biggest single rock we
-> happen to have on record."
+> "We need to understand what actually happened in the 2015 South Carolina
+> flood season — which counties and property types saw the most severe
+> claims, and whether the numbers we'd use to plan next year's reserve fund
+> are actually defensible, or quietly distorted by a handful of
+> catastrophic claims."
 
-**Question to answer:** Which classification (`recclass`) has produced the
-most exceptionally massive specimens, and how does that compare to a
-*typical* specimen in that same class?
+**Business problem:** Characterize claim-payout severity and figure out
+which figure — mean or median — leadership should actually trust when
+planning reserves.
 
-## Option 2: The Planetary Scientist
+**Data:** `data/finance_insurance.csv`
 
-**Stakeholder:** Dr. Osei, researching how meteorite discovery has changed
-over time.
+## Option 2: Healthcare Operations
 
-> "Meteorite science didn't stop in 1950. I want to know whether the
-> *pattern* of discovery has actually shifted over the decades — and if it
-> has, what that shift might actually mean, not just that a chart goes up."
+**Stakeholder:** A hospital-quality policy analyst reviewing public CMS
+data.
 
-**Question to answer:** Has the rate and pattern of meteorite discovery
-changed by decade, and what might explain any real change you find?
+> "Emergency departments across the country report wildly different wait
+> times for psychiatric patients before they're seen. I need to know what
+> 'typical' actually looks like, which hospitals are real outliers worth
+> flagging, and whether this data is even clean enough to trust before we
+> put a number in a public report."
 
-## Option 3: The Program Historian
+**Business problem:** Characterize ED wait-time patterns across hospitals/
+states, and decide how to handle a metric that isn't cleanly numeric to
+start with.
 
-**Stakeholder:** Marcus, writing about how this dataset itself came to
-exist.
+**Data:** `data/healthcare_operations.csv`
 
-> "Half of what's in a dataset like this is really a story about *how* it
-> got collected, not just what it describes. I want to understand how
-> witnessed falls and later-discovered specimens actually differ — and
-> what that difference tells us about the collection process itself."
+## Option 3: Public Sector
 
-**Question to answer:** How does mass differ between meteorites that were
-witnessed falling (`fall`) vs. found later, and what does that gap suggest
-about how this dataset was actually built?
+**Stakeholder:** A San Francisco Department of Building Inspection program
+manager.
 
-## Option 4: The Geodata Quality Auditor
+> "People constantly ask how long a building permit actually takes and
+> what it actually costs. I want a real answer — not an anecdote — and I
+> want to know where the process is genuinely slow versus where a handful
+> of huge, unusual projects are skewing the story."
 
-**Stakeholder:** Priya, deciding whether this dataset's location data is
-trustworthy enough to feed into a new mapping tool.
+**Business problem:** Characterize permit processing time and cost, and
+identify what's driving any skew.
 
-> "Before anyone plots a single point from this data on a real map, I need
-> to know how much of the location data can actually be trusted — and what
-> a placeholder value looks like versus a real reading, specifically."
+**Data:** `data/public_sector.csv`
 
-**Question to answer:** How much of this dataset's location data
-(`reclat`/`reclong`) can actually be trusted, and what patterns suggest a
-placeholder rather than a real recorded location?
+## Option 4: Professional Services
+
+**Stakeholder:** A managing partner at a consulting firm.
+
+> "I want to understand how billed hours actually break down across our
+> service lines and partners before we make staffing decisions next
+> quarter — and I'm worried our timesheet data has real gaps and errors
+> that could throw off the numbers if nobody catches them first."
+
+**Business problem:** Characterize billed-hours patterns across service
+lines, and catch real data-quality problems before they reach a staffing
+decision.
+
+**Data:** `data/professional_services.csv` (see `data/SOURCE.md` — this
+one is clearly-labeled synthetic data, not real client records)
 
 ## What to do with this
 
-Before writing any code: read your stakeholder's actual words again. Your
-whole notebook — the variables you profile, the pandas/Polars code you
-write, the chart you generate and get an AI's read on — should build toward
-**answering their specific question with real evidence**, not just
-producing a generic profile of the dataset. See `MVP.md` for the full bar
-and `README.md` for where to start.
+Before writing any code: read your stakeholder's actual words again, and
+open `data/SOURCE.md` for your chosen file's real column list and known
+data-quality wrinkles — nothing is decoded or pre-cleaned for you. See
+`MVP.md` for the full bar and `README.md` for where to start.
