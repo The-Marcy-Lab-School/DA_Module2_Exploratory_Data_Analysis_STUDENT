@@ -130,6 +130,13 @@ Day 2 — `git log --oneline` should already tell a real story.
   instructions the template shipped with.
 - [ ] The "Questions My Analysis Can Answer" section **deleted** from the
   notebook — check it against your own Parts 1-7 first, then remove it.
+- [ ] `README.md` rewritten — replace the setup instructions entirely with
+  your own project README: scenario, data overview, statistical summary,
+  visualizations (real chart images, saved as files and embedded with
+  markdown — not just described), and takeaways.
+  > ⚠️ Common mistake: describing a chart in words instead of actually
+  > saving it and embedding the real image — a reader should be able to
+  > see what you saw, not just read your summary of it.
 - [ ] Clean sweep: notebook runs top-to-bottom without errors, no leftover
   debugging cells or dead code.
 - [ ] Full self-check against `MVP.md`.
