@@ -1,34 +1,37 @@
 """
-Above & Beyond: Preview of Module 4 -- code given, you don't need to write
-this yourself.
+Above & Beyond: a more advanced pandas chain -- code given, you don't need
+to write this yourself.
 
-Everything in analysis.ipynb used one given helper function and a few given
-groupby().describe() calls. This is a small, real taste of what full
-pandas fluency looks like once you're writing this kind of chain yourself
-(Module 4, Python for Data Analysis) -- filtering, grouping, and
-aggregating in one line instead of eyeballing separate tables.
+This notebook already had you write real pandas code. This is a taste of
+a more advanced technique -- binning a continuous variable into named
+tiers and cross-tabulating it against a category in one chain -- that
+goes beyond what MVP asks for. Real full fluency with chains like this
+keeps deepening in Module 4.
 
-Run it (python3 above_and_beyond/pandas_preview.py, from the repo root) and
-read through it -- then add a short section to memo.md comparing what this
-one chain tells you to what you found by hand in Part 3 of the notebook.
+Run it (python3 above_and_beyond/pandas_preview.py, from the repo root)
+and read through it -- then add a short section to memo.md comparing what
+this cross-tab tells you to what you found by hand.
 """
 import pandas as pd
 
-df = pd.read_csv("data/meteorite_landings.csv")
+df = pd.read_csv("data/finance_insurance.csv")
 
-# A real pandas chain: for meteorites found (not witnessed falling) since
-# 1970, with a recorded mass, what's the median mass per classification --
-# but only for classifications with at least 50 such records, so a single
-# huge/tiny meteorite in a rare class doesn't distort the comparison?
+# Bin claim severity into named tiers, then cross-tabulate against
+# occupancy type in one chain -- .assign() + pd.cut() + a multi-level
+# groupby().size().unstack() instead of building each piece separately.
 result = (
-    df[(df["fall"] == "Found") & (df["year"] >= 1970)]
-    .dropna(subset=["mass (g)"])
-    .groupby("recclass")
-    .filter(lambda g: len(g) >= 50)
-    .groupby("recclass")["mass (g)"]
-    .median()
-    .sort_values(ascending=False)
+    df.dropna(subset=["amountPaidOnBuildingClaim"])
+    .assign(
+        severity_tier=lambda d: pd.cut(
+            d["amountPaidOnBuildingClaim"],
+            bins=[-1, 5000, 25000, 1_000_000_000],
+            labels=["low", "medium", "high"],
+        )
+    )
+    .groupby(["occupancyType", "severity_tier"], observed=True)
+    .size()
+    .unstack(fill_value=0)
 )
 
-print(f"{len(result)} classifications with 50+ found-since-1970 records:\n")
-print(result.head(10))
+print("Claim counts by occupancy type and severity tier:\n")
+print(result)
