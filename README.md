@@ -4,7 +4,7 @@
 why. This file (`README.md`) is where the step-by-step setup lives — you're
 already in the right place.
 
-**Due:** 2 weeks. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and
+**Due:** 10 days, run as one sprint. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and
 the full submission checklist.
 
 This repo is a **GitHub template** — a starting point, not something you
