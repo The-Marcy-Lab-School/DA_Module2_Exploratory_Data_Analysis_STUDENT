@@ -5,6 +5,10 @@ is the bar:
 
 - [ ] **Stakeholder chosen** (`SCENARIOS.md`), their question restated in
   your own words.
+- [ ] **At least 3 numeric variables profiled** (five-number summary +
+  shape/outlier call each) — `mass (g)` is the given worked model, plus at
+  least 2 more, chosen because they're actually relevant to your question,
+  not arbitrary.
 - [ ] **Real pandas exploration** of the variable(s) your question needs —
   written by you, not filled into a given template; at least one grouped
   summary and one sort/filter.
