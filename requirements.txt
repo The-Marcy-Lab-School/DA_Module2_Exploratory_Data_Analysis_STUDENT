@@ -1,5 +1,15 @@
-pandas
-matplotlib
-seaborn
-plotly
-ipykernel
+# TODO: this is your file to write, not a given list.
+#
+# After you `pip install` whatever you actually use (pandas, matplotlib,
+# and whichever visualization library/libraries you pick -- seaborn
+# and/or plotly are both fine choices, or stick with matplotlib/pandas'
+# own .plot()), list every package you actually imported, one per line,
+# with its exact version -- e.g.:
+#
+#   pandas==2.2.2
+#
+# Find your installed versions yourself (there's more than one way to do
+# this) and write the real ones here -- not a guess, and not copied from
+# someone else's file. This is a real reproducibility habit: anyone who
+# clones your repo should be able to `pip install -r requirements.txt`
+# and get the exact same environment you built this in.

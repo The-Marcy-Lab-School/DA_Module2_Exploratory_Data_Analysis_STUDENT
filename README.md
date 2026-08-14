@@ -21,10 +21,12 @@ for contributing back upstream, not for an independent assignment.
 **Step 2 — Install what you need.**
 - Python 3, if you don't already have it.
 - The [Jupyter extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), if you don't already have it — this is how you'll open and run `starter/analysis.ipynb`.
-- This project's Python packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
+- `pandas`, `matplotlib`, and whichever visualization library you decide
+  to use (seaborn and/or plotly are both reasonable choices, or stick
+  with matplotlib/pandas' own `.plot()`) — `pip install` each as you need
+  it. **`requirements.txt` is yours to write, not given** — see that
+  file's own instructions; fill in the real packages/versions you end up
+  using before your final commit, not before you've started.
 - An AI assistant that accepts **image uploads** (the same Claude/ChatGPT-
   style tool you already use — confirm it can take an image before Part 5
   of the notebook, not the night this is due).
