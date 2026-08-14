@@ -45,6 +45,8 @@ modified for this project:
 - **One row (`Northwest Africa 7701`) lists `year` as 2101** — a date in
   the future relative to when this dataset was compiled, almost certainly
   a data-entry error rather than a real historical find.
+- **One row's `reclong` (354.47) falls outside the valid -180/180 range**
+  for an Earth longitude — not a data error, worth investigating why.
 
 This file is used unmodified — figuring out which of the above (if any)
 actually matters for a specific analysis is part of the project.

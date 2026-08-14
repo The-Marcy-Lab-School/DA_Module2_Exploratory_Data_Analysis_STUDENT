@@ -4,7 +4,7 @@
 why. This file (`README.md`) is where the step-by-step setup lives — you're
 already in the right place.
 
-**Due:** 1 week. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and
+**Due:** 2 weeks. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and
 the full submission checklist.
 
 This repo is a **GitHub template** — a starting point, not something you
@@ -21,10 +21,13 @@ for contributing back upstream, not for an independent assignment.
 **Step 2 — Install what you need.**
 - Python 3, if you don't already have it.
 - The [Jupyter extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), if you don't already have it — this is how you'll open and run `starter/analysis.ipynb`.
-- This project's Python packages:
+- This project's Python packages, **including Polars — new this module**:
   ```bash
   pip install -r requirements.txt
   ```
+- An AI assistant that accepts **image uploads** (the same Claude/ChatGPT-
+  style tool you already use — confirm it can take an image before Part 3
+  of the notebook, not the night this is due).
 
 **Step 3 — Clone your copy locally** and open it in VS Code:
 ```bash
@@ -49,10 +52,17 @@ deliberate.
 
 ## What to do
 
-Open `starter/analysis.ipynb` in VS Code and work through it top to
-bottom — every code cell either runs as-is or has a small `# TODO` blank;
-the markdown cells below each one are where you write the real analysis.
-When the notebook's done, write `starter/memo.md`. See `MVP.md` for the
-full scope and `CHECKLIST_TIMELINE.md` for the day-by-day pace. Commit
-incrementally as you go — a `git commit` after Part 1's profiling is done,
-another after Part 3's pattern-mining, not one commit at the very end.
+**First, read `SCENARIOS.md` and pick one of the 4 stakeholders** — your
+whole notebook builds toward answering their specific question, not just
+profiling the dataset in general. Then open `starter/analysis.ipynb` in VS
+Code and work through it top to bottom: real pandas code (Part 1), the
+same core analysis redone in Polars plus a real tradeoffs reflection (Part
+2), a chart you generate yourself and get an AI's read on (Part 3), your
+direct answer to your stakeholder's question (Part 4), and a standard-
+deviation/volatility question (Part 5). Most of the code is yours to write
+this time — a worked example models each new technique, but you're not
+just filling in blanks anymore. When the notebook's done, write
+`starter/memo.md`. See `MVP.md` for the full scope and
+`CHECKLIST_TIMELINE.md` for the day-by-day pace. Commit incrementally as
+you go — a `git commit` after Part 1's pandas work, another after Part 2's
+Polars work, not one commit at the very end.
