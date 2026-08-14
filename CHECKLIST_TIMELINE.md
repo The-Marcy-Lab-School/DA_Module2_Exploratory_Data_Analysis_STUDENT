@@ -8,13 +8,16 @@ submission checklist — work through it in order, top to bottom.
 
 - [ ] Repo created from the template via **"Use this template"** (not
   Fork), cloned locally — see `README.md`.
-- [ ] `requirements.txt` installed; `.gitignore`/`LICENSE`/git history
-  confirmed already present; `LICENSE`'s `[YOUR NAME]` placeholder replaced
-  with your actual name, committed.
+- [ ] Packages installed as you need them (`pandas`, `matplotlib`, your
+  chosen viz library); `.gitignore`/`LICENSE`/git history confirmed
+  already present; `LICENSE`'s `[YOUR NAME]` placeholder replaced with
+  your actual name, committed.
 - [ ] An AI assistant that accepts image uploads confirmed working —
   you'll need it in Part 5, don't discover it's missing then.
 - [ ] All 4 domains in `SCENARIOS.md` read; one picked. `data/SOURCE.md`'s
   entry for your file read before opening the notebook.
+- [ ] The "Your Scenario" section at the top of `starter/analysis.ipynb`
+  filled in (the "Data Overview" paragraph can wait until after Part 1).
 - [ ] Skim `MVP.md` (your goal) and `ABOVE_AND_BEYOND.md` so you know the
   line between them before you start.
 
@@ -67,7 +70,7 @@ submission checklist — work through it in order, top to bottom.
 **Exit criterion:** at least 3 real commits pushed to GitHub by end of
 Week 1 — `git log --oneline` should already tell a real story.
 
-## Day 8 — Part 5: generate a chart, get an AI's read on it
+## Day 8 — Part 5: two real AI critiques
 
 - [ ] A real chart generated from your own exploration and saved as an
   actual image file — confirmed it exists, not just that the cell ran.
@@ -77,6 +80,13 @@ Week 1 — `git log --oneline` should already tell a real story.
   > instead of pasting what it actually said — the critique needs the
   > real text to be checkable.
 - [ ] A real critique written: does the AI's read match your own numbers?
+- [ ] **Part 5b:** the AI asked to generate/suggest its own visualization
+  for one of your variables or relationships — what it actually produced
+  pasted or described, and a real critique of whether it's the right
+  chart type and whether it's accurate.
+  > ⚠️ Common mistake: accepting an AI-suggested chart because it looks
+  > polished, without checking whether it's actually the right chart type
+  > for what you asked it to show.
 
 ## Day 9 — Part 6 & 7: answer the business problem, explain the spread
 
@@ -98,6 +108,11 @@ Week 1 — `git log --oneline` should already tell a real story.
   > be able to answer your question with a specific fact.
 - [ ] The "why this matters" paragraph connects at least one of those
   questions back to whether your stakeholder should trust your answer.
+- [ ] Your own `requirements.txt` written — real packages you actually
+  used, with real, exact version numbers, replacing the placeholder
+  instructions the template shipped with.
+- [ ] The "Questions My Analysis Can Answer" section **deleted** from the
+  notebook — check it against your own Parts 1-7 first, then remove it.
 - [ ] Clean sweep: notebook runs top-to-bottom without errors, no leftover
   debugging cells or dead code.
 - [ ] Full self-check against `MVP.md`.
