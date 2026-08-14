@@ -4,7 +4,8 @@ Full grading detail (what separates each level) lives in `rubric.md`. This
 is the bar:
 
 - [ ] **Domain chosen** (`SCENARIOS.md`), their business problem restated
-  in your own words.
+  in your own words — plus a real "Data Overview" paragraph, both at the
+  top of the notebook.
 - [ ] **Real inspection** — shape, dtypes, and missing-value counts
   genuinely checked, not assumed.
 - [ ] **At least one real cleaning function**, written and used — not
@@ -17,9 +18,16 @@ is the bar:
   actually fits (not a histogram by default) — the choice justified in a
   sentence — plus one non-obvious finding backed by the statistic (mean or
   median) that fits your key variable's actual skew.
-- [ ] **The AI-vision exercise done for real** — your own chart, saved as
+- [ ] **Both AI exercises done for real** — (1) your own chart, saved as
   an actual image, a real AI's verbatim response to it, and your own
-  critique of that response against your own numbers.
+  critique of that response against your own numbers; (2) a visual the
+  AI itself generates or suggests, and your own critique of *that* —
+  whether it's the right chart type and whether it's actually accurate.
+- [ ] **The "Questions My Analysis Can Answer" section deleted** before
+  your final commit — it's a planning tool, not part of the submission.
+- [ ] **Your own `requirements.txt`** — real packages you actually used,
+  with real, exact version numbers — not the placeholder instructions
+  that shipped with the template.
 - [ ] **Your stakeholder's business problem answered directly**, backed
   by the right statistic, mentioning how your cleaning/imputation
   decisions affect your confidence in the answer.
