@@ -54,6 +54,9 @@ value is exactly what **Module 13** (agentic AI tooling) and **Module 14**
   the AI-vision exercise, and your answer to your stakeholder's problem.
 - `starter/memo.md` — your written findings report for your stakeholder,
   plus the required data-quality questions.
+- `README.md`, rewritten by you — your project's actual landing page:
+  scenario, data overview, statistical summary, visualizations, and
+  takeaways, replacing the setup instructions it starts with.
 
 See `SCENARIOS.md` to pick your domain first, `CHECKLIST_TIMELINE.md` for
 the day-by-day pace and the full submission checklist, and `README.md`
