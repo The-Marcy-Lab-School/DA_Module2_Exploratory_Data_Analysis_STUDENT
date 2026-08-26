@@ -130,6 +130,9 @@ Day 2 — `git log --oneline` should already tell a real story.
   instructions the template shipped with.
 - [ ] The "Questions My Analysis Can Answer" section **deleted** from the
   notebook — check it against your own Parts 1-7 first, then remove it.
+- [ ] **Delete `PROJECT_OVERVIEW.md` and `SCENARIOS.md`** — they explain
+  the assignment, not your project; a real portfolio repo shouldn't have
+  "here's what you were asked to build" sitting in it.
 - [ ] `README.md` rewritten — replace the setup instructions entirely with
   your own project README: scenario, data overview, statistical summary,
   visualizations (real chart images, saved as files and embedded with
