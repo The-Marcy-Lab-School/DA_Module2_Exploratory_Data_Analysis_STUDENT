@@ -51,7 +51,7 @@ insurance, healthcare operations, public sector, or professional
 services) — each has a real stakeholder, a real business problem, and its
 own data file (three are real government data; one is clearly-labeled
 synthetic — see `data/SOURCE.md`). Everyone works from the same starter
-notebook and the same bar (`MVP.md`); the domain changes what you're
+notebook and the same required bar; the domain changes what you're
 looking at, not what's required.
 
 ## What to do
@@ -63,10 +63,11 @@ which visualization tool (matplotlib, seaborn, plotly, or pandas' own
 `.plot()`) actually fits each question is part of the assignment. Real
 data cleaning and a real imputation decision are required, and at least
 one repeated operation needs to become a real function, not copy-pasted
-code. When the notebook's done, write `starter/memo.md`. See `MVP.md` for
-the full scope and `CHECKLIST_TIMELINE.md` for the day-by-day pace. Commit
-incrementally as you go — a `git commit` after Part 2's cleaning is done,
-another after Part 4's charts, not one commit at the very end.
+code. When the notebook's done, write `starter/memo.md`. See
+`CHECKLIST_TIMELINE.md` for the day-by-day pace and your instructor's
+shared checklist for the full required scope. Commit incrementally as
+you go — a `git commit` after Part 2's cleaning is done, another after
+Part 4's charts, not one commit at the very end.
 
 ## Before you submit: rewrite this file
 
@@ -75,4 +76,15 @@ anyone should see landing on your finished repo. **Once your analysis is
 done, replace this entire file's content** with your own project README:
 your scenario, a data overview, a statistical summary, your
 visualizations (real chart images, not just descriptions), and your
-takeaways. See `MVP.md` for exactly what's required.
+takeaways. Your instructor's shared checklist has exactly what's
+required.
+
+**Where's the exact bar for "done," and what are the optional stretch
+goals?** This repo (your own copy) doesn't include `MVP.md` (your
+**M**inimum **V**iable **P**roduct — the required baseline) or
+`ABOVE_AND_BEYOND.md` on purpose — they're not something to keep sitting
+in your portfolio repo. Ask your instructor for the link to this
+template's `project-scope` branch (it'll look like
+`.../tree/project-scope` on the *template's* GitHub page, not your own
+copy) to read them, or check the checklist your instructor shares
+through the classroom, which covers the same ground.
