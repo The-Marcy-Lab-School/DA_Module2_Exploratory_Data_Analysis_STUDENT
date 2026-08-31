@@ -151,16 +151,18 @@ Day 2 — `git log --oneline` should already tell a real story.
 whole sprint. `ABOVE_AND_BEYOND.md` — your backlog — is exactly that:
 optional, for real time left over, not a requirement of these 5 days.
 
-## After Day 5: peer memo review
+## Day 6 — Share-out
 
-Once everyone's submitted, there's a separate session where your
-`memo.md` gets shared **anonymously** with a small group of peers — they
-review it as if they were your actual stakeholder and give real
-feedback, and you'll do the same for a few of theirs (possibly spanning
-different domains than yours). No prep needed beyond having a real,
-finished `memo.md` — just know it's coming, and that a memo other people
-can't actually act on is exactly the kind of thing this session surfaces
-fast.
+Your instructor schedules this once every submission is in — usually a
+few days after Day 5, not necessarily the next calendar day. Real
+session, not optional: your instructor anonymizes every submitted
+`memo.md`, groups students in threes, and each group reviews its
+assigned memos as if they were the actual stakeholder — rating each one
+for clarity, actionability, and whether it addressed the real business
+problem — then shares the patterns it noticed across memos and reflects
+on what it would change in its own writing. No prep needed beyond
+having a real, finished `memo.md` already pushed — see your instructor
+for the exact date.
 
 ## Above & Beyond (Your Backlog)
 

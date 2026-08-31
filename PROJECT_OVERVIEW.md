@@ -59,5 +59,6 @@ value is exactly what **Module 13** (agentic AI tooling) and **Module 14**
   takeaways, replacing the setup instructions it starts with.
 
 See `SCENARIOS.md` to pick your domain first, `CHECKLIST_TIMELINE.md` for
-the day-by-day pace and the full submission checklist, and `README.md`
-for how to get set up.
+the day-by-day pace, full submission checklist, and the required
+share-out session scheduled after, and `README.md` for how to get set
+up.
