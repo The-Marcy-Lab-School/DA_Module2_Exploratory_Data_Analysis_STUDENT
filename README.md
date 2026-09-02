@@ -4,7 +4,7 @@
 why. This file (`README.md`) is where the step-by-step setup lives — you're
 already in the right place.
 
-**Due:** 5 days, run as one sprint, plus a required share-out session
+**Due:** 4 days, run as one sprint, plus a required share-out session
 scheduled after. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and
 the full submission checklist.
 
