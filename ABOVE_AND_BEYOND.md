@@ -6,8 +6,8 @@ module leans on — pick one or two, don't feel obligated to do all of them.
 - **Find a second non-obvious pattern**, from a different slice of the data
   than the one your business problem already led you to — a different
   grouping column or a different numeric variable. More reps at telling a
-  real pattern from a coincidence is exactly what **Module 6** (dashboards),
-  **Module 11** (inferential statistics), and **Module 12** (predictive
+  real pattern from a coincidence is exactly what **Module 7** (dashboards),
+  **Module 5** (inferential statistics), and **Module 12** (predictive
   analytics) all assume you already have.
 
 - **Answer a second domain's business problem**, briefly, using its own

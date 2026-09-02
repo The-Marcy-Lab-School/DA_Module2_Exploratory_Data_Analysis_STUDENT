@@ -18,6 +18,13 @@ is the bar:
   actually fits (not a histogram by default) — the choice justified in a
   sentence — plus one non-obvious finding backed by the statistic (mean or
   median) that fits your key variable's actual skew.
+- [ ] **At least 2 distinct visualization types** used across Part 3 +
+  Part 4 combined — not the same chart type regardless of what's being
+  shown.
+- [ ] **A group-vs-aggregate comparison** — a groupby table of your key
+  statistic by group, with each group's own number explicitly checked
+  against the overall aggregate value of that same statistic, naming
+  whether every group agrees with the aggregate or at least one diverges.
 - [ ] **Both AI exercises done for real** — (1) your own chart, saved as
   an actual image, a real AI's verbatim response to it, and your own
   critique of that response against your own numbers; (2) a visual the
