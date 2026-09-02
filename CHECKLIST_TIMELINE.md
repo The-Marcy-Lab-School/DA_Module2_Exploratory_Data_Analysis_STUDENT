@@ -1,8 +1,8 @@
-# Checklist & Timeline — 5 Days
+# Checklist & Timeline — 4 Days + Share-Out
 
-This project runs as **one sprint**, 5 days long. Every item below is
-also the actual submission checklist — work through it in order, top to
-bottom.
+This project runs as **one sprint**, 4 build days plus a share-out day.
+Every item below is also the actual submission checklist — work through
+it in order, top to bottom.
 
 ## What's a sprint, and why does this project run as one?
 
@@ -20,18 +20,18 @@ after just one round:
   worth 2 minutes of honest self-check.
 - **The backlog is real work, deliberately not in this sprint.**
   `ABOVE_AND_BEYOND.md` **is** this sprint's backlog — genuinely good,
-  legitimate work that doesn't fit in 5 days without cutting something
+  legitimate work that doesn't fit in 4 days without cutting something
   that matters more. A backlog isn't "things you failed to finish" — it's
   how a team protects a real deadline by explicitly deciding what's *not*
   in scope, on purpose, instead of letting "just one more thing" quietly
-  blow up the schedule. With only 5 days here, leaning on the backlog for
+  blow up the schedule. With only 4 days here, leaning on the backlog for
   anything past MVP matters even more than it did in Module 1.
 - **A sprint ends with a real stopping point**, not a status update. Once
   `MVP.md` is done and pushed, the sprint is over — picking up a backlog
   item afterward, if you have real time, is a bonus, not part of this
   sprint.
 
-## Day 1 — Setup, pick your domain, start inspecting
+## Day 1 — Setup, pick your domain, inspect, clean, profile
 
 - [ ] Repo created from the template via **"Use this template"** (not
   Fork), cloned locally — see `README.md`.
@@ -47,12 +47,9 @@ after just one round:
   filled in (the "Data Overview" paragraph can wait until after Part 1).
 - [ ] Skim `MVP.md` (your sprint goal) and `ABOVE_AND_BEYOND.md` (your
   backlog) so you know the line between them before you start.
-- [ ] Part 1 started: shape, dtypes, and missing-value counts genuinely
-  inspected — you choose the methods.
+- [ ] Part 1: shape, dtypes, and missing-value counts genuinely inspected
+  — you choose the methods.
 - [ ] Commit your work — a real, descriptive message you write yourself.
-
-## Day 2 — Part 2 & 3: clean it, then profile it
-
 - [ ] Part 2: **at least one real cleaning function written and used** —
   not inline code copy-pasted for each fix.
   > ⚠️ Common mistake: writing the same cleaning logic 2-3 times inline
@@ -72,9 +69,9 @@ after just one round:
 - [ ] Commit your work.
 
 **Exit criterion:** at least 2 real commits pushed to GitHub by the end of
-Day 2 — `git log --oneline` should already tell a real story.
+Day 1 — `git log --oneline` should already tell a real story.
 
-## Day 3 — Part 4: relationships and segments
+## Day 2 — Part 4: relationships and segments
 
 - [ ] A relationship or segment explored with a chart type that actually
   fits (bar/boxplot-by-category, line graph for a trend, scatterplot for
@@ -82,6 +79,20 @@ Day 2 — `git log --oneline` should already tell a real story.
   > ⚠️ Common mistake: using a histogram or bar chart out of habit when
   > the actual question is about a trend over time or a relationship
   > between two variables.
+- [ ] **At least 2 distinct chart types used across Part 3 + Part 4
+  combined** — not the same chart type for every variable/relationship
+  regardless of what it's actually showing.
+  > ⚠️ Common mistake: defaulting to a histogram (or whichever chart type
+  > you're most comfortable with) for everything, instead of letting the
+  > question decide the chart.
+- [ ] A groupby table of your key statistic (mean or median, whichever
+  fits) by group, with each group's number **explicitly compared against
+  the overall aggregate value of that same statistic** — does every group
+  point the same direction as the aggregate, or does at least one group's
+  own trend actually diverge from it?
+  > ⚠️ Common mistake: reporting only the aggregate number, or only the
+  > single most extreme group, without checking whether the *other*
+  > groups actually agree with the aggregate too.
 - [ ] One non-obvious finding stated, backed by the statistic (mean or
   median) that fits your variable's actual skew.
   > ⚠️ Common mistake: using the mean by default on a visibly skewed
@@ -90,7 +101,7 @@ Day 2 — `git log --oneline` should already tell a real story.
   > the data as a reliable finding — check how many rows are behind it.
 - [ ] Commit your work.
 
-## Day 4 — Part 5, 6 & 7: two AI critiques, answer the problem, explain the spread
+## Day 3 — Part 5, 6 & 7: two AI critiques, answer the problem, explain the spread
 
 - [ ] A real chart generated from your own exploration and saved as an
   actual image file — confirmed it exists, not just that the cell ran.
@@ -114,7 +125,7 @@ Day 2 — `git log --oneline` should already tell a real story.
   own words, tied to your own computed number.
 - [ ] Commit your work.
 
-## Day 5 — The findings report, data-quality memo, final review
+## Day 4 — The findings report, data-quality memo, final review
 
 - [ ] `starter/memo.md` written: your domain/stakeholder named, your
   answer restated for a non-technical reader, **at least 2 specific,
@@ -130,31 +141,41 @@ Day 2 — `git log --oneline` should already tell a real story.
   instructions the template shipped with.
 - [ ] The "Questions My Analysis Can Answer" section **deleted** from the
   notebook — check it against your own Parts 1-7 first, then remove it.
-- [ ] **Delete `PROJECT_OVERVIEW.md` and `SCENARIOS.md`** — they explain
-  the assignment, not your project; a real portfolio repo shouldn't have
-  "here's what you were asked to build" sitting in it.
-- [ ] `README.md` rewritten — replace the setup instructions entirely with
-  your own project README: scenario, data overview, statistical summary,
-  visualizations (real chart images, saved as files and embedded with
-  markdown — not just described), and takeaways.
+- [ ] **Replace `README.md`'s content with your own real project README**
+  — write it for someone who's never seen this assignment, replacing the
+  setup instructions entirely:
+  - **Scenario** — your domain/stakeholder and their business problem, in
+    your own words.
+  - **Data Overview** — what the dataset is, its source, roughly how big
+    it is.
+  - **Statistical Summary** — your key variables' real numbers (mean/
+    median/spread), correctly labeled.
+  - **Visualizations** — real, embedded chart images (saved as files,
+    referenced with markdown) — not descriptions.
+  - **Takeaways** — your answer to the business problem and what you'd
+    flag before anyone trusts it.
   > ⚠️ Common mistake: describing a chart in words instead of actually
   > saving it and embedding the real image — a reader should be able to
   > see what you saw, not just read your summary of it.
 - [ ] Clean sweep: notebook runs top-to-bottom without errors, no leftover
   debugging cells or dead code.
 - [ ] Full self-check against `MVP.md`.
+- [ ] **Delete `PROJECT_OVERVIEW.md`, `SCENARIOS.md`, and this file
+  (`CHECKLIST_TIMELINE.md`)** — now that their content is captured in your
+  real README, they're just "here's what you were asked to build" clutter
+  that shouldn't sit in a real portfolio repo.
 - [ ] Final commit(s) pushed — `git log --oneline` should show 4+ commits
   total, each with a real message you wrote yourself. Repo confirmed
   public.
 
 **Exit criterion:** everything in `MVP.md` is done and pushed. That's the
 whole sprint. `ABOVE_AND_BEYOND.md` — your backlog — is exactly that:
-optional, for real time left over, not a requirement of these 5 days.
+optional, for real time left over, not a requirement of these 4 days.
 
-## Day 6 — Share-out
+## Day 5 — Share-out
 
 Your instructor schedules this once every submission is in — usually a
-few days after Day 5, not necessarily the next calendar day. Real
+few days after Day 4, not necessarily the next calendar day. Real
 session, not optional: your instructor anonymizes every submitted
 `memo.md`, groups students in threes, and each group reviews its
 assigned memos as if they were the actual stakeholder — rating each one
@@ -168,7 +189,7 @@ for the exact date.
 
 Only the additional items — everything above still applies and isn't
 repeated here. All four are detailed in `ABOVE_AND_BEYOND.md`. Picking one
-up *after* Day 5, if you have real time, is a bonus sprint — not part of
+up *after* Day 4, if you have real time, is a bonus sprint — not part of
 this one.
 
 - [ ] Find a **second** non-obvious pattern, from a different slice of the

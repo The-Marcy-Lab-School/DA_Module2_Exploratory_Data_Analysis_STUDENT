@@ -50,15 +50,16 @@ value is exactly what **Module 13** (agentic AI tooling) and **Module 14**
 
 ## Deliverables at a glance
 
-- `starter/analysis.ipynb` — inspection, cleaning, multi-chart profiling,
-  the AI-vision exercise, and your answer to your stakeholder's problem.
-- `starter/memo.md` — your written findings report for your stakeholder,
-  plus the required data-quality questions.
+- [`starter/analysis.ipynb`](starter/analysis.ipynb) — inspection,
+  cleaning, multi-chart profiling, the AI-vision exercise, and your
+  answer to your stakeholder's problem.
+- [`starter/memo.md`](starter/memo.md) — your written findings report
+  for your stakeholder, plus the required data-quality questions.
 - `README.md`, rewritten by you — your project's actual landing page:
   scenario, data overview, statistical summary, visualizations, and
   takeaways, replacing the setup instructions it starts with.
 
-See `SCENARIOS.md` to pick your domain first, `CHECKLIST_TIMELINE.md` for
-the day-by-day pace, full submission checklist, and the required
-share-out session scheduled after, and `README.md` for how to get set
-up.
+See [`SCENARIOS.md`](SCENARIOS.md) to pick your domain first,
+[`CHECKLIST_TIMELINE.md`](CHECKLIST_TIMELINE.md) for the day-by-day pace,
+full submission checklist, and the required share-out session scheduled
+after, and [`README.md`](README.md) for how to get set up.
