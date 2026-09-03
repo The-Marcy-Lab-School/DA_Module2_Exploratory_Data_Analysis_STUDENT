@@ -26,9 +26,9 @@ means figuring out the right tool for the question, not filling in a
 template. This comes back constantly for the rest of the program: **real
 pandas fluency deepens in Module 4**, **statistical reasoning becomes a
 practical, recurring concern starting in Module 7** (dashboards) and again
-in **Module 5** (inferential statistics) and **Module 12** (predictive
+in **Module 5** (inferential statistics) and **Module 11** (predictive
 analytics/ML), and not trusting a fluent-sounding AI description at face
-value is exactly what **Module 13** (agentic AI tooling) and **Module 14**
+value is exactly what **Module 12** (agentic AI tooling) and **Module 14**
 (responsible AI) formally assess later.
 
 ## Skills you'll practice
