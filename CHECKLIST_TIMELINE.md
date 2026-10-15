@@ -193,9 +193,10 @@ up *after* Day 4, if you have real time, is a bonus sprint — not part of
 this one.
 
 **This section's own given code (`above_and_beyond/`) isn't in your repo
-by default** — it lives on this template's `project-scope` branch, same
-as `MVP.md`/`ABOVE_AND_BEYOND.md`. Ask your instructor for that branch's
-link if you want to pick any of this up.
+by default** — it lives on this template's `project-scope` branch, same as
+`MVP.md`/`ABOVE_AND_BEYOND.md`. To pick any of this up, go back to the
+original template repo you created yours from and switch to its
+`project-scope` branch.
 
 - [ ] Find a **second** non-obvious pattern, from a different slice of the
   data than the one your business problem already led you to.
