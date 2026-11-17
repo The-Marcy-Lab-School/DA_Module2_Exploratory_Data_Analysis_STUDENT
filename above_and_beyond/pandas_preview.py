@@ -1,37 +1,34 @@
 """
-Above & Beyond: a more advanced pandas chain -- code given, you don't need
-to write this yourself.
+Above & Beyond: split a numeric column into three equal-sized tiers and
+count how many rows from each category land in each tier.
 
-This notebook already had you write real pandas code. This is a taste of
-a more advanced technique -- binning a continuous variable into named
-tiers and cross-tabulating it against a category in one chain -- that
-goes beyond what MVP asks for. Real full fluency with chains like this
-keeps deepening in Module 4.
+Given code: you don't need to write this yourself. Copy this file into
+your repo's top folder, set COLUMN and GROUP below to columns from your
+own data file, then run:
 
-Run it (python3 above_and_beyond/pandas_preview.py, from the repo root)
-and read through it -- then add a short section to memo.md comparing what
-this cross-tab tells you to what you found by hand.
+    python3 pandas_preview.py
+
+Compare the table to your Part 4 findings in memo.md. Look up pd.qcut and
+.unstack() in the pandas docs to learn what each step does.
 """
+import glob
+
 import pandas as pd
 
-df = pd.read_csv("data/finance_insurance.csv")
+COLUMN = None  # TODO: a numeric column, e.g. "billed_hours"
+GROUP = None   # TODO: a category column, e.g. "service_type"
 
-# Bin claim severity into named tiers, then cross-tabulate against
-# occupancy type in one chain -- .assign() + pd.cut() + a multi-level
-# groupby().size().unstack() instead of building each piece separately.
-result = (
-    df.dropna(subset=["amountPaidOnBuildingClaim"])
-    .assign(
-        severity_tier=lambda d: pd.cut(
-            d["amountPaidOnBuildingClaim"],
-            bins=[-1, 5000, 25000, 1_000_000_000],
-            labels=["low", "medium", "high"],
-        )
-    )
-    .groupby(["occupancyType", "severity_tier"], observed=True)
-    .size()
-    .unstack(fill_value=0)
-)
+if COLUMN is None or GROUP is None:
+    raise SystemExit("Set COLUMN and GROUP at the top of this file first.")
 
-print("Claim counts by occupancy type and severity tier:\n")
-print(result)
+df = pd.read_csv(glob.glob("data/*.csv")[0])
+values = pd.to_numeric(df[COLUMN], errors="coerce")
+
+# Split into three tiers with about the same number of rows in each.
+df["tier"] = pd.qcut(values, q=3, duplicates="drop")
+
+# Rows per category in each tier, one column per tier.
+table = df.groupby([GROUP, "tier"], observed=True).size().unstack(fill_value=0)
+
+print("Rows per", GROUP, "in each", COLUMN, "tier:\n")
+print(table)

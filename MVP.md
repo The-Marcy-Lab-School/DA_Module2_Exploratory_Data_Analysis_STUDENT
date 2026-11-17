@@ -1,58 +1,39 @@
-# MVP — Minimum Bar
+# MVP: Minimum Bar
 
-Full grading detail (what separates each level) lives in `rubric.md`. This
-is the bar:
+This is the same list as the MVP checklist in the LMS. `RUBRIC.md` has the
+full grading detail.
 
-- [ ] **Domain chosen** (`SCENARIOS.md`), their business problem restated
-  in your own words — plus a real "Data Overview" paragraph, both at the
-  top of the notebook.
-- [ ] **Real inspection** — shape, dtypes, and missing-value counts
-  genuinely checked, not assumed.
-- [ ] **At least one real cleaning function**, written and used — not
-  copy-pasted inline fixes.
-- [ ] **A real, justified imputation decision** for at least one column
-  with real missing values.
-- [ ] **At least 3 numeric variables profiled** (five-number summary +
-  shape/outlier call each) — a chart per variable, chart type your choice.
-- [ ] **A relationship or segment explored** with a chart type that
-  actually fits (not a histogram by default) — the choice justified in a
-  sentence — plus one non-obvious finding backed by the statistic (mean or
-  median) that fits your key variable's actual skew.
-- [ ] **At least 2 distinct visualization types** used across Part 3 +
-  Part 4 combined — not the same chart type regardless of what's being
-  shown.
-- [ ] **A group-vs-aggregate comparison** — a groupby table of your key
-  statistic by group, with each group's own number explicitly checked
-  against the overall aggregate value of that same statistic, naming
-  whether every group agrees with the aggregate or at least one diverges.
-- [ ] **Both AI exercises done for real** — (1) your own chart, saved as
-  an actual image, a real AI's verbatim response to it, and your own
-  critique of that response against your own numbers; (2) a visual the
-  AI itself generates or suggests, and your own critique of *that* —
-  whether it's the right chart type and whether it's actually accurate.
-- [ ] **The "Questions My Analysis Can Answer" section deleted** before
-  your final commit — it's a planning tool, not part of the submission.
-- [ ] **Your own `requirements.txt`** — real packages you actually used,
-  with real, exact version numbers — not the placeholder instructions
-  that shipped with the template.
-- [ ] **Your stakeholder's business problem answered directly**, backed
-  by the right statistic, mentioning how your cleaning/imputation
-  decisions affect your confidence in the answer.
-- [ ] **The standard-deviation question answered**, tied to your own
-  key variable's real numbers, connected to what a large spread implies
-  about a real-world/business metric.
-- [ ] **`starter/memo.md` complete** — your domain and stakeholder named,
-  your answer restated for a non-technical reader, at least 2 specific,
-  checkable clarifying questions about the data's origin, completeness,
-  or bias, plus a paragraph connecting at least one to whether your
-  stakeholder should trust your answer.
-- [ ] **`README.md` rewritten as your project's actual landing page** —
-  replace the given setup instructions entirely with: your scenario, a
-  data overview, a statistical summary, your visualizations (real,
-  embedded chart images — save them as files and reference them with
-  markdown, not just describe them in words), and your takeaways.
-- [ ] **Clean notebook** — runs top to bottom without errors, no leftover
-  debugging cells.
-- [ ] **GitHub repo** — public, at least 4 real, well-messaged commits.
-
-See `CHECKLIST_TIMELINE.md` for the day-by-day sequence this bar is built in.
+- [ ] **Domain chosen** from `SCENARIOS.md`, other 3 data files deleted.
+- [ ] **Assumptions:** at least 2 QAR notes in `REFLECTION.md`.
+- [ ] **Part 1:** shape, data types, missing values, and duplicate rows
+  checked.
+- [ ] **Part 2:** a justified decision on duplicate rows; a `def`
+  cleaning function called at least twice; a justified drop, fill, or
+  flag decision for missing values; placeholder or impossible values
+  handled.
+- [ ] **Part 2b:** at least one new column, checked and used.
+- [ ] **Part 3:** 3 numeric variables profiled, each with summary
+  statistics, a labeled chart, and a shape and outlier call.
+- [ ] **Part 4:** a `groupby` table comparing each group with the
+  overall number, a chart that fits, and a non-obvious finding.
+- [ ] **At least 2 chart types** across Parts 3 and 4, each with a title
+  and labeled axes.
+- [ ] **Part 5:** a saved chart, an AI's read of it pasted word for word,
+  and each claim judged against your numbers.
+- [ ] **Part 5b:** an AI-suggested chart judged on type and accuracy.
+- [ ] **Parts 6 and 7:** the stakeholder answered with the statistic that
+  fits, and the standard deviation explained.
+- [ ] **`memo.md`:** a plain-language answer, 2 checkable questions, and
+  the link to trust.
+- [ ] **`REFLECTION.md`:** QAR assumptions and one real AI prompt,
+  checked.
+- [ ] **Notebook runs** with Restart and Run All, with the "Questions"
+  section deleted.
+- [ ] **Your own `README.md`** with every section listed at the top of
+  the template README, and at least one chart embedded from `images/`.
+- [ ] **Clean submission:** `CHECKLIST_TIMELINE.md`, `RUBRIC.md`,
+  `SCENARIOS.md`, and `PROJECT_OVERVIEW.md` deleted, and `starter/`
+  renamed to `analysis/`.
+- [ ] **Public GitHub repo** with at least 4 commits with clear messages.
+- [ ] **Day 5 share-out:** a pair repo review and a 90-second BLUF
+  answer. Not graded.
