@@ -50,7 +50,9 @@ yesterday, what am I doing today, and is anything blocking me?
 - [ ] **Part 5:** save a chart to `images/`, get an AI's read of it, paste
   it word for word, and judge each claim against your numbers.
 - [ ] **Part 5b:** ask an AI to suggest a chart and judge its type and
-  accuracy.
+  accuracy. If it gives you code, use the audit checklist from Days 6 and
+  14: rows before and after, one number checked by hand, data types, what
+  got dropped or filled, and whether the statistic fits the shape.
 - [ ] Commit and push. You should have at least 4 commits on GitHub by
   the end of Day 3.
 
