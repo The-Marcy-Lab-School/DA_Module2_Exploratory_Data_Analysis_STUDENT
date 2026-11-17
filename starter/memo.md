@@ -1,39 +1,36 @@
-# Findings Report & Data-Quality Memo
+# Findings Memo
 
-**Author:** TODO — your name
-**Domain & stakeholder (from `SCENARIOS.md`):** TODO — name which of the 4
-you picked and restate their business problem in one sentence.
+**Author:** TODO
 
-## Your answer to their business problem
+**Domain and stakeholder:** TODO. Name your domain and restate your
+stakeholder's business problem in one sentence.
 
-Pull together your `analysis.ipynb` work into a direct, plain-language
-answer. State your answer, then the evidence: the specific statistic
-(mean or median) you're relying on, why that one is the honest choice
-given your key variable's actual skew, and how your Part 2 cleaning/
-imputation decisions affect how much you'd trust this answer.
+## Answer
+
+Answer the business problem in plain language, for someone who won't
+open your notebook. Lead with the answer, then the evidence: the
+statistic you're relying on (mean or median), why it fits your key
+variable's shape, and how your cleaning decisions affect how much to
+trust it.
 
 TODO
 
-## At least 2 specific, checkable questions
+## Two questions worth checking
 
-Pose real questions about this dataset's origin, completeness, or possible
-bias — something the people who actually maintain it could answer with a
-real, concrete fact. Not "is this data good?" — a question a grader (or a
-real data steward) could actually imagine getting a yes/no or specific
-answer to.
+Two specific questions about where this data came from, what's missing
+from it, or how it might be biased. Each should be something the people
+who maintain the data could answer with a concrete fact. "Is this data
+accurate?" doesn't count.
+
+`data/SOURCE.md` lists known problems, but your questions should come
+from what you ran into, not be copied from that file.
 
 1. TODO
 2. TODO
 
-> ⚠️ `data/SOURCE.md` documents a few raw data-quality wrinkles if you want
-> a fuller list — but the questions themselves should be yours, tied to
-> what you actually ran into working on your stakeholder's problem, not
-> copied from that file.
+## Does this affect trust?
 
-## Why this matters for the answer you gave
-
-In 1-2 sentences: connect **at least one** of your questions above to your
-"Your answer to their business problem" section. If the answer to your
-question turned out badly, would it change what you told your stakeholder?
+In 1-2 sentences: if the answer to one of your questions turned out
+badly, would it change what you told your stakeholder? How?
 
 TODO

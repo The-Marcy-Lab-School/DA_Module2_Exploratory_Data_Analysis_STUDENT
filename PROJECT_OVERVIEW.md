@@ -1,65 +1,69 @@
-# Project Overview: EDA — Choose Your Domain
+# Project Overview: Exploratory Data Analysis
 
-## What you're building
+## The objective
 
-A written exploratory-data-analysis (EDA) profile of a real dataset,
-built around a real business problem. Pick one of 4 domains (finance &
-insurance, healthcare operations, public sector, or professional
-services) — each has a real stakeholder, a real business problem, and its
-own data file. You'll inspect and clean the data yourself (including a
-real missing-value decision and at least one reusable cleaning function),
-profile multiple numeric variables using whichever chart type actually
-fits (histogram, boxplot, scatterplot, line graph — your call), get an
-AI's read on a chart you made yourself, and answer your stakeholder's
-business problem with the statistic that fits your data's actual skew.
-You'll close with a written report raising real, checkable data-quality
-concerns.
+Pick one of 4 business domains (`SCENARIOS.md`), each with a real
+stakeholder and a real or realistic dataset, and answer their question
+with exploratory data analysis in a Jupyter notebook:
 
-## Why this matters
+- **Inspect and clean** messy data: duplicates, missing values, text that
+  should be numbers, and placeholder values.
+- **Add a feature:** create a new column that helps answer the question.
+- **Profile** the key variables with statistics and charts, and find a
+  non-obvious pattern across groups.
+- **Test an AI** in two directions: judge its read of your chart, and
+  judge a chart it suggests.
+- **Communicate:** a findings memo for your stakeholder and a README an
+  employer can read.
 
-Module 1 was about writing correct code. This project is about deciding
-*what to do* with data once you can already write code — which method
-answers a question, which chart tells the truth about a distribution, and
-whether an AI's read on your own work is actually right. This module gives
-you far less scaffolding than Module 1 on purpose: real analyst work
-means figuring out the right tool for the question, not filling in a
-template. This comes back constantly for the rest of the program: **real
-pandas fluency deepens in Module 4**, **statistical reasoning becomes a
-practical, recurring concern starting in Module 6** (dashboards) and again
-in **Module 5** (inferential statistics) and **Module 11** (predictive
-analytics/ML), and not trusting a fluent-sounding AI description at face
-value is exactly what **Module 12** (generative & responsible AI)
-formally assesses later.
+## Why it matters
 
-## Skills you'll practice
-
-- **Statistical Analysis** — computing and correctly interpreting mean,
-  median, and standard deviation, including what a large spread implies.
-- **Data Distributions & Shape** — reading a distribution's shape and
-  choosing the right chart (histogram, boxplot, and more) to show it.
-- **Data Mining** — finding a genuinely non-obvious pattern or segment in
-  a dataset you've never seen before, without being handed the answer.
-- **Critical Thinking** — asking specific, checkable questions about where
-  data came from and what might be wrong with it, before trusting a
-  conclusion drawn from it — including an AI's own conclusion about a
-  chart you made.
-- **Data Cleaning & Imputation** — deciding how to handle real missing
-  values and data-quality problems, and justifying that decision. Not yet
-  an official curriculum skill line — see `../../CURRICULUM_CHANGES.md` —
-  but a real, graded part of this project.
+Most of an analyst's time goes into understanding and cleaning data
+before any answer is trustworthy. This project is your first full pass:
+inspect, clean, explore, and explain, with every decision justified. You
+also practice choosing the right statistic for skewed data, which is one
+of the most common analyst mistakes. Modules 3 and 4 build on this with
+SQL and with pandas connected to a database.
 
 ## Deliverables at a glance
 
-- [`starter/analysis.ipynb`](starter/analysis.ipynb) — inspection,
-  cleaning, multi-chart profiling, the AI-vision exercise, and your
-  answer to your stakeholder's problem.
-- [`starter/memo.md`](starter/memo.md) — your written findings report
-  for your stakeholder, plus the required data-quality questions.
-- `README.md`, rewritten by you — your project's actual landing page:
-  scenario, data overview, statistical summary, visualizations, and
-  takeaways, replacing the setup instructions it starts with.
+- A **public GitHub repo** created with "Use this template" (not Fork).
+- `starter/analysis.ipynb` complete, running top to bottom with
+  **Restart and Run All**.
+- `starter/memo.md`: your answer for the stakeholder and 2 checkable
+  questions about the data.
+- `starter/REFLECTION.md`: your QAR assumptions and one real AI prompt,
+  checked.
+- Charts saved in `images/`, at least one embedded in your README.
+- Your own `README.md` replacing this template's.
+- At least 4 commits with clear messages.
+- School-facing files deleted and `starter/` renamed to `analysis/`.
+- **Day 5 share-out:** a pair repo review and a 90-second walkthrough.
+  No slides.
 
-See [`SCENARIOS.md`](SCENARIOS.md) to pick your domain first,
-[`CHECKLIST_TIMELINE.md`](CHECKLIST_TIMELINE.md) for the day-by-day pace,
-full submission checklist, and the required share-out session scheduled
-after, and [`README.md`](README.md) for how to get set up.
+## Skills you'll practice
+
+- **Statistics and distributions:** mean, median, spread, skew, and
+  outliers, and choosing the statistic that fits.
+- **Data cleaning:** reusable cleaning functions and justified
+  missing-value decisions.
+- **Feature creation:** adding a column that answers a business question.
+- **Data mining and visualization:** group comparisons and charts that
+  fit the question.
+- **Critical thinking and AI evaluation:** checkable questions about the
+  data, and judging an AI's chart claims against your own numbers.
+- **Stakeholder communication:** a memo and README for readers who won't
+  open your notebook.
+
+## Above & Beyond (optional)
+
+The Above & Beyond section at the bottom of `CHECKLIST_TIMELINE.md` has 5
+stretch items with starter links. None are required.
+
+## Timeline
+
+5 days: 4 build days and a share-out day. See `CHECKLIST_TIMELINE.md`.
+
+## Where to start
+
+Go to `README.md`. It walks you through setup.
