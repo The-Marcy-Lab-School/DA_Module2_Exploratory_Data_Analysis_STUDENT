@@ -71,8 +71,8 @@ emergency department before leaving. Public domain.
   has 1, Puerto Rico and Delaware have 4). Don't rank them alongside
   large states without saying so.
 - The longest wait is 6,870 minutes, nearly 5 days.
-- 1 exact duplicate row, and 16 hospitals appear twice in the same
-  state.
+- 1 exact duplicate row. After you drop it, 15 more hospitals still
+  share a name and state with another row.
 
 ## Public sector: San Francisco building permits (filed 2023)
 

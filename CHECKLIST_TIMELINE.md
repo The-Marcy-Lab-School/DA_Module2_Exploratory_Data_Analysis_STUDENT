@@ -3,8 +3,9 @@
 **4 build days, then a share-out day.** Work through the items in order.
 Each one is also part of the submission checklist.
 
-Start each build day with a 2-minute check-in: what did I finish
-yesterday, what am I doing today, and is anything blocking me?
+Start each build day with a 2-minute check-in. Answer three questions:
+What did I finish yesterday? What am I doing today? Is anything blocking
+me?
 
 ## Day 1: Set up, choose, and inspect
 
@@ -50,9 +51,11 @@ yesterday, what am I doing today, and is anything blocking me?
 - [ ] **Part 5:** save a chart to `images/`, get an AI's read of it, paste
   it word for word, and judge each claim against your numbers.
 - [ ] **Part 5b:** ask an AI to suggest a chart and judge its type and
-  accuracy. If it gives you code, use the audit checklist from Days 6 and
-  14: rows before and after, one number checked by hand, data types, what
-  got dropped or filled, and whether the statistic fits the shape.
+  accuracy. If it gives you code, audit it with Day 6's checklist:
+  rows before and after, one number checked by hand, data types, what got
+  dropped or filled, and whether the statistic fits the shape. If the code
+  merges or filters, add Day 14's checks: predict the row count first,
+  count any blanks a merge adds, and test an edge case.
 - [ ] Commit and push. You should have at least 4 commits on GitHub by
   the end of Day 3.
 
@@ -93,14 +96,14 @@ No slides. You'll do two things in class, in TIP style:
 
 To prepare:
 
-- [ ] Your README's takeaways are your talking points. Practice once out
-  loud with a timer.
+- [ ] Your README's takeaways are your talking points. Say your answer
+  out loud once, with a timer.
 - [ ] After the share-out, push any fixes your partner found.
 
 ## Above & Beyond (optional)
 
-These go past what was taught in class. Research them yourself, starting
-from the links. A complete MVP without any of these is still a full,
+Most of these go past what was taught in class. Research them yourself,
+starting from the links. A complete MVP without any of these is still a full,
 passing submission.
 
 **Use AI to learn, not to do it for you.** Ask it to explain a concept,
@@ -123,5 +126,6 @@ paste in the task and copy the answer. Note what you looked up in
   each tier.** The `project-scope` branch of the original template has a
   given script, `above_and_beyond/pandas_preview.py`. Copy it into your
   repo's top folder, set the two column names at the top, run it, and
-  compare its table to your findings in `memo.md`. Start here:
+  compare its table to your findings in `memo.md`. It combines `pd.qcut`
+  (from the Day 13 lab) and `.unstack()` (Day 12) in a new way. Start here:
   [pandas: `pd.qcut`](https://pandas.pydata.org/docs/reference/api/pandas.qcut.html).

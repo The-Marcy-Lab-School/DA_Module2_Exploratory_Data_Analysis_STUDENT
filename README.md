@@ -13,7 +13,9 @@
 - **Takeaways:** your answer to the stakeholder, plus one caveat.
 - **How to run it:** the exact setup and run steps.
 
-Write it for an employer who has never seen this assignment.
+Five of these are the README sections from Day 12. The title line and
+"How to run it" are added so the README works for an employer who has
+never seen this assignment.
 
 ---
 
@@ -32,8 +34,8 @@ somewhere else first.
 
 ### 2. Use the template, not Fork
 
-On this repo's GitHub page, click **"Use this template" → "Create a new
-repository."** Don't Fork. Name it something like `flood-claims-eda`
+On this repo's GitHub page, click **Use this template**, then **Create a new
+repository**. Don't Fork. Name it something like `flood-claims-eda`
 and keep it **public**. Then clone **your** new repo and `cd` into it.
 
 ### 3. Check `.gitignore`
