@@ -1,90 +1,110 @@
-# EDA Project: Choose Your Domain
+# Exploratory Data Analysis Project
 
-**New here?** Start with `PROJECT_OVERVIEW.md` for what you're building and
-why. This file (`README.md`) is where the step-by-step setup lives — you're
-already in the right place.
+**Replace this README before submitting your final project with:**
 
-**Due:** 4 days, run as one sprint, plus a required share-out session
-scheduled after. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and
-the full submission checklist.
+- **Title and one-line summary:** what you analyzed and for whom.
+- **Scenario:** your stakeholder and their business problem.
+- **Data overview:** what the data is, where it's from, how big it is,
+  and what you had to clean.
+- **Statistical summary:** your key numbers, and why you trust the mean
+  or the median for each.
+- **Visualizations:** at least one real chart image embedded from
+  `images/`, with a one-line caption.
+- **Takeaways:** your answer to the stakeholder, plus one caveat.
+- **How to run it:** the exact setup and run steps.
 
-This repo is a **GitHub template** — a starting point, not something you
-edit directly on Marcy's copy of it.
+Write it for an employer who has never seen this assignment.
 
-## Getting started
+---
 
-**Step 1 — Get your own copy.** On this repo's GitHub page, click **"Use
-this template" → "Create a new repository"** (not **Fork**) — this gives
-you a clean copy with no "forked from" badge, the right choice for a
-portfolio project. Fork keeps a network link back to this template, meant
-for contributing back upstream, not for an independent assignment.
+## Setup
 
-**Step 2 — Install what you need.**
-- Python 3, if you don't already have it.
-- The [Jupyter extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), if you don't already have it — this is how you'll open and run `starter/analysis.ipynb`.
-- `pandas`, `matplotlib`, and whichever visualization library you decide
-  to use (seaborn and/or plotly are both reasonable choices, or stick
-  with matplotlib/pandas' own `.plot()`) — `pip install` each as you need
-  it. **`requirements.txt` is yours to write, not given** — see that
-  file's own instructions; fill in the real packages/versions you end up
-  using before your final commit, not before you've started.
-- An AI assistant that accepts **image uploads** (the same Claude/ChatGPT-
-  style tool you already use — confirm it can take an image before Part 5
-  of the notebook, not the night this is due).
+### 1. Start in a new folder
 
-**Step 3 — Clone your copy locally** and open it in VS Code:
+Work in a folder that is **not** inside an existing git repo. Check with:
+
 ```bash
-git clone <your-new-repo-url>
+git status
 ```
 
-**Step 4 — Confirm your environment is already set up.** This module
-doesn't test git/environment setup, so `.gitignore` and `LICENSE` are
-already in this repo, with real git history already in place — nothing to
-build yourself here. **Do open `LICENSE`, though**, and replace the
-`[YOUR NAME]` placeholder with your actual name, then commit that change —
-easy to miss precisely because the file already exists and nothing else
-prompts you to open it.
+You want `fatal: not a git repository`. If you see a branch name, `cd`
+somewhere else first.
 
-## Choose your domain
+### 2. Use the template, not Fork
 
-Read `SCENARIOS.md` and pick **one** of 4 business domains (finance &
-insurance, healthcare operations, public sector, or professional
-services) — each has a real stakeholder, a real business problem, and its
-own data file (three are real government data; one is clearly-labeled
-synthetic — see `data/SOURCE.md`). Everyone works from the same starter
-notebook and the same required bar; the domain changes what you're
-looking at, not what's required.
+On this repo's GitHub page, click **"Use this template" → "Create a new
+repository."** Don't Fork. Name it something like `flood-claims-eda`
+and keep it **public**. Then clone **your** new repo and `cd` into it.
 
-## What to do
+### 3. Check `.gitignore`
 
-Open `starter/analysis.ipynb` in VS Code and work through it top to
-bottom. **Almost no code is given** — this notebook gives you structure
-and asks questions; deciding which pandas method, which chart type, and
-which visualization tool (matplotlib, seaborn, plotly, or pandas' own
-`.plot()`) actually fits each question is part of the assignment. Real
-data cleaning and a real imputation decision are required, and at least
-one repeated operation needs to become a real function, not copy-pasted
-code. When the notebook's done, write `starter/memo.md`. See
-`CHECKLIST_TIMELINE.md` for the day-by-day pace and your instructor's
-shared checklist for the full required scope. Commit incrementally as
-you go — a `git commit` after Part 2's cleaning is done, another after
-Part 4's charts, not one commit at the very end.
+Confirm it has these lines, or create it with them:
 
-## Before you submit: rewrite this file
+```
+.DS_Store
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+```
 
-Everything above is setup instructions — useful before you start, not what
-anyone should see landing on your finished repo. **Once your analysis is
-done, replace this entire file's content** with your own project README:
-your scenario, a data overview, a statistical summary, your
-visualizations (real chart images, not just descriptions), and your
-takeaways. Your instructor's shared checklist has exactly what's
-required.
+- `.DS_Store` and `.vscode/`: Mac and VS Code files, not part of your
+  project.
+- `__pycache__/`: files Python generates when it runs.
+- `.ipynb_checkpoints/`: Jupyter's autosave copies of your notebook.
+- `.venv/` and `venv/`: your virtual environment (step 5). It's large and
+  anyone can rebuild it from `requirements.txt`.
 
-**Where's the exact bar for "done," and what are the optional stretch
-goals?** This repo (your own copy) doesn't include `MVP.md` (your
-**M**inimum **V**iable **P**roduct — the required baseline) or
-`ABOVE_AND_BEYOND.md` on purpose — they're not something to keep sitting
-in your portfolio repo. Find them on the original template repo you
-created yours from — switch to its `project-scope` branch (on the
-*template's* GitHub page, not your own copy) — or use the MVP checklist in
-the LMS, which covers the same ground.
+Don't ignore `images/`. Your README needs the charts in it.
+
+### 4. Put your name on the LICENSE
+
+`LICENSE` is the MIT License, which lets others reuse your work with
+credit. Replace `[YOUR NAME]` with your name and commit:
+
+```bash
+git add LICENSE
+git commit -m "add my name to LICENSE"
+```
+
+### 5. Install the packages
+
+From your repo's top folder:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Open `starter/analysis.ipynb` in VS Code. Click **Select Kernel** in the
+top right and choose the `.venv` Python. Run the first code cell to
+confirm pandas loads.
+
+## The project
+
+- Pick your domain in `SCENARIOS.md` and delete the other 3 data files in
+  `data/`.
+- Follow `CHECKLIST_TIMELINE.md` day by day. `RUBRIC.md` shows how it's
+  graded. The MVP checklist is also in the LMS.
+- Do your analysis in `starter/analysis.ipynb`. The notebook reads data
+  from `../data/` and saves charts to `../images/`.
+- Before every commit, run **Restart and Run All** to make sure the
+  notebook works from top to bottom.
+
+## Before you submit
+
+Your final repo is for employers, not for school. Before your final push:
+
+- Delete `CHECKLIST_TIMELINE.md`, `RUBRIC.md`, `SCENARIOS.md`, and
+  `PROJECT_OVERVIEW.md`. They're school-facing and stay in the LMS.
+- Rename the `starter` folder to `analysis`:
+
+  ```bash
+  git mv starter analysis
+  ```
+
+  The notebook's `../data/` and `../images/` paths still work after the
+  rename.
+- Replace this README with your own, using the sections at the top.
