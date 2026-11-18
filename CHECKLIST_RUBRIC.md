@@ -50,7 +50,7 @@ MVP checklist in the LMS.
 - [ ] **Share-out deck:** a 3-5 minute slide deck built from your
   README, memo and reflection, in any slide tool (Google Slides,
   PowerPoint, Canva, Keynote), saved as `project/presentation.pdf`.
-  Presented on Day 5. Not graded.
+  Presented on Day 5 and graded under `presentations`.
 
 ## Above & Beyond (optional)
 
@@ -185,7 +185,9 @@ You present your analysis to a small group as if they were your
 stakeholder: **3-5 minutes**, then 2 minutes of questions. Your deck is
 built from writing you've already done, so you're reshaping, not
 starting over. Any slide tool works (Google Slides, PowerPoint, Canva,
-Keynote); you present from the tool or from the PDF.
+Keynote); you present from the tool or from the PDF. The deck and talk
+are graded under `presentations` in the rubric below. If you're absent on
+Day 5, record the talk instead.
 
 **Your slides, in this order:**
 
@@ -216,11 +218,12 @@ To prepare:
 
 **Point scale:** Below Expectations = 1, Approaching = 2, Meets = 4,
 Exceeds = 5 (extra credit; most Exceeds levels require Above & Beyond
-work). 9 skills × 4 points = **36 points at Meets**.
+work). 10 skills × 4 points = **40 points at Meets**.
 
 Your instructor grades `analysis.ipynb`, `memo.md`, `REFLECTION.md`, your
-rewritten `README.md`, and your commit history together. Exceeds levels
-point to the Above & Beyond section above. The Day 5 share-out and its deck are practice and aren't graded.
+rewritten `README.md`, your commit history, and your Day 5 share-out deck
+and talk together. Exceeds levels point to the Above & Beyond section
+above.
 
 You're graded on your reasoning: why a method, statistic, or chart fits
 the question, not just whether the code runs.
@@ -317,6 +320,19 @@ can understand it.*
 | **Approaching** | 2 | The README is missing a required section, the memo buries the answer, or instruction blocks and `TODO`s are left in the notebook. |
 | **Below Expectations** | 1 | The README is still the template's setup instructions, or most sections are missing. |
 
+#### `presentations`
+
+*Presenting the finished analysis live, from a short deck, to someone who
+needs the answer. Graded at an introductory bar: this is your first
+graded presentation.*
+
+| Level | Points | Criteria |
+|---|---|---|
+| **Exceeds** | 5 | Meets, plus the answer to the stakeholder's Data Trust question uses a specific check or number from the Fellow's own analysis, or the Fellow revises the deck from feedback and pushes the new PDF. |
+| **Meets** | 4 | `project/presentation.pdf` has all 8 slides in order, with the answer and its number on the slide right after the title. Its numbers match the README, each chart's title states a finding, and slides hold a few words, not README paragraphs. The talk runs 3-5 minutes, opens with the finding rather than the method, doesn't read off the slides, and answers the stakeholder's question directly. |
+| **Approaching** | 2 | The deck is missing 1-2 slides, the answer comes only after the method, slides are paragraphs read aloud, or the talk runs under 3 or over 5 minutes. |
+| **Below Expectations** | 1 | No deck is pushed, or the talk has no clear finding. |
+
 ---
 
 ### AI Skills
@@ -348,7 +364,7 @@ holds up.*
 
 *Did you ask the AI well, and check what it gave you?* This covers
 `REFLECTION.md`'s "One real AI prompt, checked" section. It's scored and
-you get feedback on it, but it doesn't count toward the 36 points. Didn't
+you get feedback on it, but it doesn't count toward the 40 points. Didn't
 use AI? You can still earn Meets: write the prompt you would have used,
 label it "not sent," and run the same check on your own work.
 
