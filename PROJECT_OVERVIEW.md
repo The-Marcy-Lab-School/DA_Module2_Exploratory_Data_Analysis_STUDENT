@@ -139,8 +139,11 @@ least two QAR notes in `starter/REFLECTION.md`:
 - The notebook made employer-facing: every instruction block and `TODO`
   deleted.
 - School-facing files deleted and `starter/` renamed to `project/`.
-- **Day 5 share-out:** a pair repo review and a 90-second walkthrough.
-  No slides.
+- `project/presentation.pdf`: a 3-5 minute share-out deck built from
+  your README, memo and reflection. Make it in any slide tool (Google
+  Slides, PowerPoint, Canva, Keynote) and export it as a PDF.
+- **Day 5 share-out:** present your deck to a small group, then take
+  questions.
 
 ## Skills you'll practice
 

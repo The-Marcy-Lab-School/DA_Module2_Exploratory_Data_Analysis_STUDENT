@@ -47,8 +47,10 @@ MVP checklist in the LMS.
   `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
 - [ ] **Public GitHub repo** with at least 4 commits, each with a
   descriptive message that says what changed.
-- [ ] **Day 5 share-out:** a pair repo review and a 90-second BLUF
-  answer. Not graded.
+- [ ] **Share-out deck:** a 3-5 minute slide deck built from your
+  README, memo and reflection, in any slide tool (Google Slides,
+  PowerPoint, Canva, Keynote), saved as `project/presentation.pdf`.
+  Presented on Day 5. Not graded.
 
 ## Above & Beyond (optional)
 
@@ -167,26 +169,46 @@ blocking me?
   They're school-facing and stay in the LMS.
 - [ ] Rename the folder: `git mv starter project`. Run the notebook once
   more from `project/` to confirm it still works.
+- [ ] Build your share-out deck using the slide list under Day 5. Use any
+  slide tool you like: Google Slides, PowerPoint, Canva, or Keynote.
+  Export it as a PDF to `project/presentation.pdf`:
+  - Google Slides: **File > Download > PDF Document**
+  - PowerPoint: **File > Save As** (or **Export**), then choose PDF
+  - Canva: **Share > Download**, then choose **PDF Standard**
+  - Keynote: **File > Export To > PDF**
 - [ ] Final push. Open your repo in a private browser window to confirm
   it's public and the chart shows in the README.
 
 ### Day 5: Share-out
 
-No slides. You'll do two things in class, in TIP style:
+You present your analysis to a small group as if they were your
+stakeholder: **3-5 minutes**, then 2 minutes of questions. Your deck is
+built from writing you've already done, so you're reshaping, not
+starting over. Any slide tool works (Google Slides, PowerPoint, Canva,
+Keynote); you present from the tool or from the PDF.
 
-- **Pair repo review:** you and a partner review each other's repo against
-  a checklist your instructor hands out, then trade one strength and one
-  fix.
-- **Beat the Buzzer:** answer "What did you find?" in 90 seconds using
-  BLUF (Bottom Line Up Front): your answer and its number first, then the
-  evidence, then one caveat. Your instructor stops you at 110 seconds.
-  Classmates score you, and you try again.
+**Your slides, in this order:**
+
+| Slide | What goes on it | Where it comes from |
+|---|---|---|
+| Title | The name of your analysis and your name | README title |
+| BLUF | Your answer and its number, in one sentence | Memo's first line |
+| Stakeholder | Who they are and what decision they face | README |
+| Business problem | The question you answered | README |
+| Statistical findings | Your key numbers, and the statistic that fits the shape | README statistical summary |
+| Analysis and charts | 1-2 charts, each with a title that states a finding | `images/` |
+| Recommendations | What the stakeholder should do, tied to a number | README recommendations |
+| How AI was used | What you asked, and how you checked the answer | `REFLECTION.md` |
+
+Keep each slide to one idea and a few words. Say the rest.
 
 To prepare:
 
-- [ ] Your README's findings and recommendations are your talking points.
-  Rehearse your BLUF answer once with a 90-second timer.
-- [ ] After the share-out, push any fixes your partner found.
+- [ ] Export your deck to `project/presentation.pdf` and push it.
+- [ ] Rehearse once with a 5-minute timer. Your BLUF slide should be
+  done by the 1-minute mark.
+- [ ] Have one answer ready for "How much should I trust that number?"
+- [ ] After the share-out, push any fixes your group found.
 
 ---
 
@@ -198,7 +220,7 @@ work). 9 skills × 4 points = **36 points at Meets**.
 
 Your instructor grades `analysis.ipynb`, `memo.md`, `REFLECTION.md`, your
 rewritten `README.md`, and your commit history together. Exceeds levels
-point to the Above & Beyond section above. The Day 5 share-out is practice and isn't graded.
+point to the Above & Beyond section above. The Day 5 share-out and its deck are practice and aren't graded.
 
 You're graded on your reasoning: why a method, statistic, or chart fits
 the question, not just whether the code runs.
