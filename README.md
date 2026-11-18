@@ -8,8 +8,8 @@
   asked, and why it matters to them.
 - **Data:** where it's from, how big it is, what one row is, and what you
   cleaned.
-- **Analysis:** what you did and why: your cleaning decisions, the
-  feature you added, and the statistics you chose for the data's shape.
+- **Analysis:** what you did and why: your cleaning decisions and the
+  cleaning function(s) you wrote, the feature you added, and the statistics you chose for the data's shape.
 - **Statistical summary:** a table of the summary statistics for your
   key variables (count, mean, median, standard deviation, min, max), and
   one or two sentences on what the shape of the data means for which
