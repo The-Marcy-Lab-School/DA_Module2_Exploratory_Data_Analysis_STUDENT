@@ -348,3 +348,5 @@ label it "not sent," and run the same check on your own work.
 8. Computing statistics before handling placeholder values.
 9. Describing a chart in your README instead of embedding the image.
 10. Reporting only the overall number without checking every group.
+11. Using the same chart type for everything instead of the one that fits
+    the variable and the question.
