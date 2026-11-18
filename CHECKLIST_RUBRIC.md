@@ -36,13 +36,17 @@ MVP checklist in the LMS.
   the link to trust.
 - [ ] **`REFLECTION.md`:** QAR assumptions and one real AI prompt,
   checked.
-- [ ] **Notebook runs** with Restart and Run All, with the "Questions"
-  section deleted.
+- [ ] **Notebook runs** with Restart and Run All.
+- [ ] **Notebook is employer-facing:** every instruction block, `TODO`,
+  and the "Questions" section deleted, with your own explanation in every
+  section.
 - [ ] **Your own `README.md`** with every section listed at the top of
-  the template README, and at least one chart embedded from `images/`.
-- [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md` deleted, and `starter/`
-  renamed to `analysis/`.
-- [ ] **Public GitHub repo** with at least 4 commits with clear messages.
+  the template README (including Recommendations and How AI was used),
+  and at least one chart embedded from `images/`.
+- [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and
+  `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
+- [ ] **Public GitHub repo** with at least 4 commits, each with a
+  descriptive message that says what changed.
 - [ ] **Day 5 share-out:** a pair repo review and a 90-second BLUF
   answer. Not graded.
 
@@ -96,12 +100,14 @@ me?
   3 data files.
 - [ ] Read your file's section in `data/SOURCE.md`.
 - [ ] Write at least 2 QAR assumptions in `starter/REFLECTION.md`.
-- [ ] Fill in "Your scenario" in the notebook.
+- [ ] Fill in "Stakeholder and business problem" in the notebook.
 - [ ] **Part 1:** inspect shape, data types, missing values, and duplicate
   rows. Write down what you found.
   - Common mistake: guessing a column's type from its name instead of
     checking.
-- [ ] Commit: `git commit -m "inspect [domain] data"`.
+- [ ] Commit with a descriptive message, such as
+  `git commit -m "Inspect flood claims data: dtypes, blanks, duplicates"`.
+  Messages like `update` or `final` don't tell an employer anything.
 
 ### Day 2: Clean, add a feature, profile
 
@@ -128,8 +134,7 @@ me?
 - [ ] **Part 5:** save a chart to `images/`, get an AI's read of it, paste
   it word for word, and judge each claim against your numbers.
 - [ ] **Part 5b:** ask an AI to suggest a chart and judge its type and
-  accuracy. If it gives you code, recall the AI audit checklist
-  from class: rows before and after, one number checked by hand, data
+  accuracy. If it gives you code, audit it: rows before and after, one number checked by hand, data
   types, what got dropped or filled, and whether the statistic fits the
   shape. If the code merges or filters, also predict the row count first,
   count any blanks a merge adds, and test an edge case.
@@ -143,18 +148,22 @@ me?
 - [ ] **Part 7:** explain the standard deviation of your key variable.
 - [ ] Write `starter/memo.md` and finish `starter/REFLECTION.md`, including
   "One real AI prompt, checked."
-- [ ] Delete the "Questions my analysis can answer" section from the
-  notebook.
+- [ ] Make the notebook employer-facing: delete every **Instructions
+  (delete before you submit)** block, every `TODO`, and the "Questions my
+  analysis can answer" section. Replace them with your own explanations.
+  Read it top to bottom as a hiring manager would.
 - [ ] Run **Restart and Run All** and confirm every cell runs with no
   errors.
 - [ ] Replace `README.md` with your own, using the sections listed at its
-  top. Embed at least one chart from `images/` with
+  top: title and summary, stakeholder and business problem, data,
+  analysis, findings, recommendations, how AI was used, and how to run
+  it. Embed at least one chart from `images/` with
   `![caption](images/chart_name.png)`.
   - Common mistake: describing a chart in words instead of embedding it.
-- [ ] Delete `CHECKLIST_RUBRIC.md` (this file) and `PROJECT_OVERVIEW.md`. They're school-facing and stay
-  in the LMS.
-- [ ] Rename the folder: `git mv starter analysis`. Run the notebook once
-  more from `analysis/` to confirm it still works.
+- [ ] Delete `CHECKLIST_RUBRIC.md` (this file) and `PROJECT_OVERVIEW.md`.
+  They're school-facing and stay in the LMS.
+- [ ] Rename the folder: `git mv starter project`. Run the notebook once
+  more from `project/` to confirm it still works.
 - [ ] Final push. Open your repo in a private browser window to confirm
   it's public and the chart shows in the README.
 
@@ -172,7 +181,7 @@ No slides. You'll do two things in class, in TIP style:
 
 To prepare:
 
-- [ ] Your README's takeaways are your talking points. Say your answer
+- [ ] Your README's findings and recommendations are your talking points. Say your answer
   out loud once, with a timer.
 - [ ] After the share-out, push any fixes your partner found.
 
@@ -279,8 +288,8 @@ can understand it.*
 | Level | Points | Criteria |
 |---|---|---|
 | **Exceeds** | 5 | Meets, plus the README and memo read as useful to a real stakeholder: specific numbers, a clear recommendation, no unexplained jargon. |
-| **Meets** | 4 | `README.md` is fully rewritten with every required section, including an embedded chart. `memo.md` leads with a plain-language answer. School-facing files are deleted and `starter/` is renamed to `analysis/`. |
-| **Approaching** | 2 | The README is missing a required section, or the memo buries the answer. |
+| **Meets** | 4 | `README.md` is fully rewritten with every required section, including recommendations, how AI was used, and an embedded chart. `memo.md` leads with a plain-language answer. The notebook is employer-facing: no instruction blocks or `TODO`s are left, and every section has the Fellow's own explanation. School-facing files are deleted, `starter/` is renamed to `project/`, and commit messages describe what changed. |
+| **Approaching** | 2 | The README is missing a required section, the memo buries the answer, or instruction blocks and `TODO`s are left in the notebook. |
 | **Below Expectations** | 1 | The README is still the template's setup instructions, or most sections are missing. |
 
 ---

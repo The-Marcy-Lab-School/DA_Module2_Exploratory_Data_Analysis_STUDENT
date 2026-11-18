@@ -135,8 +135,10 @@ least two QAR notes in `starter/REFLECTION.md`:
   checked.
 - Charts saved in `images/`, at least one embedded in your README.
 - Your own `README.md` replacing this template's.
-- At least 4 commits with clear messages.
-- School-facing files deleted and `starter/` renamed to `analysis/`.
+- At least 4 commits with descriptive messages.
+- The notebook made employer-facing: every instruction block and `TODO`
+  deleted.
+- School-facing files deleted and `starter/` renamed to `project/`.
 - **Day 5 share-out:** a pair repo review and a 90-second walkthrough.
   No slides.
 
