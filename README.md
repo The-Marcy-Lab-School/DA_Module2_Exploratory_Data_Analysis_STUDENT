@@ -2,20 +2,24 @@
 
 **Replace this README before submitting your final project with:**
 
-- **Title and one-line summary:** what you analyzed and for whom.
-- **Scenario:** your stakeholder and their business problem.
-- **Data overview:** what the data is, where it's from, how big it is,
-  and what you had to clean.
-- **Statistical summary:** your key numbers, and why you trust the mean
-  or the median for each.
-- **Visualizations:** at least one real chart image embedded from
-  `images/`, with a one-line caption.
-- **Takeaways:** your answer to the stakeholder, plus one caveat.
+- **Title and one-line summary:** what you analyzed, for whom, and the
+  headline finding.
+- **Stakeholder and business problem:** who needs the answer, what they
+  asked, and why it matters to them.
+- **Data:** where it's from, how big it is, what one row is, and what you
+  cleaned.
+- **Analysis:** what you did and why: your cleaning decisions, the
+  feature you added, and the statistics you chose for the data's shape.
+- **Findings:** your key numbers, with at least one chart embedded from
+  `images/` and a one-line caption.
+- **Recommendations:** what the stakeholder should do, plus one caveat on
+  how far to trust it.
+- **How AI was used:** where you used AI, what it got right or wrong, and
+  how you checked it.
 - **How to run it:** the exact setup and run steps.
 
-Five of these are the README sections you practiced in class. The title line and
-"How to run it" are added so the README works for an employer who has
-never seen this assignment.
+Write it for an employer who has never seen this assignment and will skim
+it in under a minute.
 
 ---
 
@@ -100,13 +104,20 @@ confirm pandas loads.
 
 Your final repo is for employers, not for school. Before your final push:
 
-- Delete `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md`. They're school-facing and stay in the LMS.
-- Rename the `starter` folder to `analysis`:
+- Delete `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md`. They're
+  school-facing and stay in the LMS.
+- Make the notebook employer-facing. Delete every
+  **Instructions (delete before you submit)** block, every `TODO`, and the
+  "Questions my analysis can answer" section. Replace them with your own
+  explanations, so the notebook reads like a finished analysis.
+- Rename the `starter` folder to `project`:
 
   ```bash
-  git mv starter analysis
+  git mv starter project
   ```
 
   The notebook's `../data/` and `../images/` paths still work after the
   rename.
 - Replace this README with your own, using the sections at the top.
+- Keep committing with descriptive messages that say what changed, such
+  as `Clean payment columns and add total_paid`, not `update` or `final`.
