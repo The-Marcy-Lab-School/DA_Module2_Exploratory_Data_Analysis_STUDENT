@@ -41,7 +41,7 @@ MVP checklist in the LMS.
   and the "Questions" section deleted, with your own explanation in every
   section.
 - [ ] **Your own `README.md`** with every section listed at the top of
-  the template README (including Recommendations and How AI was used),
+  the template README (including Statistical summary, Recommendations, and How AI was used),
   and at least one chart embedded from `images/`.
 - [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and
   `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
@@ -156,8 +156,8 @@ me?
   errors.
 - [ ] Replace `README.md` with your own, using the sections listed at its
   top: title and summary, stakeholder and business problem, data,
-  analysis, findings, recommendations, how AI was used, and how to run
-  it. Embed at least one chart from `images/` with
+  analysis, statistical summary, findings, recommendations, how AI was
+  used, and how to run it. Embed at least one chart from `images/` with
   `![caption](images/chart_name.png)`.
   - Common mistake: describing a chart in words instead of embedding it.
 - [ ] Delete `CHECKLIST_RUBRIC.md` (this file) and `PROJECT_OVERVIEW.md`.
@@ -288,7 +288,7 @@ can understand it.*
 | Level | Points | Criteria |
 |---|---|---|
 | **Exceeds** | 5 | Meets, plus the README and memo read as useful to a real stakeholder: specific numbers, a clear recommendation, no unexplained jargon. |
-| **Meets** | 4 | `README.md` is fully rewritten with every required section, including recommendations, how AI was used, and an embedded chart. `memo.md` leads with a plain-language answer. The notebook is employer-facing: no instruction blocks or `TODO`s are left, and every section has the Fellow's own explanation. School-facing files are deleted, `starter/` is renamed to `project/`, and commit messages describe what changed. |
+| **Meets** | 4 | `README.md` is fully rewritten with every required section, including a statistical summary, recommendations, how AI was used, and an embedded chart. `memo.md` leads with a plain-language answer. The notebook is employer-facing: no instruction blocks or `TODO`s are left, and every section has the Fellow's own explanation. School-facing files are deleted, `starter/` is renamed to `project/`, and commit messages describe what changed. |
 | **Approaching** | 2 | The README is missing a required section, the memo buries the answer, or instruction blocks and `TODO`s are left in the notebook. |
 | **Below Expectations** | 1 | The README is still the template's setup instructions, or most sections are missing. |
 

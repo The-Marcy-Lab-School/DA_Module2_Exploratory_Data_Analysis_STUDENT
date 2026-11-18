@@ -10,6 +10,10 @@
   cleaned.
 - **Analysis:** what you did and why: your cleaning decisions, the
   feature you added, and the statistics you chose for the data's shape.
+- **Statistical summary:** a table of the summary statistics for your
+  key variables (count, mean, median, standard deviation, min, max), and
+  one or two sentences on what the shape of the data means for which
+  number to trust.
 - **Findings:** your key numbers, with at least one chart embedded from
   `images/` and a one-line caption.
 - **Recommendations:** what the stakeholder should do, plus one caveat on
