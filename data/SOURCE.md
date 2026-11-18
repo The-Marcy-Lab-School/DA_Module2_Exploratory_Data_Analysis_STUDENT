@@ -1,6 +1,6 @@
 # Data Sources
 
-Four files, one per domain in `SCENARIOS.md`. Three are real
+Four files, one per domain in `PROJECT_OVERVIEW.md`. Three are real
 government data, trimmed to the columns below but otherwise left as
 published, problems included. One, `professional_services.csv`, is
 synthetic, because real billed-hours data isn't public.

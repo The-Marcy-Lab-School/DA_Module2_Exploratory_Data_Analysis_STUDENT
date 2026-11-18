@@ -86,10 +86,10 @@ confirm pandas loads.
 
 ## The project
 
-- Pick your domain in `SCENARIOS.md` and delete the other 3 data files in
+- Pick your domain in `PROJECT_OVERVIEW.md` and delete the other 3 data files in
   `data/`.
-- Follow `CHECKLIST_TIMELINE.md` day by day. `RUBRIC.md` shows how it's
-  graded. The MVP checklist is also in the LMS.
+- Follow `CHECKLIST_RUBRIC.md` day by day. The rubric at the bottom of
+  that file shows how it's graded. The MVP checklist is also in the LMS.
 - Do your analysis in `starter/analysis.ipynb`. The notebook reads data
   from `../data/` and saves charts to `../images/`.
 - Before every commit, run **Restart and Run All** to make sure the
@@ -99,8 +99,7 @@ confirm pandas loads.
 
 Your final repo is for employers, not for school. Before your final push:
 
-- Delete `CHECKLIST_TIMELINE.md`, `RUBRIC.md`, `SCENARIOS.md`, and
-  `PROJECT_OVERVIEW.md`. They're school-facing and stay in the LMS.
+- Delete `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md`. They're school-facing and stay in the LMS.
 - Rename the `starter` folder to `analysis`:
 
   ```bash
