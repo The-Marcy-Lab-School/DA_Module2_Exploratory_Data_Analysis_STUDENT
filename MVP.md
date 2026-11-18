@@ -33,7 +33,7 @@ grading detail.
   and the "Questions" section deleted, with your own explanation in every
   section.
 - [ ] **Your own `README.md`** with every section listed at the top of
-  the template README (including Recommendations and How AI was used),
+  the template README (including Statistical summary, Recommendations, and How AI was used),
   and at least one chart embedded from `images/`.
 - [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and
   `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
