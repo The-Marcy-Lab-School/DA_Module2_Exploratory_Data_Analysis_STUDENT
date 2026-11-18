@@ -51,10 +51,10 @@ me?
 - [ ] **Part 5:** save a chart to `images/`, get an AI's read of it, paste
   it word for word, and judge each claim against your numbers.
 - [ ] **Part 5b:** ask an AI to suggest a chart and judge its type and
-  accuracy. If it gives you code, audit it with Day 6's checklist:
-  rows before and after, one number checked by hand, data types, what got
-  dropped or filled, and whether the statistic fits the shape. If the code
-  merges or filters, add Day 14's checks: predict the row count first,
+  accuracy. If it gives you code, recall the AI audit checklist
+  from class: rows before and after, one number checked by hand, data
+  types, what got dropped or filled, and whether the statistic fits the
+  shape. If the code merges or filters, also predict the row count first,
   count any blanks a merge adds, and test an edge case.
 - [ ] Commit and push. You should have at least 4 commits on GitHub by
   the end of Day 3.
@@ -127,5 +127,5 @@ paste in the task and copy the answer. Note what you looked up in
   given script, `above_and_beyond/pandas_preview.py`. Copy it into your
   repo's top folder, set the two column names at the top, run it, and
   compare its table to your findings in `memo.md`. It combines `pd.qcut`
-  (from the Day 13 lab) and `.unstack()` (Day 12) in a new way. Start here:
+  and `.unstack()`, which you may recall from class, in a new way. Start here:
   [pandas: `pd.qcut`](https://pandas.pydata.org/docs/reference/api/pandas.qcut.html).

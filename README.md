@@ -13,7 +13,7 @@
 - **Takeaways:** your answer to the stakeholder, plus one caveat.
 - **How to run it:** the exact setup and run steps.
 
-Five of these are the README sections from Day 12. The title line and
+Five of these are the README sections you practiced in class. The title line and
 "How to run it" are added so the README works for an employer who has
 never seen this assignment.
 
