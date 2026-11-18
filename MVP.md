@@ -1,9 +1,9 @@
 # MVP: Minimum Bar
 
-This is the same list as the MVP checklist in the LMS. `RUBRIC.md` has the
-full grading detail.
+This is the same list as the MVP checklist in the LMS. The rubric at the bottom of
+`CHECKLIST_RUBRIC.md` has the full grading detail.
 
-- [ ] **Domain chosen** from `SCENARIOS.md`, other 3 data files deleted.
+- [ ] **Domain chosen** from `PROJECT_OVERVIEW.md`, other 3 data files deleted.
 - [ ] **Assumptions:** at least 2 QAR notes in `REFLECTION.md`.
 - [ ] **Part 1:** shape, data types, missing values, and duplicate rows
   checked.
@@ -31,8 +31,7 @@ full grading detail.
   section deleted.
 - [ ] **Your own `README.md`** with every section listed at the top of
   the template README, and at least one chart embedded from `images/`.
-- [ ] **Clean submission:** `CHECKLIST_TIMELINE.md`, `RUBRIC.md`,
-  `SCENARIOS.md`, and `PROJECT_OVERVIEW.md` deleted, and `starter/`
+- [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md` deleted, and `starter/`
   renamed to `analysis/`.
 - [ ] **Public GitHub repo** with at least 4 commits with clear messages.
 - [ ] **Day 5 share-out:** a pair repo review and a 90-second BLUF
