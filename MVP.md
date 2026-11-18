@@ -39,5 +39,7 @@ grading detail.
   `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
 - [ ] **Public GitHub repo** with at least 4 commits, each with a
   descriptive message that says what changed.
-- [ ] **Day 5 share-out:** a pair repo review and a 90-second BLUF
-  answer. Not graded.
+- [ ] **Share-out deck:** a 3-5 minute slide deck built from your
+  README, memo and reflection, in any slide tool (Google Slides,
+  PowerPoint, Canva, Keynote), saved as `project/presentation.pdf`.
+  Presented on Day 5. Not graded.
