@@ -1,7 +1,8 @@
 # MVP: Minimum Bar
 
-This is the same list as the MVP checklist in the LMS. The rubric at the bottom of
-`CHECKLIST_RUBRIC.md` has the full grading detail.
+This is the same list as the MVP checklist in the LMS and at the top of
+`CHECKLIST_RUBRIC.md`. The rubric at the bottom of that file has the full
+grading detail.
 
 - [ ] **Domain chosen** from `PROJECT_OVERVIEW.md`, other 3 data files deleted.
 - [ ] **Assumptions:** at least 2 QAR notes in `REFLECTION.md`.
@@ -27,12 +28,16 @@ This is the same list as the MVP checklist in the LMS. The rubric at the bottom 
   the link to trust.
 - [ ] **`REFLECTION.md`:** QAR assumptions and one real AI prompt,
   checked.
-- [ ] **Notebook runs** with Restart and Run All, with the "Questions"
-  section deleted.
+- [ ] **Notebook runs** with Restart and Run All.
+- [ ] **Notebook is employer-facing:** every instruction block, `TODO`,
+  and the "Questions" section deleted, with your own explanation in every
+  section.
 - [ ] **Your own `README.md`** with every section listed at the top of
-  the template README, and at least one chart embedded from `images/`.
-- [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md` deleted, and `starter/`
-  renamed to `analysis/`.
-- [ ] **Public GitHub repo** with at least 4 commits with clear messages.
+  the template README (including Recommendations and How AI was used),
+  and at least one chart embedded from `images/`.
+- [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and
+  `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
+- [ ] **Public GitHub repo** with at least 4 commits, each with a
+  descriptive message that says what changed.
 - [ ] **Day 5 share-out:** a pair repo review and a 90-second BLUF
   answer. Not graded.
