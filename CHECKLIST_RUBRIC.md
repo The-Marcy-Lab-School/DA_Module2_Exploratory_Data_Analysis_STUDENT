@@ -52,8 +52,8 @@ MVP checklist in the LMS.
 
 ## Above & Beyond (optional)
 
-Most of these go past what was taught in class. Research them yourself,
-starting from the links. A complete MVP without any of these is still a full,
+These use tools the MVP doesn't need. Research them yourself, starting
+from the links. A complete MVP without any of these is still a full,
 passing submission.
 
 **Use AI to learn, not to do it for you.** Ask it to explain a concept,
@@ -85,8 +85,8 @@ paste in the task and copy the answer. Note what you looked up in
 **4 build days, then a share-out day.** Work through the items in order.
 
 Start each build day with a 2-minute check-in. Answer three questions:
-What did I finish yesterday? What am I doing today? Is anything blocking
-me?
+What did I finish last build day? What will I finish today? Is anything
+blocking me?
 
 ### Day 1: Set up, choose, and inspect
 
@@ -181,8 +181,8 @@ No slides. You'll do two things in class, in TIP style:
 
 To prepare:
 
-- [ ] Your README's findings and recommendations are your talking points. Say your answer
-  out loud once, with a timer.
+- [ ] Your README's findings and recommendations are your talking points.
+  Rehearse your BLUF answer once with a 90-second timer.
 - [ ] After the share-out, push any fixes your partner found.
 
 ---

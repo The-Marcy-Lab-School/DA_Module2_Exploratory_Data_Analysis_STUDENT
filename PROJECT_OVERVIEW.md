@@ -13,7 +13,7 @@ with exploratory data analysis in a Jupyter notebook:
   non-obvious pattern across groups.
 - **Test an AI** in two directions: judge its read of your chart, and
   judge a chart it suggests.
-- **Communicate:** a findings memo for your stakeholder and a README an
+- **Communicate:** a data-quality memo for your stakeholder and a README an
   employer can read.
 
 ## Why it matters

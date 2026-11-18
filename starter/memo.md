@@ -1,4 +1,4 @@
-# Findings Memo
+# Data-Quality Memo
 
 **Author:** TODO
 
