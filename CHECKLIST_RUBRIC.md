@@ -116,6 +116,9 @@ blocking me?
   handle any placeholder values.
   - Common mistake: copy-pasting the same fix instead of writing a
     function.
+  - Tip: whenever you're about to fix the same kind of problem a second
+    time, write a function instead. More than one cleaning function is
+    welcome, and it's what employers look for.
   - Common mistake: dropping matching rows without checking whether
     they're separate records.
 - [ ] **Part 2b:** add at least one new column and check it.
@@ -247,7 +250,7 @@ code, and adding a feature that helps answer the question.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus the cleaning function takes a column as a parameter and is reused on several columns, or the Fellow tests how much a cleaning decision changes the answer (for example, the median with and without filled-in values). |
+| **Exceeds** | 5 | Meets, plus the cleaning function takes a column as a parameter and is reused on several columns, or the Fellow writes more than one cleaning function, each for a different fix, or the Fellow tests how much a cleaning decision changes the answer (for example, the median with and without filled-in values). |
 | **Meets** | 4 | All 4: (1) duplicate rows are counted, and the decision to drop or keep them is justified; (2) a `def` cleaning function fixes a real problem and is called at least twice; (3) at least one missing-value column gets a drop, fill, or flag decision justified by what the column means; (4) at least one new column is created, checked, and used in the analysis. Placeholder or impossible values (such as a $1 cost or negative hours) are handled before any statistics, where the file has them. |
 | **Approaching** | 2 | The function is called only once, a missing-value decision is stated but not justified, duplicates are dropped or kept without checking, or the new column is created but never checked or used. |
 | **Below Expectations** | 1 | Fixes are copy-pasted inline with no function, missing values are silently dropped everywhere, or no new column is created. |
