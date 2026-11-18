@@ -158,6 +158,8 @@ least two QAR notes in `starter/REFLECTION.md`:
   data, and judging an AI's chart claims against your own numbers.
 - **Stakeholder communication:** a memo and README for readers who won't
   open your notebook.
+- **Presentations:** a 3-5 minute talk from your deck on Day 5 that leads
+  with your answer and handles a stakeholder's question.
 
 ## Above & Beyond (optional)
 
