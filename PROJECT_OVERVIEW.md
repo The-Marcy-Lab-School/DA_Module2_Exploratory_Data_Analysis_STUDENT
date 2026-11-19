@@ -163,8 +163,9 @@ least two QAR notes in `starter/REFLECTION.md`:
 
 ## Above & Beyond (optional)
 
-The Above & Beyond section in `CHECKLIST_RUBRIC.md` has 5
-stretch items with starter links. None are required.
+The Above & Beyond section in `CHECKLIST_RUBRIC.md` has 10 stretch
+items, one for each rubric skill. Doing a skill's item on top of Meets
+earns Exceeds for that skill. None are required.
 
 ## Timeline
 
