@@ -63,24 +63,50 @@ show a small example on different data, or review code you wrote. Don't
 paste in the task and copy the answer. Note what you looked up in
 `REFLECTION.md`.
 
+Each item raises one rubric skill from Meets to Exceeds. The skill is in
+brackets.
+
+- [ ] **Answer a second domain's question** in a few sentences in
+  `memo.md`, using the same reasoning. Download that domain's file from
+  `data/` in the original template repo. [`statistical-analysis`]
 - [ ] **Profile a 4th variable** that adds something the first 3 don't.
+  [`data-distributions-shape`]
 - [ ] **Find a second non-obvious pattern** using a different grouping
   column or variable. Start here: [pandas: group by](https://pandas.pydata.org/docs/user_guide/groupby.html).
-- [ ] **Answer a second domain's question** in a few sentences in
-  `memo.md`. Download that domain's file from `data/` in the original
-  template repo.
+  Or split a numeric variable into tiers instead: the `project-scope`
+  branch of the original template has a given script,
+  `above_and_beyond/pandas_preview.py`. Copy it into your repo's top
+  folder, set the two column names at the top, run it, and compare its
+  table to your findings in `memo.md`. It combines `pd.qcut` and
+  `.unstack()`, which you may recall from class, in a new way. Start
+  here: [pandas: `pd.qcut`](https://pandas.pydata.org/docs/reference/api/pandas.qcut.html).
+  [`data-mining`]
+- [ ] **Stress-test your cleaning.** Write a second `def` cleaning
+  function for a different fix, and show how much one cleaning decision
+  changes your answer (for example, the median with and without
+  filled-in values). [`data-cleaning-imputation`]
+- [ ] **Revise one chart.** Keep the first draft, show the improved
+  version, and write a sentence on what the first one hid. Start here:
+  [matplotlib: quick start](https://matplotlib.org/stable/users/explain/quick_start.html).
+  [`data-visualization`]
 - [ ] **Check one of your memo questions for real.** Look it up in the
   data publisher's own documentation and write up whether it changed your
   confidence. Start here: [OpenFEMA](https://www.fema.gov/about/openfema/data-sets),
   [CMS Provider Data](https://data.cms.gov/provider-data/), or
-  [DataSF](https://data.sfgov.org/).
-- [ ] **Split a numeric variable into tiers and count each group in
-  each tier.** The `project-scope` branch of the original template has a
-  given script, `above_and_beyond/pandas_preview.py`. Copy it into your
-  repo's top folder, set the two column names at the top, run it, and
-  compare its table to your findings in `memo.md`. It combines `pd.qcut`
-  and `.unstack()`, which you may recall from class, in a new way. Start here:
-  [pandas: `pd.qcut`](https://pandas.pydata.org/docs/reference/api/pandas.qcut.html).
+  [DataSF](https://data.sfgov.org/). [`critical-thinking`]
+- [ ] **Write a 3-sentence executive summary** at the top of `memo.md`
+  for a reader with 30 seconds: your answer, one number, and one
+  recommendation. [`stakeholder-communication`]
+- [ ] **Revise your deck from Day 5 feedback.** Push the new
+  `project/presentation.pdf` by end of day, and add one sentence to
+  `REFLECTION.md` on what you changed and why. [`presentations`]
+- [ ] **Push back on the AI.** In Part 5, write a follow-up prompt about
+  a claim it got wrong or left vague, and judge its second answer the same
+  way. [`ai-as-critic`]
+- [ ] **Build the better chart.** In Part 5b, make the chart the AI
+  should have suggested, show it next to the AI's, and say what the
+  stakeholder would wrongly conclude from the AI's version.
+  [`ai-evaluation`]
 
 ## Day-by-day plan
 
@@ -217,8 +243,9 @@ To prepare:
 ## Rubric
 
 **Point scale:** Below Expectations = 1, Approaching = 2, Meets = 4,
-Exceeds = 5 (extra credit; most Exceeds levels require Above & Beyond
-work). 10 skills × 4 points = **40 points at Meets**.
+Exceeds = 5 (extra credit). Exceeds means Meets plus the Above & Beyond
+item for that skill; each Above & Beyond item names the skill it
+raises. 10 skills × 4 points = **40 points at Meets**.
 
 Your instructor grades `analysis.ipynb`, `memo.md`, `REFLECTION.md`, your
 rewritten `README.md`, your commit history, and your Day 5 share-out deck
@@ -239,7 +266,7 @@ real metric.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus answers a second domain's business problem with the same reasoning (Above & Beyond). |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: a second domain's business problem answered in `memo.md` with the same reasoning. |
 | **Meets** | 4 | Summary statistics are reported correctly throughout, with no mix-up between mean and median. Part 7 explains the standard deviation relative to the mean and what it means for the stakeholder's planning, using the Fellow's own numbers. |
 | **Approaching** | 2 | Numbers are correct, but the explanation is a textbook definition not tied to the Fellow's own metric. |
 | **Below Expectations** | 1 | Numbers are wrong or missing, or there's no interpretation. |
@@ -251,7 +278,7 @@ that only looks extreme.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus profiles a useful 4th variable (Above & Beyond). |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: a 4th variable profiled that adds something the first 3 don't. |
 | **Meets** | 4 | Part 3 profiles 3 numeric variables relevant to the stakeholder's problem. Each has summary statistics, a chart, and a shape and outlier call that matches what the chart and numbers show. The mean-or-median choice for each matches its shape. |
 | **Approaching** | 2 | A shape call doesn't match its chart or numbers for one variable, or the mean is used on a clearly skewed variable without comment. |
 | **Below Expectations** | 1 | A distribution is called "symmetric" or "normal" with no evidence, or fewer than 3 variables are profiled. |
@@ -263,7 +290,7 @@ that fits.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus a second non-obvious pattern from a different slice of the data (Above & Beyond). |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: a second non-obvious pattern from a different slice of the data, or the tiers script run and compared with the Fellow's findings. |
 | **Meets** | 4 | Part 4 has a `groupby` table that compares each group's value of the key statistic with the overall value and says whether any group differs. The finding is non-obvious, uses the statistic that fits the skew, and rests on groups large enough to trust. |
 | **Approaching** | 2 | The finding is trivial, the group-vs-overall comparison is asserted without per-group numbers, or a tiny group drives the finding without comment. |
 | **Below Expectations** | 1 | No finding of the Fellow's own, or no group-vs-overall comparison. |
@@ -275,7 +302,7 @@ code, and adding a feature that helps answer the question.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus the cleaning function takes a column as a parameter and is reused on several columns, or the Fellow writes more than one cleaning function, each for a different fix, or the Fellow tests how much a cleaning decision changes the answer (for example, the median with and without filled-in values). |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: a second `def` cleaning function for a different fix, and a test of how much one cleaning decision changes the answer (for example, the median with and without filled-in values). |
 | **Meets** | 4 | All 4: (1) duplicate rows are counted, and the decision to drop or keep them is justified; (2) a `def` cleaning function fixes a real problem and is called at least twice; (3) at least one missing-value column gets a drop, fill, or flag decision justified by what the column means; (4) at least one new column is created, checked, and used in the analysis. Placeholder or impossible values (such as a $1 cost or negative hours) are handled before any statistics, where the file has them. |
 | **Approaching** | 2 | The function is called only once, a missing-value decision is stated but not justified, duplicates are dropped or kept without checking, or the new column is created but never checked or used. |
 | **Below Expectations** | 1 | Fixes are copy-pasted inline with no function, missing values are silently dropped everywhere, or no new column is created. |
@@ -287,7 +314,7 @@ real chart in front of the reader. Introductory bar.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus one chart is revised after a first draft, with a sentence on what the first version hid. Or every README chart has a title that states its takeaway. |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: one chart revised after a first draft, with both versions shown and a sentence on what the first one hid. |
 | **Meets** | 4 | Every required chart has a title and labeled axes with units. Parts 3 and 4 use at least 2 chart types, and the Part 4 chart choice is justified in a sentence. The Part 5 chart is saved as an image. The README embeds at least one real chart image from `images/`. |
 | **Approaching** | 2 | Charts render, but axes are unlabeled, every chart is the same type, or the Part 4 choice isn't justified. |
 | **Below Expectations** | 1 | Required charts are missing, or the README describes a chart in words instead of embedding it. |
@@ -303,7 +330,7 @@ conclusion drawn from it.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus the Fellow tries to answer one memo question for real and writes up whether it changed their confidence (Above & Beyond). |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: one memo question checked against the publisher's documentation, with a write-up of whether it changed the Fellow's confidence. |
 | **Meets** | 4 | `memo.md` asks at least 2 specific questions a data steward could answer with a concrete fact, and connects at least one to whether the stakeholder should trust the answer. `REFLECTION.md` states at least 2 assumptions with Question, Assumption, Risk. |
 | **Approaching** | 2 | Questions are generic enough to fit almost any dataset, or the trust paragraph or the assumptions are missing. |
 | **Below Expectations** | 1 | Fewer than 2 real questions, or `memo.md` is missing or copied. |
@@ -315,7 +342,7 @@ can understand it.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus the README and memo read as useful to a real stakeholder: specific numbers, a clear recommendation, no unexplained jargon. |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: a 3-sentence executive summary at the top of `memo.md` that a busy reader could act on, with the answer, one number, and one recommendation. |
 | **Meets** | 4 | `README.md` is fully rewritten with every required section, including a statistical summary, recommendations, how AI was used, and an embedded chart. `memo.md` leads with a plain-language answer. The notebook is employer-facing: no instruction blocks or `TODO`s are left, and every section has the Fellow's own explanation. School-facing files are deleted, `starter/` is renamed to `project/`, and commit messages describe what changed. |
 | **Approaching** | 2 | The README is missing a required section, the memo buries the answer, or instruction blocks and `TODO`s are left in the notebook. |
 | **Below Expectations** | 1 | The README is still the template's setup instructions, or most sections are missing. |
@@ -328,7 +355,7 @@ graded presentation.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus the answer to the stakeholder's Data Trust question uses a specific check or number from the Fellow's own analysis, or the Fellow revises the deck from feedback and pushes the new PDF. |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: the deck revised from Day 5 feedback, with the new PDF pushed by end of day and one sentence in `REFLECTION.md` on what changed and why. |
 | **Meets** | 4 | `project/presentation.pdf` has all 8 slides in order, with the answer and its number on the slide right after the title. Its numbers match the README, each chart's title states a finding, and slides hold a few words, not README paragraphs. The talk runs 3-5 minutes, opens with the finding rather than the method, doesn't read off the slides, and answers the stakeholder's question directly. |
 | **Approaching** | 2 | The deck is missing 1-2 slides, the answer comes only after the method, slides are paragraphs read aloud, or the talk runs under 3 or over 5 minutes. |
 | **Below Expectations** | 1 | No deck is pushed, or the talk has no clear finding. |
@@ -344,7 +371,7 @@ holds up.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus a follow-up prompt that pushes the AI on a claim it got wrong or left vague, with the second answer judged the same way. |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: a follow-up prompt that pushes the AI on a claim it got wrong or left vague, with the second answer judged the same way. |
 | **Meets** | 4 | A chart the Fellow made is saved and uploaded. The AI's response is pasted word for word. Each claim in it (shape, center, outliers, pattern) is judged right, wrong, or uncheckable, quoting the Fellow's own number that settles it. |
 | **Approaching** | 2 | The judgment is generic ("mostly right") or by eye only, or the response is paraphrased. |
 | **Below Expectations** | 1 | Part 5 is missing, the AI's read is accepted as-is, or no real image was uploaded. |
@@ -355,7 +382,7 @@ holds up.*
 
 | Level | Points | Criteria |
 |---|---|---|
-| **Exceeds** | 5 | Meets, plus the Fellow names what the stakeholder would wrongly conclude from the AI's chart, or builds the better chart and shows the difference. |
+| **Exceeds** | 5 | Meets, plus the Above & Beyond item for this skill: the better chart built, shown next to the AI's, with what the stakeholder would wrongly conclude from the AI's version. |
 | **Meets** | 4 | The AI's suggestion is pasted and judged on two counts: is it the right chart type for the question and the variable's shape, and do its values and labels match the Fellow's own numbers? |
 | **Approaching** | 2 | Only one count is judged, or the verdict is based on looks ("it's clean"). |
 | **Below Expectations** | 1 | Part 5b is missing, or the AI's chart is adopted without evaluation. |
