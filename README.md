@@ -94,8 +94,8 @@ confirm pandas loads.
 
 ## The project
 
-- Pick your domain in `PROJECT_OVERVIEW.md` and delete the other 3 data files in
-  `data/`.
+- Pick your domain in `PROJECT_OVERVIEW.md` **and delete the other 3 data files in
+  `data/`**.
 - Open `CHECKLIST_RUBRIC.md`. The MVP checklist at the top is the
   minimum to pass (it's also in the LMS), then Above & Beyond, then a
   day-by-day plan, and the rubric at the bottom.
@@ -108,13 +108,16 @@ confirm pandas loads.
 
 Your final repo is for employers, not for school. Before your final push:
 
-- Delete `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md`. They're
+- **Delete `CHECKLIST_RUBRIC.md` and `PROJECT_OVERVIEW.md`.** They're
   school-facing and stay in the LMS.
-- Make the notebook employer-facing. Delete every
-  **Instructions (delete before you submit)** block, every `TODO`, and the
-  "Questions my analysis can answer" section. Replace them with your own
+- **Make the notebook employer-facing. Delete every
+  Instructions (delete before you submit) block, every `TODO`, and the
+  "Questions my analysis can answer" section.** Replace them with your own
   explanations, so the notebook reads like a finished analysis.
-- Rename the `starter` folder to `project`:
+- **Delete every Instructions (delete before you submit) block and every
+  `TODO` in `starter/memo.md` and `starter/REFLECTION.md`.** Keep the
+  headings and your answers.
+- **Rename the `starter` folder to `project`:**
 
   ```bash
   git mv starter project

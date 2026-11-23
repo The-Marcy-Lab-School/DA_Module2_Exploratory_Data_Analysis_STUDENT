@@ -12,7 +12,7 @@ This file has four parts:
 The minimum for a complete, passing project. It's the same list as the
 MVP checklist in the LMS.
 
-- [ ] **Domain chosen** from `PROJECT_OVERVIEW.md`, other 3 data files deleted.
+- [ ] **Domain chosen** from `PROJECT_OVERVIEW.md`, **other 3 data files deleted**.
 - [ ] **Assumptions:** at least 2 QAR notes in `REFLECTION.md`.
 - [ ] **Part 1:** shape, data types, missing values, and duplicate rows
   checked.
@@ -37,14 +37,16 @@ MVP checklist in the LMS.
 - [ ] **`REFLECTION.md`:** QAR assumptions and one real AI prompt,
   checked.
 - [ ] **Notebook runs** with Restart and Run All.
-- [ ] **Notebook is employer-facing:** every instruction block, `TODO`,
-  and the "Questions" section deleted, with your own explanation in every
+- [ ] **Notebook is employer-facing:** **every instruction block, `TODO`,
+  and the "Questions" section deleted**, with your own explanation in every
   section.
+- [ ] **Memo and reflection are clean:** **every Instructions block and
+  `TODO` deleted from `memo.md` and `REFLECTION.md`.**
 - [ ] **Your own `README.md`** with every section listed at the top of
   the template README (including Statistical summary, Recommendations, and How AI was used),
   and at least one chart embedded from `images/`.
-- [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and
-  `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
+- [ ] **Clean submission:** **`CHECKLIST_RUBRIC.md` and
+  `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.**
 - [ ] **Public GitHub repo** with at least 4 commits, each with a
   descriptive message that says what changed.
 - [ ] **Share-out deck:** a 3-5 minute slide deck built from your
@@ -121,8 +123,8 @@ blocking me?
 - [ ] Replace `[YOUR NAME]` in `LICENSE` and commit.
 - [ ] Confirm you have an AI assistant that accepts image uploads. You'll
   need it on Day 3.
-- [ ] Read all 4 domains in `PROJECT_OVERVIEW.md`. Pick one and delete the other
-  3 data files.
+- [ ] Read all 4 domains in `PROJECT_OVERVIEW.md`. **Pick one and delete the other
+  3 data files**.
 - [ ] Read your file's section in `data/SOURCE.md`.
 - [ ] Write at least 2 QAR assumptions in `starter/REFLECTION.md`.
 - [ ] Fill in "Stakeholder and business problem" in the notebook.
@@ -176,9 +178,12 @@ blocking me?
 - [ ] **Part 7:** explain the standard deviation of your key variable.
 - [ ] Write `starter/memo.md` and finish `starter/REFLECTION.md`, including
   "One real AI prompt, checked."
-- [ ] Make the notebook employer-facing: delete every **Instructions
-  (delete before you submit)** block, every `TODO`, and the "Questions my
-  analysis can answer" section. Replace them with your own explanations.
+- [ ] **Delete every Instructions (delete before you submit) block and
+  every `TODO` in `memo.md` and `REFLECTION.md`.** Keep the `##` headings
+  and your own answers.
+- [ ] **Make the notebook employer-facing: delete every Instructions
+  (delete before you submit) block, every `TODO`, and the "Questions my
+  analysis can answer" section.** Replace them with your own explanations.
   Read it top to bottom as a hiring manager would.
 - [ ] Run **Restart and Run All** and confirm every cell runs with no
   errors.
@@ -188,9 +193,9 @@ blocking me?
   used, and how to run it. Embed at least one chart from `images/` with
   `![caption](images/chart_name.png)`.
   - Common mistake: describing a chart in words instead of embedding it.
-- [ ] Delete `CHECKLIST_RUBRIC.md` (this file) and `PROJECT_OVERVIEW.md`.
+- [ ] **Delete `CHECKLIST_RUBRIC.md` (this file) and `PROJECT_OVERVIEW.md`.**
   They're school-facing and stay in the LMS.
-- [ ] Rename the folder: `git mv starter project`. Run the notebook once
+- [ ] **Rename the folder: `git mv starter project`.** Run the notebook once
   more from `project/` to confirm it still works.
 - [ ] Build your share-out deck using the slide list under Day 5. Use any
   slide tool you like: Google Slides, PowerPoint, Canva, or Keynote.
@@ -340,8 +345,8 @@ can understand it.*
 | Level | Points | Criteria |
 |---|---|---|
 | **Exceeds** | 4 | Meets, plus the Above & Beyond item for this skill: a 3-sentence executive summary at the top of `memo.md` that a busy reader could act on, with the answer, one number, and one recommendation. |
-| **Meets** | 3 | `README.md` is fully rewritten with every required section, including a statistical summary, recommendations, how AI was used, and an embedded chart. `memo.md` leads with a plain-language answer. The notebook is employer-facing: no instruction blocks or `TODO`s are left, and every section has the Fellow's own explanation. School-facing files are deleted, `starter/` is renamed to `project/`, and commit messages describe what changed. |
-| **Approaching** | 2 | The README is missing a required section, the memo buries the answer, or instruction blocks and `TODO`s are left in the notebook. |
+| **Meets** | 3 | `README.md` is fully rewritten with every required section, including a statistical summary, recommendations, how AI was used, and an embedded chart. `memo.md` leads with a plain-language answer. The notebook, `memo.md`, and `REFLECTION.md` are employer-facing: no instruction blocks or `TODO`s are left, and every section has the Fellow's own explanation. School-facing files are deleted, `starter/` is renamed to `project/`, and commit messages describe what changed. |
+| **Approaching** | 2 | The README is missing a required section, the memo buries the answer, or instruction blocks and `TODO`s are left in the notebook, memo, or reflection. |
 | **Below Expectations** | 1 | The README is still the template's setup instructions, or most sections are missing. |
 
 #### `presentations`
