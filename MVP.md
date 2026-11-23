@@ -4,7 +4,7 @@ This is the same list as the MVP checklist in the LMS and at the top of
 `CHECKLIST_RUBRIC.md`. The rubric at the bottom of that file has the full
 grading detail.
 
-- [ ] **Domain chosen** from `PROJECT_OVERVIEW.md`, other 3 data files deleted.
+- [ ] **Domain chosen** from `PROJECT_OVERVIEW.md`, **other 3 data files deleted**.
 - [ ] **Assumptions:** at least 2 QAR notes in `REFLECTION.md`.
 - [ ] **Part 1:** shape, data types, missing values, and duplicate rows
   checked.
@@ -29,14 +29,16 @@ grading detail.
 - [ ] **`REFLECTION.md`:** QAR assumptions and one real AI prompt,
   checked.
 - [ ] **Notebook runs** with Restart and Run All.
-- [ ] **Notebook is employer-facing:** every instruction block, `TODO`,
-  and the "Questions" section deleted, with your own explanation in every
+- [ ] **Notebook is employer-facing:** **every instruction block, `TODO`,
+  and the "Questions" section deleted**, with your own explanation in every
   section.
+- [ ] **Memo and reflection are clean:** **every Instructions block and
+  `TODO` deleted from `memo.md` and `REFLECTION.md`.**
 - [ ] **Your own `README.md`** with every section listed at the top of
   the template README (including Statistical summary, Recommendations, and How AI was used),
   and at least one chart embedded from `images/`.
-- [ ] **Clean submission:** `CHECKLIST_RUBRIC.md` and
-  `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.
+- [ ] **Clean submission:** **`CHECKLIST_RUBRIC.md` and
+  `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.**
 - [ ] **Public GitHub repo** with at least 4 commits, each with a
   descriptive message that says what changed.
 - [ ] **Share-out deck:** a 3-5 minute slide deck built from your
