@@ -29,8 +29,8 @@ SQL and with pandas connected to a database.
 
 Pick **one** of the four domains below. Each has its own stakeholder,
 business problem, and data file. Everyone uses the same notebook,
-`starter/analysis.ipynb`, and the same requirements. Once you choose,
-delete the other three data files.
+`starter/analysis.ipynb`, and the same requirements. **Once you choose,
+delete the other three data files.**
 
 `data/SOURCE.md` lists every column and every known data problem for
 each file. Read your file's section before you open the notebook.
@@ -136,9 +136,9 @@ least two QAR notes in `starter/REFLECTION.md`:
 - Charts saved in `images/`, at least one embedded in your README.
 - Your own `README.md` replacing this template's.
 - At least 4 commits with descriptive messages.
-- The notebook made employer-facing: every instruction block and `TODO`
-  deleted.
-- School-facing files deleted and `starter/` renamed to `project/`.
+- The notebook, memo, and reflection made employer-facing: **every
+  Instructions block and `TODO` deleted**.
+- **School-facing files deleted and `starter/` renamed to `project/`.**
 - `project/presentation.pdf`: a 3-5 minute share-out deck built from
   your README, memo and reflection. Make it in any slide tool (Google
   Slides, PowerPoint, Canva, Keynote) and export it as a PDF.
