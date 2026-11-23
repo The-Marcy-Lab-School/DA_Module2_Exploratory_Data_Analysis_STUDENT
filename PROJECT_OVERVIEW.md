@@ -134,7 +134,10 @@ least two QAR notes in `starter/REFLECTION.md`:
 - `starter/REFLECTION.md`: your QAR assumptions and one real AI prompt,
   checked.
 - Charts saved in `images/`, at least one embedded in your README.
-- Your own `README.md` replacing this template's.
+- Your own `README.md` replacing this template's, with these sections:
+  title and one-line summary, stakeholder and business problem, data,
+  analysis, statistical summary, findings, recommendations, how AI was
+  used, and how to run it.
 - At least 4 commits with descriptive messages.
 - The notebook, memo, and reflection made employer-facing: **every
   Instructions block and `TODO` deleted**.
