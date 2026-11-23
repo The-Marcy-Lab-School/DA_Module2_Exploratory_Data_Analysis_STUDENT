@@ -35,8 +35,16 @@ grading detail.
 - [ ] **Memo and reflection are clean:** **every Instructions block and
   `TODO` deleted from `memo.md` and `REFLECTION.md`.**
 - [ ] **Your own `README.md`** with every section listed at the top of
-  the template README (including Statistical summary, Recommendations, and How AI was used),
-  and at least one chart embedded from `images/`.
+  the template README:
+  - title and one-line summary
+  - stakeholder and business problem
+  - data
+  - analysis
+  - statistical summary
+  - findings, with at least one chart embedded from `images/`
+  - recommendations
+  - how AI was used
+  - how to run it
 - [ ] **Clean submission:** **`CHECKLIST_RUBRIC.md` and
   `PROJECT_OVERVIEW.md` deleted, and `starter/` renamed to `project/`.**
 - [ ] **Public GitHub repo** with at least 4 commits, each with a
